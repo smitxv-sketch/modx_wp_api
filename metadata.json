@@ -1,0 +1,5 @@
+{
+  "name": "MODX to Strapi Migration API Researcher",
+  "description": "A tool for exploring MODX database structures and designing a REST API for data synchronization with Strapi.",
+  "requestFramePermissions": []
+}
