@@ -1,0 +1,48 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: export_fields
+    // Document ID: {templateId}_{fieldName}
+    // Fields:
+    //   - templateId: number (required) - The MODX template ID
+    //   - fieldName: string (required) - The name of the field
+    //   - isExportable: boolean (required) - Whether to export this field
+    //   - updatedAt: string (optional) - ISO date string
+    //
+    // ===============================================================
+
+    // Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function hasOnlyAllowedFields(allowedFields) {
+      return request.resource.data.keys().hasOnly(allowedFields);
+    }
+
+    function hasRequiredFields(requiredFields) {
+      return request.resource.data.keys().hasAll(requiredFields);
+    }
+
+    function isValidExportField(data) {
+      return hasOnlyAllowedFields(['templateId', 'fieldName', 'isExportable', 'updatedAt']) &&
+             hasRequiredFields(['templateId', 'fieldName', 'isExportable']) &&
+             data.templateId is number &&
+             data.fieldName is string && data.fieldName.size() > 0 && data.fieldName.size() < 100 &&
+             data.isExportable is bool &&
+             (!('updatedAt' in data) || data.updatedAt is string);
+    }
+
+    match /export_fields/{fieldId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated() && isValidExportField(request.resource.data);
+      allow update: if isAuthenticated() && isValidExportField(request.resource.data);
+      allow delete: if isAuthenticated();
+    }
+  }
+}

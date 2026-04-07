@@ -1,17 +1,31 @@
 export interface Doctor {
-  id: number;
+  id: number | string;
+  city?: 'spb' | 'chel';
+  qms_id?: string;
   pagetitle: string;
   alias: string;
   rank: string;
-  experience: string;
+  experience: string | number;
   education: string;
   specialization: string;
-  prodoctorov_link: string;
+  prodoctorov_link?: string;
   photo: string;
-  seo: { title: string; description: string };
+  seo?: { title: string; description: string };
   reviews?: any[];
   locations?: any[];
   tvs?: any;
+
+  // WP specific fields
+  description?: string;
+  anonce?: string;
+  activities?: string;
+  education_history?: any[];
+  badges?: any[];
+  price?: number;
+  duration?: number;
+  is_child_doctor?: boolean;
+  is_adult_doctor?: boolean;
+  raw_data?: any;
 }
 
 export interface Service {

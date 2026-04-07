@@ -19,6 +19,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "express": "^4.22.1",
+    "firebase": "^12.11.0",
     "force-graph": "^1.51.2",
     "html2pdf.js": "^0.14.0",
     "lucide-react": "^0.546.0",

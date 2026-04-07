@@ -1,0 +1,36 @@
+{
+  "entities": {
+    "ExportField": {
+      "title": "Export Field Setting",
+      "description": "Stores whether a specific field for a specific template is selected for export.",
+      "type": "object",
+      "properties": {
+        "templateId": {
+          "type": "number",
+          "description": "The MODX template ID (e.g., 7 for Doctors, 6 for Services)"
+        },
+        "fieldName": {
+          "type": "string",
+          "description": "The name of the field or TV"
+        },
+        "isExportable": {
+          "type": "boolean",
+          "description": "Whether this field should be included in the dump"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": ["templateId", "fieldName", "isExportable"]
+    }
+  },
+  "firestore": {
+    "/export_fields/{fieldId}": {
+      "schema": {
+        "$ref": "#/entities/ExportField"
+      },
+      "description": "Settings for which fields to export."
+    }
+  }
+}

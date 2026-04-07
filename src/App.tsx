@@ -11,6 +11,8 @@ import { SeoAnalytics } from "./components/SeoAnalytics";
 import { EntityLists } from "./components/EntityLists";
 import { ErrorBoundary } from "./components/ErrorBoundary";
 import { DataExplorer } from "./components/DataExplorer";
+import { DbDumper } from "./components/DbDumper";
+import { SchemaBuilder } from "./components/SchemaBuilder";
 
 export default function App() {
   const [city, setCity] = useState<"spb" | "chelyabinsk">("spb");
@@ -28,6 +30,7 @@ export default function App() {
   const [selectedItem, setSelectedItem] = useState<{ type: string, data: any } | null>(null);
   const [currentDetail, setCurrentDetail] = useState<{ type: string, data: any } | null>(null);
   const [graphData, setGraphData] = useState<{ nodes: any[], links: any[] }>({ nodes: [], links: [] });
+  const [schemaAnalysis, setSchemaAnalysis] = useState<any[]>([]);
 
   const handleTabChange = (tab: string) => {
     setActiveTab(tab);
@@ -42,28 +45,58 @@ export default function App() {
       
       try {
         const timestamp = new Date().getTime();
-        const [docsRes, servRes, graphRes, logsRes, excludedRes, allGraphRes] = await Promise.all([
-          fetch(`/api/doctors?t=${timestamp}`),
-          fetch(`/api/services?t=${timestamp}`),
-          fetch(`/api/sync/full-graph?t=${timestamp}`),
-          fetch(`/api/sync/logs?t=${timestamp}`),
-          fetch(`/api/sync/settings/excluded?t=${timestamp}`),
-          fetch(`/api/sync/full-graph?include_excluded=true&t=${timestamp}`)
-        ]);
         
-        if (!servRes.ok) {
-          const errData = await servRes.json().catch(() => ({}));
-          throw new Error(errData.error || "Ошибка получения данных из БД.");
-        }
+        // Fetch schema analysis
+        fetch('/api/export/schema/analyze')
+          .then(res => res.json())
+          .then(data => {
+            if (data.success) {
+              setSchemaAnalysis(data.analysis);
+            }
+          })
+          .catch(err => console.error("Failed to fetch analysis:", err));
 
-        setDoctors(await docsRes.json());
-        setServices(await servRes.json());
-        setFullGraph(await graphRes.json());
-        setSyncLogs(await logsRes.json());
-        setExcludedIds(await excludedRes.json());
-        
-        const allGraph = await allGraphRes.json();
-        setAllResources(allGraph.entities?.resources || []);
+        if (city === "chelyabinsk") {
+          // Fetch Chelyabinsk data
+          const [docsRes] = await Promise.all([
+            fetch(`/api/chel/doctors?t=${timestamp}`)
+          ]);
+          
+          if (!docsRes.ok) {
+            const errData = await docsRes.json().catch(() => ({}));
+            throw new Error(errData.error || "Ошибка получения данных из БД Челябинска.");
+          }
+          
+          const chelDoctors = await docsRes.json();
+          setDoctors(chelDoctors);
+          setServices([]); // TODO: Fetch Chelyabinsk services
+          setFullGraph({ entities: { doctors: chelDoctors, services: [], locations: [] } });
+          setAllResources(chelDoctors);
+        } else {
+          // Fetch SPB data
+          const [docsRes, servRes, graphRes, logsRes, excludedRes, allGraphRes] = await Promise.all([
+            fetch(`/api/doctors?t=${timestamp}`),
+            fetch(`/api/services?t=${timestamp}`),
+            fetch(`/api/sync/full-graph?t=${timestamp}`),
+            fetch(`/api/sync/logs?t=${timestamp}`),
+            fetch(`/api/sync/settings/excluded?t=${timestamp}`),
+            fetch(`/api/sync/full-graph?include_excluded=true&t=${timestamp}`)
+          ]);
+          
+          if (!servRes.ok) {
+            const errData = await servRes.json().catch(() => ({}));
+            throw new Error(errData.error || "Ошибка получения данных из БД.");
+          }
+
+          setDoctors(await docsRes.json());
+          setServices(await servRes.json());
+          setFullGraph(await graphRes.json());
+          setSyncLogs(await logsRes.json());
+          setExcludedIds(await excludedRes.json());
+          
+          const allGraph = await allGraphRes.json();
+          setAllResources(allGraph.entities?.resources || []);
+        }
       } catch (err: any) {
         console.error(err);
         setError(err.message || "Произошла непредвиденная ошибка.");
@@ -178,7 +211,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#f5f5f5] text-[#141414] font-sans">
+    <div className="min-h-screen font-sans">
       <Header city={city} setCity={setCity} handleTabChange={handleTabChange} error={error} />
 
       <main className="p-4 sm:p-6 md:p-8 max-w-7xl mx-auto">
@@ -199,9 +232,16 @@ export default function App() {
           <div className="space-y-8">
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
               <EntityCard title="Врачи" count={doctors?.length || 0} icon={<Users size={24} />} onClick={() => handleTabChange("doctors")} />
+              <EntityCard title="Отзывы" count={fullGraph?.entities?.reviews?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("reviews")} />
               <EntityCard title="Услуги" count={services?.length || 0} icon={<Briefcase size={24} />} onClick={() => handleTabChange("services")} />
+              <EntityCard title="Программы" count={fullGraph?.entities?.programs?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("programs")} />
               <EntityCard title="Прайс-лист" count={fullGraph?.entities?.price_items?.length || 0} icon={<Tag size={24} />} onClick={() => handleTabChange("prices")} />
               <EntityCard title="Локации" count={fullGraph?.entities?.locations?.length || 0} icon={<MapPin size={24} />} onClick={() => handleTabChange("locations")} />
+              <EntityCard title="Филиалы" count={fullGraph?.entities?.branches?.length || 0} icon={<MapPin size={24} />} onClick={() => handleTabChange("branches")} />
+              <EntityCard title="Оборудование" count={fullGraph?.entities?.equipment?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("equipment")} />
+              <EntityCard title="Вакансии" count={fullGraph?.entities?.vacancies?.length || 0} icon={<Briefcase size={24} />} onClick={() => handleTabChange("vacancies")} />
+              <EntityCard title="Новости" count={fullGraph?.entities?.news?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("news")} />
+              <EntityCard title="Акции" count={fullGraph?.entities?.promotions?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("promotions")} />
               <EntityCard title="Статьи" count={fullGraph?.entities?.articles?.length || 0} icon={<FileText size={24} />} onClick={() => handleTabChange("articles")} />
               <EntityCard title="Медиафайлы" count={fullGraph?.entities?.media?.length || 0} icon={<ImageIcon size={24} />} onClick={() => handleTabChange("media")} />
               <EntityCard title="Редиректы" count={fullGraph?.entities?.redirects?.length || 0} icon={<ArrowRightLeft size={24} />} onClick={() => handleTabChange("redirects")} />
@@ -209,13 +249,15 @@ export default function App() {
               <EntityCard title="Граф связей" count={graphData.nodes.length} icon={<Share2 size={24} />} onClick={() => handleTabChange("graph")} />
               <EntityCard title="SEO Аналитика" count={fullGraph?.entities?.resources?.length || 0} icon={<Search size={24} />} onClick={() => handleTabChange("seo")} />
               <EntityCard title="Сырые данные" count={Object.keys(fullGraph?.entities || {}).length} icon={<Database size={24} />} onClick={() => handleTabChange("explorer")} />
+              <EntityCard title="Дамп БД" count={city === 'chelyabinsk' ? 1 : 0} icon={<Database size={24} />} onClick={() => handleTabChange("dump")} />
+              <EntityCard title="Схема (Strapi)" count={2} icon={<FileText size={24} />} onClick={() => handleTabChange("schema")} />
               <EntityCard title="Конфигурация" count={allResources.length} icon={<Settings size={24} />} onClick={() => handleTabChange("configuration")} />
             </div>
           </div>
         )}
 
         {/* Списки сущностей */}
-        {!loading && !error && viewMode === "list" && activeTab !== "overview" && activeTab !== "graph" && activeTab !== "configuration" && activeTab !== "seo" && activeTab !== "explorer" && (
+        {!loading && !error && viewMode === "list" && activeTab !== "overview" && activeTab !== "graph" && activeTab !== "configuration" && activeTab !== "seo" && activeTab !== "explorer" && activeTab !== "dump" && activeTab !== "schema" && (
           <EntityLists 
             activeTab={activeTab} 
             doctors={doctors} 
@@ -224,7 +266,16 @@ export default function App() {
             handleTabChange={handleTabChange} 
             setCurrentDetail={setCurrentDetail} 
             setViewMode={setViewMode} 
+            schemaAnalysis={schemaAnalysis}
           />
+        )}
+
+        {!loading && !error && activeTab === "dump" && (
+          <DbDumper />
+        )}
+
+        {!loading && !error && activeTab === "schema" && (
+          <SchemaBuilder doctors={doctors} services={services} fullGraph={fullGraph} />
         )}
 
         {/* Детальный просмотр */}
@@ -235,6 +286,8 @@ export default function App() {
               setViewMode={setViewMode} 
               setCurrentDetail={setCurrentDetail} 
               setSelectedItem={setSelectedItem} 
+              fullGraph={fullGraph}
+              schemaAnalysis={schemaAnalysis}
             />
           </ErrorBoundary>
         )}

@@ -11,6 +11,40 @@ async function startServer() {
   app.use(cors());
   app.use(express.json());
 
+  // Basic Auth Middleware for Vercel deployments
+  app.use((req, res, next) => {
+    const host = req.headers.host || '';
+    if (host.endsWith('.vercel.app')) {
+      const authHeader = req.headers.authorization;
+      const expectedPassword = process.env.SITE_PASSWORD;
+      
+      if (expectedPassword) {
+        if (!authHeader) {
+          res.setHeader('WWW-Authenticate', 'Basic realm="Secure Area"');
+          res.status(401).send('Auth required');
+          return;
+        }
+        
+        const basicAuth = authHeader.split(' ')[1];
+        try {
+          const decoded = Buffer.from(basicAuth, 'base64').toString('utf-8');
+          const [, pwd] = decoded.split(':');
+          
+          if (pwd !== expectedPassword) {
+            res.setHeader('WWW-Authenticate', 'Basic realm="Secure Area"');
+            res.status(401).send('Auth required');
+            return;
+          }
+        } catch (e) {
+          res.setHeader('WWW-Authenticate', 'Basic realm="Secure Area"');
+          res.status(401).send('Auth required');
+          return;
+        }
+      }
+    }
+    next();
+  });
+
   // API Routes
   app.use("/api", apiRouter);
 
