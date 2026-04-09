@@ -2,8 +2,43 @@ import { Router } from "express";
 import { pool, localDb, getPrefix, getExcludedIds } from "../db.js";
 import { getChelDoctors } from "../services/wpService.js";
 import { dbChel } from "../dbChel.js";
+import { exec } from 'child_process';
+import util from 'util';
+import fs from 'fs/promises';
+import path from 'path';
+
+const execAsync = util.promisify(exec);
 
 const router = Router();
+
+router.post("/export/run", async (req, res) => {
+  try {
+    const { stdout, stderr } = await execAsync('npx -y tsx scripts/generate_export.ts');
+    
+    const exportDir = path.join(process.cwd(), 'public', 'export');
+    let files = [];
+    try {
+      files = await fs.readdir(exportDir);
+    } catch (e) {
+      // Directory might not exist if script failed completely
+    }
+
+    res.json({
+      success: true,
+      message: "Export generated successfully",
+      output: stdout,
+      files: files.filter(f => f.endsWith('.json') || f.endsWith('.md')).map(f => `/export/${f}`)
+    });
+  } catch (error: any) {
+    console.error("Export generation error:", error);
+    res.status(500).json({ 
+      success: false, 
+      error: "Failed to generate export", 
+      details: error.message,
+      stderr: error.stderr
+    });
+  }
+});
 
 // API Endpoints
 router.get("/sync/settings/excluded", (req, res) => {
@@ -253,13 +288,16 @@ router.get("/sync/full-graph", async (req, res) => {
       }
       
       let value = row.value;
-      // Parse MIGX JSON fields if they exist
-      const migxFields = ['uslugiPrice', 'certificates', 'education_items', 'faq_services', 'slider', 'homeAbout', 'blogTags', 'blogBlocks', 'action_form', 'check_up', 'gift_images', 'photo_list', 'equipment_list'];
-      if (migxFields.includes(row.tv_name)) {
-        try {
-          value = JSON.parse(value);
-        } catch (e) {
-          value = [];
+      if (typeof value === 'string' && value.trim() !== '') {
+        const trimmed = value.trim();
+        if ((trimmed.startsWith('[') && trimmed.endsWith(']')) || (trimmed.startsWith('{') && trimmed.endsWith('}'))) {
+          try {
+            value = JSON.parse(trimmed);
+          } catch (e) {
+            // Keep as string if it's not valid JSON
+          }
+        } else if (trimmed.includes('||')) {
+          value = trimmed.split('||');
         }
       }
       
@@ -439,41 +477,35 @@ router.get("/export/schema/analyze", async (req, res) => {
 
     const [rows7] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 7 AND parent != 209 AND published = 1`);
     const [rowsReviews] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 7 AND parent = 209 AND published = 1`);
-    const [rows6] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template IN (6, 32) AND published = 1`);
+    const [rows6] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 6 AND published = 1`);
+    const [rows32] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 32 AND published = 1`);
     const [rows4] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 4 AND published = 1`);
     const [rows19] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 19 AND published = 1`);
     const [rows25] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 25 AND published = 1`);
     const [rows2] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 2 AND published = 1`);
     const [rows12] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 12 AND published = 1`);
-    const [rows17] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 17 AND published = 1`);
-    const [rowsEq] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template IN (8, 20, 29) AND published = 1`);
     const [rows3] = await pool.query(`SELECT COUNT(id) as c FROM ${prefix}site_content WHERE template = 3 AND published = 1`);
     
     const docCount7 = (rows7 as any[])[0];
     const docCountReviews = (rowsReviews as any[])[0];
     const docCount6 = (rows6 as any[])[0];
+    const docCount32 = (rows32 as any[])[0];
     const docCount4 = (rows4 as any[])[0];
     const docCount19 = (rows19 as any[])[0];
     const docCount25 = (rows25 as any[])[0];
     const docCount2 = (rows2 as any[])[0];
     const docCount12 = (rows12 as any[])[0];
-    const docCount17 = (rows17 as any[])[0];
-    const docCountEq = (rowsEq as any[])[0];
     const docCount3 = (rows3 as any[])[0];
     
     const totals = {
       7: docCount7.c + docCountReviews.c, // Reviews and Doctors share template 7
       6: docCount6.c,
-      32: docCount6.c,
+      32: docCount32.c,
       4: docCount4.c,
       19: docCount19.c,
       25: docCount25.c,
       2: docCount2.c,
       12: docCount12.c,
-      17: docCount17.c,
-      8: docCountEq.c,
-      20: docCountEq.c,
-      29: docCountEq.c,
       3: docCount3.c
     };
 

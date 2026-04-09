@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "pattern": "katalog/kompleksnye_programmy_po_kardiologii/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": "web",
+    "triggered": 104,
+    "triggered_first": "2023-01-16T18:44:33.000Z",
+    "triggered_last": "2026-04-01T21:16:09.000Z",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "pattern": "sotrudniki/Volkov-Konstantin-YUrevich/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 10,
+    "triggered_first": "2023-01-16T18:45:26.000Z",
+    "triggered_last": "2026-03-23T22:54:38.000Z",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "pattern": "sotrudniki/Glushchenko-Anna-Sergeevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 44,
+    "triggered_first": "2023-01-16T18:46:00.000Z",
+    "triggered_last": "2026-03-28T09:48:14.000Z",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "pattern": "sotrudniki/SHalaeva-Tatyana-Olegovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 12,
+    "triggered_first": "2023-02-28T20:02:44.000Z",
+    "triggered_last": "2026-03-02T15:17:32.000Z",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "pattern": "about/novosti/planiruete-dolgozhdannuju-beremennost/",
+    "target": "about/novosti/planiruete-dolgozhdannuyu-beremennost",
+    "context_key": null,
+    "triggered": 41,
+    "triggered_first": "2023-01-16T18:47:30.000Z",
+    "triggered_last": "2025-11-16T00:33:29.000Z",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "pattern": "about/novosti/priglashaem-na-vstrechu-s-psihologom/",
+    "target": "about/novosti/priglashaem-na-vstrechu-s-psixologom",
+    "context_key": null,
+    "triggered": 49,
+    "triggered_first": "2023-01-16T18:48:47.000Z",
+    "triggered_last": "2025-11-15T00:25:45.000Z",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "pattern": "sotrudniki/Kerroll-Natalya-Valerianovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 10,
+    "triggered_first": "2023-01-17T05:34:23.000Z",
+    "triggered_last": "2024-09-13T07:20:33.000Z",
+    "active": 1
+  },
+  {
+    "id": 8,
+    "pattern": "sotrudniki/Agnaeva-Alana-Olegovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 39,
+    "triggered_first": "2023-01-22T01:57:09.000Z",
+    "triggered_last": "2026-03-22T09:39:19.000Z",
+    "active": 1
+  },
+  {
+    "id": 9,
+    "pattern": "sotrudniki/Gerasimova-Elena-Anatolevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 379,
+    "triggered_first": "2023-05-02T04:20:31.000Z",
+    "triggered_last": "2026-04-09T06:43:43.000Z",
+    "active": 1
+  },
+  {
+    "id": 10,
+    "pattern": "about/novosti/priem-reproduktologa-v-shusharah/",
+    "target": "about/novosti/priem-reproduktologa-v-shusharax",
+    "context_key": null,
+    "triggered": 46,
+    "triggered_first": "2023-01-16T18:50:09.000Z",
+    "triggered_last": "2025-10-25T21:56:38.000Z",
+    "active": 1
+  },
+  {
+    "id": 11,
+    "pattern": "sotrudniki/Aletin-Roman-Romanovich",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 285,
+    "triggered_first": "2023-05-07T21:25:32.000Z",
+    "triggered_last": "2026-04-03T17:57:44.000Z",
+    "active": 1
+  },
+  {
+    "id": 12,
+    "pattern": "sotrudniki/Akimenko-Tatyana-Igorevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 8,
+    "triggered_first": "2023-01-17T20:02:31.000Z",
+    "triggered_last": "2023-05-27T16:20:46.000Z",
+    "active": 1
+  },
+  {
+    "id": 13,
+    "pattern": "katalog/kompleksnaa_programma_zabota_o_roditelah_premium/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 70,
+    "triggered_first": "2023-01-16T19:45:32.000Z",
+    "triggered_last": "2026-02-07T17:20:32.000Z",
+    "active": 1
+  },
+  {
+    "id": 14,
+    "pattern": "katalog/kriokonservacia_oocitov_1_krionositel_special_nyj_tarif/",
+    "target": "katalog/kriokonservacia/",
+    "context_key": null,
+    "triggered": 4,
+    "triggered_first": "2023-03-29T19:24:28.000Z",
+    "triggered_last": "2025-05-17T00:10:02.000Z",
+    "active": 1
+  },
+  {
+    "id": 15,
+    "pattern": "sotrudniki/Aletin-Roman-Romanovich/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 12,
+    "triggered_first": "2023-01-16T23:24:22.000Z",
+    "triggered_last": "2026-03-21T08:32:42.000Z",
+    "active": 1
+  },
+  {
+    "id": 16,
+    "pattern": "katalog/priem_gastroenterologa_vyssej_kategorii/",
+    "target": "katalog/gastroenterologiya_7/",
+    "context_key": null,
+    "triggered": 45,
+    "triggered_first": "2023-01-21T00:32:42.000Z",
+    "triggered_last": "2026-01-21T23:16:36.000Z",
+    "active": 1
+  },
+  {
+    "id": 17,
+    "pattern": "sotrudniki/Tachovali-Taufik-Mohamedovich/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 238,
+    "triggered_first": "2023-01-17T02:18:40.000Z",
+    "triggered_last": "2026-04-02T09:27:59.000Z",
+    "active": 1
+  },
+  {
+    "id": 18,
+    "pattern": "sotrudniki/Terenteva-Kseniya-Evgenevna ",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 106,
+    "triggered_first": "2023-12-25T10:08:09.000Z",
+    "triggered_last": "2026-03-31T18:05:06.000Z",
+    "active": 1
+  },
+  {
+    "id": 19,
+    "pattern": "sotrudniki/Terenteva-Kseniya-Evgenevna/ ",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 14,
+    "triggered_first": "2023-03-06T20:48:33.000Z",
+    "triggered_last": "2025-11-17T23:53:04.000Z",
+    "active": 1
+  },
+  {
+    "id": 20,
+    "pattern": "sotrudniki/Akimenko-Tatyana-Igorevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 359,
+    "triggered_first": "2023-03-01T16:52:56.000Z",
+    "triggered_last": "2026-04-09T06:45:24.000Z",
+    "active": 1
+  },
+  {
+    "id": 21,
+    "pattern": "sotrudniki/Slavik-Anastasiya-Halitovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 97,
+    "triggered_first": "2023-01-23T10:59:53.000Z",
+    "triggered_last": "2026-03-14T20:59:54.000Z",
+    "active": 1
+  },
+  {
+    "id": 22,
+    "pattern": "sotrudniki/YAkovlev-Andrej-Nikolaevich",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 2018,
+    "triggered_first": "2023-10-25T12:14:25.000Z",
+    "triggered_last": "2026-04-09T08:41:29.000Z",
+    "active": 1
+  },
+  {
+    "id": 23,
+    "pattern": "sotrudniki/Volkova-Marina-Gennadevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 1160,
+    "triggered_first": "2023-10-25T12:16:52.000Z",
+    "triggered_last": "2026-04-09T06:09:21.000Z",
+    "active": 1
+  },
+  {
+    "id": 24,
+    "pattern": "sotrudniki/Evstigneeva-Nadezhda-Borisovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 12,
+    "triggered_first": "2023-01-28T19:20:02.000Z",
+    "triggered_last": "2025-06-08T09:48:08.000Z",
+    "active": 1
+  },
+  {
+    "id": 25,
+    "pattern": "sotrudniki/CHernaya-YUliya-Vitalevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 22,
+    "triggered_first": "2023-01-19T07:43:31.000Z",
+    "triggered_last": "2026-03-18T16:37:56.000Z",
+    "active": 1
+  },
+  {
+    "id": 26,
+    "pattern": "sotrudniki/Volkov-Konstantin-YUrevich",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 904,
+    "triggered_first": "2023-10-25T12:23:28.000Z",
+    "triggered_last": "2026-04-09T02:45:02.000Z",
+    "active": 1
+  },
+  {
+    "id": 27,
+    "pattern": "sotrudniki/Volkova-Marina-Gennadevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 7,
+    "triggered_first": "2023-01-30T03:30:27.000Z",
+    "triggered_last": "2025-06-19T21:51:07.000Z",
+    "active": 1
+  },
+  {
+    "id": 28,
+    "pattern": "sotrudniki/Glushchenko-Anna-Sergeevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 24,
+    "triggered_first": "2023-02-18T00:21:45.000Z",
+    "triggered_last": "2026-01-29T00:20:53.000Z",
+    "active": 1
+  },
+  {
+    "id": 29,
+    "pattern": "sotrudniki/CHernaya-YUliya-Vitalevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 53,
+    "triggered_first": "2023-01-17T21:44:22.000Z",
+    "triggered_last": "2025-09-07T06:42:58.000Z",
+    "active": 1
+  },
+  {
+    "id": 30,
+    "pattern": "sotrudniki/SHevchenko-Viktoriya-Viktorovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 579,
+    "triggered_first": "2023-05-27T16:34:56.000Z",
+    "triggered_last": "2026-03-30T16:41:49.000Z",
+    "active": 1
+  },
+  {
+    "id": 31,
+    "pattern": "sotrudniki/Evstigneeva-Nadezhda-Borisovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 16,
+    "triggered_first": "2023-03-31T14:13:41.000Z",
+    "triggered_last": "2025-10-09T06:45:25.000Z",
+    "active": 1
+  },
+  {
+    "id": 32,
+    "pattern": "sotrudniki/ZHdanovich-Konstantin-Viktorovich",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 73,
+    "triggered_first": "2023-02-03T02:19:55.000Z",
+    "triggered_last": "2026-03-29T17:46:58.000Z",
+    "active": 1
+  },
+  {
+    "id": 33,
+    "pattern": "sotrudniki/SHalaeva-Tatyana-Olegovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 28,
+    "triggered_first": "2023-01-25T00:39:26.000Z",
+    "triggered_last": "2026-03-18T20:09:42.000Z",
+    "active": 1
+  },
+  {
+    "id": 34,
+    "pattern": "sotrudniki/Slavik-Anastasiya-Halitovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 34,
+    "triggered_first": "2023-02-12T11:27:33.000Z",
+    "triggered_last": "2025-12-28T11:31:14.000Z",
+    "active": 1
+  },
+  {
+    "id": 35,
+    "pattern": "sotrudniki/Gerasimova-Elena-Anatolevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 6,
+    "triggered_first": "2023-01-17T08:59:41.000Z",
+    "triggered_last": "2023-03-09T01:31:02.000Z",
+    "active": 1
+  },
+  {
+    "id": 36,
+    "pattern": "sotrudniki/SHafranyuk-Olesya-Vadimovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 13,
+    "triggered_first": "2023-01-28T19:15:12.000Z",
+    "triggered_last": "2026-01-17T13:22:03.000Z",
+    "active": 1
+  },
+  {
+    "id": 37,
+    "pattern": "sotrudniki/Foos-Oksana-Vyacheslavovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 412,
+    "triggered_first": "2023-05-02T06:15:49.000Z",
+    "triggered_last": "2026-04-09T06:40:48.000Z",
+    "active": 1
+  },
+  {
+    "id": 38,
+    "pattern": "sotrudniki/ZHdanovich-Kristina-Vitalevna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 5,
+    "triggered_first": "2023-02-25T20:46:34.000Z",
+    "triggered_last": "2024-09-15T12:28:33.000Z",
+    "active": 1
+  },
+  {
+    "id": 39,
+    "pattern": "sotrudniki/YAkovlev-Andrej-Nikolaevich/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 11,
+    "triggered_first": "2023-01-31T11:05:57.000Z",
+    "triggered_last": "2026-01-27T19:36:41.000Z",
+    "active": 1
+  },
+  {
+    "id": 40,
+    "pattern": "sotrudniki/SHafranyuk-Olesya-Vadimovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 196,
+    "triggered_first": "2023-05-30T06:03:05.000Z",
+    "triggered_last": "2026-04-01T00:33:05.000Z",
+    "active": 1
+  },
+  {
+    "id": 41,
+    "pattern": "sotrudniki/Agnaeva-Alana-Olegovna",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 223,
+    "triggered_first": "2023-03-04T01:20:17.000Z",
+    "triggered_last": "2026-04-03T09:40:12.000Z",
+    "active": 1
+  },
+  {
+    "id": 42,
+    "pattern": "sotrudniki/Tachovali-Taufik-Mohamedovich",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 19,
+    "triggered_first": "2023-05-27T16:10:17.000Z",
+    "triggered_last": "2026-04-06T13:32:31.000Z",
+    "active": 1
+  },
+  {
+    "id": 43,
+    "pattern": "sotrudniki/SHevchenko-Viktoriya-Viktorovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 17,
+    "triggered_first": "2023-01-18T19:43:56.000Z",
+    "triggered_last": "2025-11-25T21:04:14.000Z",
+    "active": 1
+  },
+  {
+    "id": 44,
+    "pattern": "sotrudniki/Kerroll-Natalya-Valerianovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 18,
+    "triggered_first": "2023-01-17T05:34:23.000Z",
+    "triggered_last": "2026-01-18T09:42:07.000Z",
+    "active": 1
+  },
+  {
+    "id": 45,
+    "pattern": "sotrudniki/Foos-Oksana-Vyacheslavovna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 6,
+    "triggered_first": "2023-01-20T20:05:33.000Z",
+    "triggered_last": "2023-03-09T12:34:53.000Z",
+    "active": 1
+  },
+  {
+    "id": 46,
+    "pattern": "sotrudniki/ZHdanovich-Kristina-Vitalevna/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 18,
+    "triggered_first": "2023-01-18T22:22:36.000Z",
+    "triggered_last": "2025-11-10T21:13:52.000Z",
+    "active": 1
+  },
+  {
+    "id": 47,
+    "pattern": "sotrudniki/ZHdanovich-Konstantin-Viktorovich/",
+    "target": "sotrudniki/",
+    "context_key": null,
+    "triggered": 24,
+    "triggered_first": "2023-02-05T11:06:16.000Z",
+    "triggered_last": "2026-01-27T08:36:50.000Z",
+    "active": 1
+  },
+  {
+    "id": 48,
+    "pattern": "katalog/123",
+    "target": "katalog/",
+    "context_key": null,
+    "triggered": 18,
+    "triggered_first": "2023-01-16T19:02:40.000Z",
+    "triggered_last": "2025-03-22T18:42:40.000Z",
+    "active": 1
+  },
+  {
+    "id": 49,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_4_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 31,
+    "triggered_first": "2023-01-28T18:30:16.000Z",
+    "triggered_last": "2025-12-10T22:05:57.000Z",
+    "active": 1
+  },
+  {
+    "id": 50,
+    "pattern": "katalog/fibrogastroskopia_diagnosticeskaa_na_ekspertnoj_videosisteme_priem_gastroenterologa/",
+    "target": "katalog/gastroenterologiya_7/",
+    "context_key": null,
+    "triggered": 40,
+    "triggered_first": "2023-01-28T01:19:42.000Z",
+    "triggered_last": "2025-12-27T23:57:51.000Z",
+    "active": 1
+  },
+  {
+    "id": 51,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_1_st/ ",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 54,
+    "triggered_first": "2023-01-28T18:28:52.000Z",
+    "triggered_last": "2026-04-03T20:23:34.000Z",
+    "active": 1
+  },
+  {
+    "id": 52,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_3_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 63,
+    "triggered_first": "2023-01-28T18:29:49.000Z",
+    "triggered_last": "2026-04-08T07:42:10.000Z",
+    "active": 1
+  },
+  {
+    "id": 53,
+    "pattern": "katalog/kompleksnaa_programma_nadeznoe_serdce_standart/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 29,
+    "triggered_first": "2023-01-29T05:40:49.000Z",
+    "triggered_last": "2026-01-20T01:29:11.000Z",
+    "active": 1
+  },
+  {
+    "id": 54,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_2_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 40,
+    "triggered_first": "2023-01-20T15:32:44.000Z",
+    "triggered_last": "2025-12-04T10:56:07.000Z",
+    "active": 1
+  },
+  {
+    "id": 55,
+    "pattern": "katalog/kompleksnaa_programma_zizn_bez_aritmii/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 39,
+    "triggered_first": "2023-01-18T05:35:10.000Z",
+    "triggered_last": "2025-12-16T16:09:08.000Z",
+    "active": 1
+  },
+  {
+    "id": 56,
+    "pattern": "about/novosti/den-otkrytyh-dverej-jeko-kliniki-istochnik/",
+    "target": "about/novosti/den-otkryityix-dverej-eko-kliniki-istochnik",
+    "context_key": null,
+    "triggered": 139,
+    "triggered_first": "2023-01-17T17:49:40.000Z",
+    "triggered_last": "2026-04-04T12:28:55.000Z",
+    "active": 1
+  },
+  {
+    "id": 57,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_orgalutran_0_25_mg_1_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 42,
+    "triggered_first": "2023-01-28T18:35:59.000Z",
+    "triggered_last": "2026-01-27T21:13:08.000Z",
+    "active": 1
+  },
+  {
+    "id": 58,
+    "pattern": "katalog/kompleksnaa_programma_zizn_bez_gipertonii/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 51,
+    "triggered_first": "2023-01-26T12:45:35.000Z",
+    "triggered_last": "2025-12-28T14:34:22.000Z",
+    "active": 1
+  },
+  {
+    "id": 59,
+    "pattern": "katalog/kompleksnaa_programma_nadeznoe_serdce_premium/ ",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 45,
+    "triggered_first": "2023-01-18T01:16:28.000Z",
+    "triggered_last": "2025-11-27T23:40:02.000Z",
+    "active": 1
+  },
+  {
+    "id": 60,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_6_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 130,
+    "triggered_first": "2023-01-26T12:11:50.000Z",
+    "triggered_last": "2026-04-03T20:24:26.000Z",
+    "active": 1
+  },
+  {
+    "id": 61,
+    "pattern": "katalog/kriokonservacia_spermy_special_nyj_tarif/",
+    "target": "katalog/kriokonservacia/",
+    "context_key": null,
+    "triggered": 17,
+    "triggered_first": "2023-02-04T15:56:46.000Z",
+    "triggered_last": "2026-02-14T05:05:47.000Z",
+    "active": 1
+  },
+  {
+    "id": 62,
+    "pattern": "katalog/razmorozka_testikularnogo_bioptata_1_krionositel/",
+    "target": "katalog/kriokonservacia/",
+    "context_key": null,
+    "triggered": 16,
+    "triggered_first": "2023-04-01T15:10:54.000Z",
+    "triggered_last": "2025-09-25T00:20:58.000Z",
+    "active": 1
+  },
+  {
+    "id": 63,
+    "pattern": "about/novosti/realnye-kejsy-kak-istochnik-vdohnovenija/",
+    "target": "about/novosti/realnyie-kejsyi-kak-istochnik-vdoxnoveniya",
+    "context_key": null,
+    "triggered": 32,
+    "triggered_first": "2023-02-02T05:26:45.000Z",
+    "triggered_last": "2025-10-26T09:14:04.000Z",
+    "active": 1
+  },
+  {
+    "id": 64,
+    "pattern": "katalog/stimulacia_superovulacii_preparatom_humog_150_me_8_st/",
+    "target": "katalog/indukcia_superovulacii/",
+    "context_key": null,
+    "triggered": 52,
+    "triggered_first": "2023-01-28T18:30:55.000Z",
+    "triggered_last": "2026-04-03T17:28:30.000Z",
+    "active": 1
+  },
+  {
+    "id": 65,
+    "pattern": "katalog/klassiceskaa_programma_eko/",
+    "target": "katalog/programmy_eko/",
+    "context_key": null,
+    "triggered": 151,
+    "triggered_first": "2023-01-22T02:17:33.000Z",
+    "triggered_last": "2026-04-03T20:30:02.000Z",
+    "active": 1
+  },
+  {
+    "id": 66,
+    "pattern": "katalog/kriokonservacia_spermy/",
+    "target": "katalog/kriokonservacia/",
+    "context_key": null,
+    "triggered": 5,
+    "triggered_first": "2023-02-12T07:33:25.000Z",
+    "triggered_last": "2025-05-06T16:22:40.000Z",
+    "active": 1
+  },
+  {
+    "id": 67,
+    "pattern": "katalog/kompleksnaa_programma_zizn_bez_boli_v_serdce/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 39,
+    "triggered_first": "2023-02-01T12:11:05.000Z",
+    "triggered_last": "2025-11-27T20:12:37.000Z",
+    "active": 1
+  },
+  {
+    "id": 68,
+    "pattern": "katalog/kompleksnaa_programma_zabota_o_roditelah/",
+    "target": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/",
+    "context_key": null,
+    "triggered": 37,
+    "triggered_first": "2023-01-23T19:04:57.000Z",
+    "triggered_last": "2026-01-24T03:44:54.000Z",
+    "active": 1
+  },
+  {
+    "id": 69,
+    "pattern": "Страница не найдена",
+    "target": "/",
+    "context_key": null,
+    "triggered": 0,
+    "triggered_first": null,
+    "triggered_last": null,
+    "active": 1
+  },
+  {
+    "id": 70,
+    "pattern": "katalog/ultrazvukovaya_diagnostika_akusherstvo_523",
+    "target": "https://cispb.com/katalog/skrining-pri-beremennosti/",
+    "context_key": null,
+    "triggered": 422,
+    "triggered_first": "2024-04-25T19:19:07.000Z",
+    "triggered_last": "2026-04-03T13:30:01.000Z",
+    "active": 1
+  },
+  {
+    "id": 71,
+    "pattern": "katalog/diagnostika_beremennosti/",
+    "target": "katalog/uzi_pri_beremennosti/",
+    "context_key": null,
+    "triggered": 1408,
+    "triggered_first": "2024-11-07T16:26:43.000Z",
+    "triggered_last": "2026-04-06T08:22:28.000Z",
+    "active": 1
+  },
+  {
+    "id": 72,
+    "pattern": "katalog/ekstrakorporalnoe_oplodotvorenie/",
+    "target": "https://cispb.com/katalog/otdelenie-vrt/",
+    "context_key": null,
+    "triggered": 15410,
+    "triggered_first": "2024-11-11T16:44:11.000Z",
+    "triggered_last": "2026-04-09T12:36:46.000Z",
+    "active": 1
+  },
+  {
+    "id": 73,
+    "pattern": "katalog/ekstrakorporalnoe_oplodotvorenie/genetika/",
+    "target": "https://cispb.com/katalog/otdelenie-vrt/genetika/",
+    "context_key": null,
+    "triggered": 82,
+    "triggered_first": "2024-11-11T16:46:39.000Z",
+    "triggered_last": "2025-11-23T20:41:42.000Z",
+    "active": 1
+  },
+  {
+    "id": 75,
+    "pattern": "katalog/prenatalnaya-diagnostika/",
+    "target": "katalog/uzi-pri-beremennosti/",
+    "context_key": null,
+    "triggered": 1312,
+    "triggered_first": "2024-11-19T16:37:01.000Z",
+    "triggered_last": "2026-04-07T04:25:25.000Z",
+    "active": 1
+  },
+  {
+    "id": 76,
+    "pattern": "katalog/uzi_pri_beremennosti/",
+    "target": "katalog/uzi-pri-beremennosti/",
+    "context_key": null,
+    "triggered": 1943,
+    "triggered_first": "2024-11-19T16:46:06.000Z",
+    "triggered_last": "2026-04-06T18:14:42.000Z",
+    "active": 1
+  },
+  {
+    "id": 77,
+    "pattern": "katalog/lechenie-metodom-vrt/spermogramma/spermogramma-mar-test/",
+    "target": "katalog/lechenie-metodom-vrt/spermogramma/spermogramma-i-mar-test/",
+    "context_key": null,
+    "triggered": 257,
+    "triggered_first": "2024-11-26T15:32:23.000Z",
+    "triggered_last": "2026-03-03T17:51:03.000Z",
+    "active": 1
+  },
+  {
+    "id": 78,
+    "pattern": "katalog/izmerenie_skorosti_potoka_moci_uroflourometria-2/",
+    "target": "katalog/izmerenie_skorosti_potoka_moci_uroflourometria/",
+    "context_key": null,
+    "triggered": 350,
+    "triggered_first": "2025-02-04T00:52:20.000Z",
+    "triggered_last": "2026-04-09T06:05:52.000Z",
+    "active": 1
+  }
+]

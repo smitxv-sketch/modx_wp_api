@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "username": "pro",
+    "active": 1,
+    "fullname": "Администратор по умолчанию",
+    "email": "ifsusu@mail.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 2,
+    "username": "manager",
+    "active": 1,
+    "fullname": "manager",
+    "email": "manager@likeandlike.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 3,
+    "username": "n.krasikov",
+    "active": 1,
+    "fullname": "Красиков Никита",
+    "email": "n.krasikov@cispb.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 4,
+    "username": "an.tkachenko",
+    "active": 1,
+    "fullname": "Ткаченко Анастасия",
+    "email": "an.tkachenko@ci74.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 5,
+    "username": "a.tuseeva",
+    "active": 1,
+    "fullname": "Тусеева Анастасия",
+    "email": "a.tuseeva@cispb.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 6,
+    "username": "n.karavaeva",
+    "active": 1,
+    "fullname": "Караваева Наталья",
+    "email": "n.karavaeva@cispb.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 7,
+    "username": "ifsusu",
+    "active": 1,
+    "fullname": "Erik",
+    "email": "ifsusu@mail.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 8,
+    "username": "erik",
+    "active": 1,
+    "fullname": "",
+    "email": "ifsusu@mail.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  },
+  {
+    "id": 9,
+    "username": "ct",
+    "active": 1,
+    "fullname": "",
+    "email": "begoodwill@mail.ru",
+    "phone": "",
+    "mobilephone": "",
+    "extended": "[]"
+  }
+]

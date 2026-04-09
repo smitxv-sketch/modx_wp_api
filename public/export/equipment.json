@@ -1,0 +1,291 @@
+[
+  {
+    "id": 2,
+    "pagetitle": "О клинике",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "o-klinike",
+    "uri": "about/",
+    "parent": 0,
+    "template": 20,
+    "menuindex": 2,
+    "isfolder": 1,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1651645800,
+    "editedon": 1727431767,
+    "publishedon": 1651645800,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Клиника «Источник» — современная многопрофильная клиника, которая оказывает качественную медицинскую помощь более чем по 50 направлениям.\r\n",
+      "equipment_list": [
+        {
+          "MIGX_id": "15",
+          "equipment_name": "Система УЗИ Acuson Х600",
+          "equipment_i": "Система УЗИ Acuson Х600.jpg"
+        },
+        {
+          "MIGX_id": "16",
+          "equipment_name": "Система УЗИ Acuson S2000",
+          "equipment_i": "Система УЗИ Acuson S2000.jpg"
+        },
+        {
+          "MIGX_id": "17",
+          "equipment_name": "Система УЗИ Voluson Е10",
+          "equipment_i": "Система УЗИ Voluson Е10.jpg"
+        },
+        {
+          "MIGX_id": "18",
+          "equipment_name": "Эндоскопическая стойка Pentax OPTIVISTA EPK-i7010",
+          "equipment_i": "Эндоскопическая стойка Pentax OPTIVISTA EPK-i7010.jpg"
+        },
+        {
+          "MIGX_id": "19",
+          "equipment_name": "Микроскоп Olympus IX53, IX53P1F",
+          "equipment_i": "Микроскоп Olympus IX53, IX53P1F.jpg"
+        },
+        {
+          "MIGX_id": "20",
+          "equipment_name": "Микроскоп Olympus IX73",
+          "equipment_i": "Микроскоп Olympus IX73mini.jpg"
+        },
+        {
+          "MIGX_id": "21",
+          "equipment_name": "Микроскоп Olympus SZX16",
+          "equipment_i": "Микроскоп Olympus SZX16.jpg"
+        },
+        {
+          "MIGX_id": "22",
+          "equipment_name": "Прямой микроскоп Olympus BX43",
+          "equipment_i": "Прямой микроскоп Olympus BX43.jpg"
+        }
+      ],
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_1 (1).jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_1 (1).jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "textContent": "<p>Клиника «Источник» — современная многопрофильная клиника, которая оказывает качественную медицинскую помощь более чем по <a href=\"katalog/\">50 направлениям</a>.</p>\r\n<div class=\"yamb-text-card__paragraph\">\r\n<div class=\"yamb-text-card__line\">В нашей клинике работают опытные врачи:</div>\r\n</div>\r\n<ul>\r\n<li>\r\n<p>70% врачей высшей категории и с ученой степенью</p>\r\n</li>\r\n</ul>\r\n<p>Для точной диагностики взрослых и детей у нас установлено современное медицинское оборудование. Сервис и комфорт, который мы предусмотрели для наших пациентов, оправдывает самые смелые ожидания.</p>\r\n<h3>Клиника «Источник» — клиника, которую рекомендуют!</h3>\r\n<p> </p>",
+      "title": "О клинике «Источник»"
+    }
+  },
+  {
+    "id": 208,
+    "pagetitle": "Услуги",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "uslugi-i-czenyi",
+    "uri": "katalog/",
+    "parent": 0,
+    "template": 8,
+    "menuindex": 3,
+    "isfolder": 1,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1653967897,
+    "editedon": 1755012346,
+    "publishedon": 1653967860,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Услуги клиники Источник в Санкт-Петербурге | Консультации лучших врачей |  Цены | Отзывы клиентов | Запись онлайн круглосуточно ",
+      "title": "Каталог услуг: диагностика, лечение, анализы — Клиника «Источник», Санкт-Петербург"
+    }
+  },
+  {
+    "id": 476,
+    "pagetitle": "Тест",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "test",
+    "uri": "sotrudniki/test",
+    "parent": 21,
+    "template": 8,
+    "menuindex": 19,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 1,
+    "createdon": 1684161288,
+    "editedon": 1684161382,
+    "publishedon": 1684161240,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 538,
+    "pagetitle": "Копия Тест",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "kopiya-test",
+    "uri": "sotrudniki/ultrazvukovaya-diagnostika/kopiya-test",
+    "parent": 534,
+    "template": 8,
+    "menuindex": 2,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 1,
+    "createdon": 1705586223,
+    "editedon": 1709061812,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 680,
+    "pagetitle": "VI научно-практическая конференция с международным участием «Репродуктивная медицина: краеугольные вопросы»",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "conf-eco",
+    "uri": "conf-eco",
+    "parent": 0,
+    "template": 29,
+    "menuindex": 19,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1744123324,
+    "editedon": 1744190409,
+    "publishedon": 1715928360,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<p>!!!!!!</p>"
+    }
+  },
+  {
+    "id": 682,
+    "pagetitle": "VI научно-практическая конференция \"Репродуктивная медицина: краеугольные вопросы\"",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "conf2025",
+    "uri": "about/novosti/conf2025",
+    "parent": 115,
+    "template": 29,
+    "menuindex": 127,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1744718687,
+    "editedon": 1744725526,
+    "publishedon": 1744718640,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<p>.</p>"
+    }
+  }
+]

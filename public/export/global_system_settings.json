@@ -1,0 +1,1862 @@
+[
+  {
+    "key": "access_category_enabled",
+    "value": "1"
+  },
+  {
+    "key": "access_context_enabled",
+    "value": "1"
+  },
+  {
+    "key": "access_policies_version",
+    "value": "1.0"
+  },
+  {
+    "key": "access_resource_group_enabled",
+    "value": "1"
+  },
+  {
+    "key": "ace.fold_widgets",
+    "value": "1"
+  },
+  {
+    "key": "ace.font_size",
+    "value": "13px"
+  },
+  {
+    "key": "ace.grow",
+    "value": ""
+  },
+  {
+    "key": "ace.height",
+    "value": ""
+  },
+  {
+    "key": "ace.html_elements_mime",
+    "value": ""
+  },
+  {
+    "key": "ace.show_invisibles",
+    "value": "0"
+  },
+  {
+    "key": "ace.snippets",
+    "value": "snippet image\n\t{$${1}img | phpthumbon : \"w=1920&h=500&zc=1\"}\nsnippet image2\n\t{$${1}_pls[\"tv.image\"] | phpthumbon : \"w=340&h=252&zc=1\"}\nsnippet pagetitle\n\t{$${1}modx->resource.pagetitle}\nsnippet content\n\t{$${1}modx->resource.content}\nsnippet link\n\t{$${1}modx->makeUrl(1)}\nsnippet link2\n\t{$${1}modx->makeUrl($${1}id)}\nsnippet menu\n\t{$${1}modx->runSnippet('pdoMenu', ['parents' => 0,'level' => 1])}\nsnippet inc\n\t{include 'head'}\nsnippet config\n\t{$${1}modx->config.site_start}"
+  },
+  {
+    "key": "ace.soft_tabs",
+    "value": "1"
+  },
+  {
+    "key": "ace.tab_size",
+    "value": "4"
+  },
+  {
+    "key": "ace.theme",
+    "value": "chrome"
+  },
+  {
+    "key": "ace.word_wrap",
+    "value": ""
+  },
+  {
+    "key": "allow_forward_across_contexts",
+    "value": ""
+  },
+  {
+    "key": "allow_manager_login_forgot_password",
+    "value": "1"
+  },
+  {
+    "key": "allow_multiple_emails",
+    "value": "1"
+  },
+  {
+    "key": "allow_tags_in_post",
+    "value": ""
+  },
+  {
+    "key": "allow_tv_eval",
+    "value": "1"
+  },
+  {
+    "key": "anonymous_sessions",
+    "value": "1"
+  },
+  {
+    "key": "archive_with",
+    "value": ""
+  },
+  {
+    "key": "automatic_alias",
+    "value": "1"
+  },
+  {
+    "key": "automatic_template_assignment",
+    "value": "parent"
+  },
+  {
+    "key": "auto_check_pkg_updates",
+    "value": "1"
+  },
+  {
+    "key": "auto_check_pkg_updates_cache_expire",
+    "value": "15"
+  },
+  {
+    "key": "auto_isfolder",
+    "value": "1"
+  },
+  {
+    "key": "auto_menuindex",
+    "value": "1"
+  },
+  {
+    "key": "base_help_url",
+    "value": "//docs.modx.com/help/"
+  },
+  {
+    "key": "blocked_minutes",
+    "value": "60"
+  },
+  {
+    "key": "cache_action_map",
+    "value": "1"
+  },
+  {
+    "key": "cache_alias_map",
+    "value": "1"
+  },
+  {
+    "key": "cache_context_settings",
+    "value": "1"
+  },
+  {
+    "key": "cache_db",
+    "value": "1"
+  },
+  {
+    "key": "cache_db_expires",
+    "value": "3600"
+  },
+  {
+    "key": "cache_db_session",
+    "value": "0"
+  },
+  {
+    "key": "cache_db_session_lifetime",
+    "value": ""
+  },
+  {
+    "key": "cache_default",
+    "value": "1"
+  },
+  {
+    "key": "cache_expires",
+    "value": "0"
+  },
+  {
+    "key": "cache_format",
+    "value": "0"
+  },
+  {
+    "key": "cache_handler",
+    "value": "xPDOFileCache"
+  },
+  {
+    "key": "cache_lang_js",
+    "value": "1"
+  },
+  {
+    "key": "cache_lexicon_topics",
+    "value": "1"
+  },
+  {
+    "key": "cache_noncore_lexicon_topics",
+    "value": "1"
+  },
+  {
+    "key": "cache_resource",
+    "value": "1"
+  },
+  {
+    "key": "cache_resource_clear_partial",
+    "value": "0"
+  },
+  {
+    "key": "cache_resource_expires",
+    "value": "0"
+  },
+  {
+    "key": "cache_scripts",
+    "value": "1"
+  },
+  {
+    "key": "clear_cache_refresh_trees",
+    "value": "0"
+  },
+  {
+    "key": "clientconfig.admin_groups",
+    "value": "Administrator"
+  },
+  {
+    "key": "clientconfig.clear_cache",
+    "value": "1"
+  },
+  {
+    "key": "clientconfig.context_aware",
+    "value": ""
+  },
+  {
+    "key": "clientconfig.google_fonts_api_key",
+    "value": ""
+  },
+  {
+    "key": "clientconfig.vertical_tabs",
+    "value": ""
+  },
+  {
+    "key": "collections.mgr_datetime_format",
+    "value": "Y-m-d H:i:s"
+  },
+  {
+    "key": "collections.mgr_date_format",
+    "value": "M d"
+  },
+  {
+    "key": "collections.mgr_time_format",
+    "value": "g:i a"
+  },
+  {
+    "key": "collections.renderer_image_path",
+    "value": "assets/manager/"
+  },
+  {
+    "key": "collections.tree_tbar_collection",
+    "value": "0"
+  },
+  {
+    "key": "collections.tree_tbar_selection",
+    "value": "0"
+  },
+  {
+    "key": "collections.user_css",
+    "value": ""
+  },
+  {
+    "key": "collections.user_js",
+    "value": ""
+  },
+  {
+    "key": "compress_css",
+    "value": "1"
+  },
+  {
+    "key": "compress_js",
+    "value": "1"
+  },
+  {
+    "key": "compress_js_max_files",
+    "value": "10"
+  },
+  {
+    "key": "confirm_navigation",
+    "value": "1"
+  },
+  {
+    "key": "container_suffix",
+    "value": "/"
+  },
+  {
+    "key": "context_tree_sort",
+    "value": "1"
+  },
+  {
+    "key": "context_tree_sortby",
+    "value": "rank"
+  },
+  {
+    "key": "context_tree_sortdir",
+    "value": "ASC"
+  },
+  {
+    "key": "cultureKey",
+    "value": "ru"
+  },
+  {
+    "key": "date_timezone",
+    "value": ""
+  },
+  {
+    "key": "debug",
+    "value": ""
+  },
+  {
+    "key": "default_content_type",
+    "value": "1"
+  },
+  {
+    "key": "default_context",
+    "value": "web"
+  },
+  {
+    "key": "default_duplicate_publish_option",
+    "value": "preserve"
+  },
+  {
+    "key": "default_media_source",
+    "value": "2"
+  },
+  {
+    "key": "default_media_source_type",
+    "value": "sources.modFileMediaSource"
+  },
+  {
+    "key": "default_per_page",
+    "value": "20"
+  },
+  {
+    "key": "default_template",
+    "value": "1"
+  },
+  {
+    "key": "default_username",
+    "value": "(anonymous)"
+  },
+  {
+    "key": "dzen_config",
+    "value": "https://dzen.ru/id/606c2c4ed47eba36e1f64727 "
+  },
+  {
+    "key": "editor_css_path",
+    "value": ""
+  },
+  {
+    "key": "editor_css_selectors",
+    "value": ""
+  },
+  {
+    "key": "emailsender",
+    "value": "site@cispb.ru"
+  },
+  {
+    "key": "emailsubject",
+    "value": "Your login details"
+  },
+  {
+    "key": "enable_dragdrop",
+    "value": "1"
+  },
+  {
+    "key": "enable_gravatar",
+    "value": "1"
+  },
+  {
+    "key": "error_log_filename",
+    "value": "error.log"
+  },
+  {
+    "key": "error_log_filepath",
+    "value": ""
+  },
+  {
+    "key": "error_page",
+    "value": "211"
+  },
+  {
+    "key": "extension_packages",
+    "value": "[{\"localizator\":{\"path\":\"[[++core_path]]components/localizator/model/\"}},{\"collections\":{\"path\":\"[[++core_path]]components/collections/model/\"}},{\"minishop2\":{\"path\":\"[[++core_path]]components/minishop2/model/\"}}]"
+  },
+  {
+    "key": "failed_login_attempts",
+    "value": "5"
+  },
+  {
+    "key": "feed_modx_news",
+    "value": "https://feeds.feedburner.com/modx-announce"
+  },
+  {
+    "key": "feed_modx_news_enabled",
+    "value": "1"
+  },
+  {
+    "key": "feed_modx_security",
+    "value": "https://forums.modx.com/board.xml?board=294"
+  },
+  {
+    "key": "feed_modx_security_enabled",
+    "value": "1"
+  },
+  {
+    "key": "fe_editor_lang",
+    "value": "en"
+  },
+  {
+    "key": "filemanager_path",
+    "value": ""
+  },
+  {
+    "key": "filemanager_path_relative",
+    "value": "1"
+  },
+  {
+    "key": "filemanager_url",
+    "value": ""
+  },
+  {
+    "key": "filemanager_url_relative",
+    "value": "1"
+  },
+  {
+    "key": "forgot_login_email",
+    "value": "<p>Hello [[+username]],</p>\n<p>A request for a password reset has been issued for your MODX user. If you sent this, you may follow this link and use this password to login. If you did not send this request, please ignore this email.</p>\n\n<p>\n    <strong>Activation Link:</strong> [[+url_scheme]][[+http_host]][[+manager_url]]?modahsh=[[+hash]]<br />\n    <strong>Username:</strong> [[+username]]<br />\n    <strong>Password:</strong> [[+password]]<br />\n</p>\n\n<p>After you log into the MODX Manager, you can change your password again, if you wish.</p>\n\n<p>Regards,<br />Site Administrator</p>"
+  },
+  {
+    "key": "formit.attachment.mediasource",
+    "value": "1"
+  },
+  {
+    "key": "formit.attachment.path",
+    "value": ""
+  },
+  {
+    "key": "formit.cleanform.days",
+    "value": "30"
+  },
+  {
+    "key": "formit.exclude_contexts",
+    "value": "mgr"
+  },
+  {
+    "key": "formit.form_encryptkey",
+    "value": "modx626397dd21ab13.41972962"
+  },
+  {
+    "key": "formit.max_chars_textfield",
+    "value": "125"
+  },
+  {
+    "key": "formit.recaptcha_private_key",
+    "value": "6LddG1QjAAAAAITz7mXw3F5CUVDBNHciQwSZ9Us_"
+  },
+  {
+    "key": "formit.recaptcha_public_key",
+    "value": "6LddG1QjAAAAAEINkYUVmUW9yv1SDcXBEwlvpeGU"
+  },
+  {
+    "key": "formit.recaptcha_use_ssl",
+    "value": "0"
+  },
+  {
+    "key": "form_customization_use_all_groups",
+    "value": ""
+  },
+  {
+    "key": "forward_merge_excludes",
+    "value": "type,published,class_key"
+  },
+  {
+    "key": "friendly_alias_lowercase_only",
+    "value": "1"
+  },
+  {
+    "key": "friendly_alias_max_length",
+    "value": "0"
+  },
+  {
+    "key": "friendly_alias_realtime",
+    "value": "0"
+  },
+  {
+    "key": "friendly_alias_restrict_chars",
+    "value": "alphanumeric"
+  },
+  {
+    "key": "friendly_alias_restrict_chars_pattern",
+    "value": "/[\\0\\x0B\\t\\n\\r\\f\\a&=+%#<>\"~:`@\\?\\[\\]\\{\\}\\|\\^'\\\\]/"
+  },
+  {
+    "key": "friendly_alias_strip_element_tags",
+    "value": "1"
+  },
+  {
+    "key": "friendly_alias_translit",
+    "value": "russian"
+  },
+  {
+    "key": "friendly_alias_translit_class",
+    "value": "modx.translit.modTransliterate"
+  },
+  {
+    "key": "friendly_alias_translit_class_path",
+    "value": "{core_path}components/translit/model/"
+  },
+  {
+    "key": "friendly_alias_trim_chars",
+    "value": "/.-_"
+  },
+  {
+    "key": "friendly_alias_word_delimiter",
+    "value": "-"
+  },
+  {
+    "key": "friendly_alias_word_delimiters",
+    "value": "-_"
+  },
+  {
+    "key": "friendly_urls",
+    "value": "1"
+  },
+  {
+    "key": "friendly_urls_strict",
+    "value": "1"
+  },
+  {
+    "key": "global_duplicate_uri_check",
+    "value": "0"
+  },
+  {
+    "key": "hidemenu_default",
+    "value": "0"
+  },
+  {
+    "key": "inline_help",
+    "value": "1"
+  },
+  {
+    "key": "link_tag_scheme",
+    "value": "-1"
+  },
+  {
+    "key": "locale",
+    "value": ""
+  },
+  {
+    "key": "localizator_check_permissions",
+    "value": ""
+  },
+  {
+    "key": "localizator_default_language",
+    "value": "ru"
+  },
+  {
+    "key": "localizator_default_translator",
+    "value": "Yandex"
+  },
+  {
+    "key": "localizator_key_yandex",
+    "value": "dict.1.1.20220503T112940Z.f4fc54d04940312b.fabe12be6a6cbb0fe428e0b6ccbb36482cd47969"
+  },
+  {
+    "key": "localizator_translate_fields",
+    "value": "pagetitle,longtitle,menutitle,introtext,description,content"
+  },
+  {
+    "key": "localizator_translate_translated",
+    "value": ""
+  },
+  {
+    "key": "localizator_translate_translated_fields",
+    "value": ""
+  },
+  {
+    "key": "lock_ttl",
+    "value": "360"
+  },
+  {
+    "key": "log_deprecated",
+    "value": "1"
+  },
+  {
+    "key": "log_level",
+    "value": "1"
+  },
+  {
+    "key": "log_snippet_not_found",
+    "value": "1"
+  },
+  {
+    "key": "log_target",
+    "value": "FILE"
+  },
+  {
+    "key": "mail_charset",
+    "value": "UTF-8"
+  },
+  {
+    "key": "mail_encoding",
+    "value": "8bit"
+  },
+  {
+    "key": "mail_smtp_auth",
+    "value": "1"
+  },
+  {
+    "key": "mail_smtp_autotls",
+    "value": "0"
+  },
+  {
+    "key": "mail_smtp_helo",
+    "value": "smtp.yandex.ru"
+  },
+  {
+    "key": "mail_smtp_hosts",
+    "value": "smtp.yandex.ru"
+  },
+  {
+    "key": "mail_smtp_keepalive",
+    "value": ""
+  },
+  {
+    "key": "mail_smtp_pass",
+    "value": "ibfinrvkheywkdib"
+  },
+  {
+    "key": "mail_smtp_port",
+    "value": "465"
+  },
+  {
+    "key": "mail_smtp_prefix",
+    "value": "ssl"
+  },
+  {
+    "key": "mail_smtp_single_to",
+    "value": "1"
+  },
+  {
+    "key": "mail_smtp_timeout",
+    "value": "10"
+  },
+  {
+    "key": "mail_smtp_user",
+    "value": "site@cispb.ru"
+  },
+  {
+    "key": "mail_use_smtp",
+    "value": "1"
+  },
+  {
+    "key": "main_nav_parent",
+    "value": "topnav"
+  },
+  {
+    "key": "manager_date_format",
+    "value": "Y-m-d"
+  },
+  {
+    "key": "manager_direction",
+    "value": "ltr"
+  },
+  {
+    "key": "manager_favicon_url",
+    "value": ""
+  },
+  {
+    "key": "manager_js_cache_file_locking",
+    "value": "1"
+  },
+  {
+    "key": "manager_js_cache_max_age",
+    "value": "3600"
+  },
+  {
+    "key": "manager_js_document_root",
+    "value": ""
+  },
+  {
+    "key": "manager_js_zlib_output_compression",
+    "value": "1"
+  },
+  {
+    "key": "manager_language",
+    "value": "ru"
+  },
+  {
+    "key": "manager_lang_attribute",
+    "value": "ru"
+  },
+  {
+    "key": "manager_login_url_alternate",
+    "value": ""
+  },
+  {
+    "key": "manager_theme",
+    "value": "default"
+  },
+  {
+    "key": "manager_time_format",
+    "value": "g:i a"
+  },
+  {
+    "key": "manager_use_fullname",
+    "value": ""
+  },
+  {
+    "key": "manager_week_start",
+    "value": "0"
+  },
+  {
+    "key": "mgr_source_icon",
+    "value": "icon-folder-open-o"
+  },
+  {
+    "key": "mgr_tree_icon_collectioncontainer",
+    "value": "collectioncontainer"
+  },
+  {
+    "key": "mgr_tree_icon_context",
+    "value": "tree-context"
+  },
+  {
+    "key": "mgr_tree_icon_mscategory",
+    "value": "icon icon-barcode"
+  },
+  {
+    "key": "mgr_tree_icon_msproduct",
+    "value": "icon icon-tag"
+  },
+  {
+    "key": "mgr_tree_icon_selectioncontainer",
+    "value": "selectioncontainer"
+  },
+  {
+    "key": "minifyx_cacheFolder",
+    "value": "/assets/components/minifyx/cache/"
+  },
+  {
+    "key": "minifyx_cssFilename",
+    "value": "all"
+  },
+  {
+    "key": "minifyx_exclude_images",
+    "value": "#(thumb|/\\d+x\\d+/)#i"
+  },
+  {
+    "key": "minifyx_exclude_registered",
+    "value": "#(scripts|styles)_[a-z0-9]{10}\\.#i"
+  },
+  {
+    "key": "minifyx_images_filters",
+    "value": "s[true]"
+  },
+  {
+    "key": "minifyx_jsFilename",
+    "value": "all"
+  },
+  {
+    "key": "minifyx_minifyCss",
+    "value": "1"
+  },
+  {
+    "key": "minifyx_minifyJs",
+    "value": "0"
+  },
+  {
+    "key": "minifyx_processRawCss",
+    "value": "1"
+  },
+  {
+    "key": "minifyx_processRawJs",
+    "value": "0"
+  },
+  {
+    "key": "minifyx_process_images",
+    "value": ""
+  },
+  {
+    "key": "minifyx_process_registered",
+    "value": ""
+  },
+  {
+    "key": "modxminify.cache_path",
+    "value": ""
+  },
+  {
+    "key": "modxminify.cache_url",
+    "value": ""
+  },
+  {
+    "key": "modxminify.user_email",
+    "value": ""
+  },
+  {
+    "key": "modxminify.user_name",
+    "value": ""
+  },
+  {
+    "key": "modx_browser_default_sort",
+    "value": "lastmod"
+  },
+  {
+    "key": "modx_browser_default_viewmode",
+    "value": "grid"
+  },
+  {
+    "key": "modx_browser_tree_hide_files",
+    "value": "1"
+  },
+  {
+    "key": "modx_browser_tree_hide_tooltips",
+    "value": "1"
+  },
+  {
+    "key": "modx_charset",
+    "value": "UTF-8"
+  },
+  {
+    "key": "ms2_add_icon_category",
+    "value": "icon icon-folder-open"
+  },
+  {
+    "key": "ms2_add_icon_product",
+    "value": "icon icon-tag"
+  },
+  {
+    "key": "ms2_cart_context",
+    "value": ""
+  },
+  {
+    "key": "ms2_cart_handler_class",
+    "value": "msCartHandler"
+  },
+  {
+    "key": "ms2_cart_max_count",
+    "value": "1000"
+  },
+  {
+    "key": "ms2_category_content_default",
+    "value": ""
+  },
+  {
+    "key": "ms2_category_grid_fields",
+    "value": "id,menuindex,pagetitle,thumb"
+  },
+  {
+    "key": "ms2_category_id_as_alias",
+    "value": ""
+  },
+  {
+    "key": "ms2_category_remember_tabs",
+    "value": "1"
+  },
+  {
+    "key": "ms2_category_show_comments",
+    "value": "1"
+  },
+  {
+    "key": "ms2_category_show_nested_products",
+    "value": "1"
+  },
+  {
+    "key": "ms2_category_show_options",
+    "value": ""
+  },
+  {
+    "key": "ms2_chunks_categories",
+    "value": "21"
+  },
+  {
+    "key": "ms2_date_format",
+    "value": "%d.%m.%y <span class=\"gray\">%H:%M</span>"
+  },
+  {
+    "key": "ms2_email_manager",
+    "value": ""
+  },
+  {
+    "key": "ms2_frontend_css",
+    "value": "[[+cssUrl]]web/default.css"
+  },
+  {
+    "key": "ms2_frontend_js",
+    "value": "[[+jsUrl]]web/default.js"
+  },
+  {
+    "key": "ms2_frontend_message_css",
+    "value": "[[+cssUrl]]web/lib/jquery.jgrowl.min.css"
+  },
+  {
+    "key": "ms2_frontend_message_js",
+    "value": "[[+jsUrl]]web/lib/jquery.jgrowl.min.js"
+  },
+  {
+    "key": "ms2_frontend_message_js_settings",
+    "value": "[[+jsUrl]]web/message_settings.js"
+  },
+  {
+    "key": "ms2_order_address_fields",
+    "value": "receiver,phone,index,country,region,city,metro,street,building,entrance,floor,room,comment,text_address"
+  },
+  {
+    "key": "ms2_order_format_num",
+    "value": "%y%m"
+  },
+  {
+    "key": "ms2_order_format_num_separator",
+    "value": "/"
+  },
+  {
+    "key": "ms2_order_grid_fields",
+    "value": "id,num,customer,status,cost,weight,delivery,payment,createdon,updatedon,comment"
+  },
+  {
+    "key": "ms2_order_handler_class",
+    "value": "msOrderHandler"
+  },
+  {
+    "key": "ms2_order_product_fields",
+    "value": "name,vendor_name,product_article,weight,price,count,cost"
+  },
+  {
+    "key": "ms2_order_product_options",
+    "value": "size,color"
+  },
+  {
+    "key": "ms2_order_user_groups",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_api_url",
+    "value": "https://api-3t.paypal.com/nvp"
+  },
+  {
+    "key": "ms2_payment_paypal_cancel_id",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_cancel_order",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_checkout_url",
+    "value": "https://www.paypal.com/webscr?cmd=_express-checkout&token="
+  },
+  {
+    "key": "ms2_payment_paypal_currency",
+    "value": "USD"
+  },
+  {
+    "key": "ms2_payment_paypal_pwd",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_signature",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_success_id",
+    "value": ""
+  },
+  {
+    "key": "ms2_payment_paypal_user",
+    "value": ""
+  },
+  {
+    "key": "ms2_plugins",
+    "value": "[]"
+  },
+  {
+    "key": "ms2_price_format",
+    "value": "[2, \".\", \" \"]"
+  },
+  {
+    "key": "ms2_price_format_no_zeros",
+    "value": "1"
+  },
+  {
+    "key": "ms2_product_extra_fields",
+    "value": "price,old_price,article,weight,color,size,vendor,made_in,tags,new,popular,favorite"
+  },
+  {
+    "key": "ms2_product_id_as_alias",
+    "value": ""
+  },
+  {
+    "key": "ms2_product_remember_tabs",
+    "value": "0"
+  },
+  {
+    "key": "ms2_product_show_comments",
+    "value": "1"
+  },
+  {
+    "key": "ms2_product_show_in_tree_default",
+    "value": ""
+  },
+  {
+    "key": "ms2_product_source_default",
+    "value": "3"
+  },
+  {
+    "key": "ms2_product_tab_categories",
+    "value": "1"
+  },
+  {
+    "key": "ms2_product_tab_extra",
+    "value": "0"
+  },
+  {
+    "key": "ms2_product_tab_gallery",
+    "value": "1"
+  },
+  {
+    "key": "ms2_product_tab_links",
+    "value": "0"
+  },
+  {
+    "key": "ms2_product_tab_options",
+    "value": "1"
+  },
+  {
+    "key": "ms2_product_thumbnail_default",
+    "value": "{assets_url}components/minishop2/img/mgr/ms2_thumb.png"
+  },
+  {
+    "key": "ms2_register_frontend",
+    "value": "0"
+  },
+  {
+    "key": "ms2_services",
+    "value": "{\"cart\":[],\"order\":[],\"payment\":[],\"delivery\":[]}"
+  },
+  {
+    "key": "ms2_template_category_default",
+    "value": "6"
+  },
+  {
+    "key": "ms2_template_product_default",
+    "value": "7"
+  },
+  {
+    "key": "ms2_tmp_storage",
+    "value": "session"
+  },
+  {
+    "key": "ms2_weight_format",
+    "value": "[3, \".\", \" \"]"
+  },
+  {
+    "key": "ms2_weight_format_no_zeros",
+    "value": "1"
+  },
+  {
+    "key": "mse2_filters_handler_class",
+    "value": "mse2FiltersHandler"
+  },
+  {
+    "key": "mse2_frontend_css",
+    "value": "[[+cssUrl]]web/default.css"
+  },
+  {
+    "key": "mse2_frontend_js",
+    "value": "[[+jsUrl]]web/default.js"
+  },
+  {
+    "key": "mse2_index_all",
+    "value": ""
+  },
+  {
+    "key": "mse2_index_comments",
+    "value": "1"
+  },
+  {
+    "key": "mse2_index_comments_weight",
+    "value": "1"
+  },
+  {
+    "key": "mse2_index_fields",
+    "value": "pagetitle:5,longtitle:3,content:1,description:1,introtext:1,tv_textContent:1"
+  },
+  {
+    "key": "mse2_index_min_words_length",
+    "value": "3"
+  },
+  {
+    "key": "mse2_index_split_words",
+    "value": "#\\s|[,.:;!?\"'(){}\\/\\#]#"
+  },
+  {
+    "key": "mse2_old_search_algorithm",
+    "value": "1"
+  },
+  {
+    "key": "mse2_search_all_words_bonus",
+    "value": "10"
+  },
+  {
+    "key": "mse2_search_exact_match_bonus",
+    "value": "10"
+  },
+  {
+    "key": "mse2_search_like_match_bonus",
+    "value": "3"
+  },
+  {
+    "key": "mse2_search_split_words",
+    "value": "#\\s#"
+  },
+  {
+    "key": "parser_class",
+    "value": "pdoParser"
+  },
+  {
+    "key": "parser_class_path",
+    "value": "{core_path}components/pdotools/model/pdotools/"
+  },
+  {
+    "key": "parser_recurse_uncacheable",
+    "value": "1"
+  },
+  {
+    "key": "password_generated_length",
+    "value": "10"
+  },
+  {
+    "key": "password_min_length",
+    "value": "8"
+  },
+  {
+    "key": "pdoFetch.class",
+    "value": "pdotools.pdofetch"
+  },
+  {
+    "key": "pdofetch_class_path",
+    "value": "{core_path}components/pdotools/model/"
+  },
+  {
+    "key": "pdoTools.class",
+    "value": "pdotools.pdotools"
+  },
+  {
+    "key": "pdotools_class_path",
+    "value": "{core_path}components/pdotools/model/"
+  },
+  {
+    "key": "pdotools_elements_path",
+    "value": "{core_path}elements/"
+  },
+  {
+    "key": "pdotools_fenom_cache",
+    "value": ""
+  },
+  {
+    "key": "pdotools_fenom_default",
+    "value": "1"
+  },
+  {
+    "key": "pdotools_fenom_modx",
+    "value": "1"
+  },
+  {
+    "key": "pdotools_fenom_options",
+    "value": ""
+  },
+  {
+    "key": "pdotools_fenom_parser",
+    "value": "1"
+  },
+  {
+    "key": "pdotools_fenom_php",
+    "value": "1"
+  },
+  {
+    "key": "pdotools_fenom_save_on_errors",
+    "value": "1"
+  },
+  {
+    "key": "phpthumbof.cache_path",
+    "value": ""
+  },
+  {
+    "key": "phpthumbof.cache_url",
+    "value": ""
+  },
+  {
+    "key": "phpthumbof.check_mod_time",
+    "value": ""
+  },
+  {
+    "key": "phpthumbof.postfix_property_hash",
+    "value": "1"
+  },
+  {
+    "key": "phpthumbof.remote_timeout",
+    "value": "5"
+  },
+  {
+    "key": "phpthumbof.use_resizer",
+    "value": ""
+  },
+  {
+    "key": "phpthumbon.cache_dir",
+    "value": "cache_image"
+  },
+  {
+    "key": "phpthumbon.error_mode",
+    "value": "1"
+  },
+  {
+    "key": "phpthumbon.ext",
+    "value": "jpeg"
+  },
+  {
+    "key": "phpthumbon.images_dir",
+    "value": "images"
+  },
+  {
+    "key": "phpthumbon.make_cachename",
+    "value": ""
+  },
+  {
+    "key": "phpthumbon.noimage",
+    "value": "{assets_path}components/phpthumbon/noimage.jpg"
+  },
+  {
+    "key": "phpthumbon.noimage_cache",
+    "value": "{assets_path}components/phpthumbon/cache/"
+  },
+  {
+    "key": "phpthumbon.quality",
+    "value": "96"
+  },
+  {
+    "key": "phpthumbon.queue",
+    "value": "0"
+  },
+  {
+    "key": "phpthumb_allow_src_above_docroot",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_cache_maxage",
+    "value": "30"
+  },
+  {
+    "key": "phpthumb_cache_maxfiles",
+    "value": "10000"
+  },
+  {
+    "key": "phpthumb_cache_maxsize",
+    "value": "100"
+  },
+  {
+    "key": "phpthumb_cache_source_enabled",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_document_root",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_error_bgcolor",
+    "value": "CCCCFF"
+  },
+  {
+    "key": "phpthumb_error_fontsize",
+    "value": "1"
+  },
+  {
+    "key": "phpthumb_error_textcolor",
+    "value": "FF0000"
+  },
+  {
+    "key": "phpthumb_far",
+    "value": "C"
+  },
+  {
+    "key": "phpthumb_imagemagick_path",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_nohotlink_enabled",
+    "value": "1"
+  },
+  {
+    "key": "phpthumb_nohotlink_erase_image",
+    "value": "1"
+  },
+  {
+    "key": "phpthumb_nohotlink_text_message",
+    "value": "Off-server thumbnailing is not allowed"
+  },
+  {
+    "key": "phpthumb_nohotlink_valid_domains",
+    "value": "{http_host}"
+  },
+  {
+    "key": "phpthumb_nooffsitelink_enabled",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_nooffsitelink_erase_image",
+    "value": "1"
+  },
+  {
+    "key": "phpthumb_nooffsitelink_require_refer",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_nooffsitelink_text_message",
+    "value": "Off-server linking is not allowed"
+  },
+  {
+    "key": "phpthumb_nooffsitelink_valid_domains",
+    "value": "{http_host}"
+  },
+  {
+    "key": "phpthumb_nooffsitelink_watermark_src",
+    "value": ""
+  },
+  {
+    "key": "phpthumb_zoomcrop",
+    "value": "0"
+  },
+  {
+    "key": "preserve_menuindex",
+    "value": "1"
+  },
+  {
+    "key": "principal_targets",
+    "value": "modAccessContext,modAccessResourceGroup,modAccessCategory,sources.modAccessMediaSource,modAccessNamespace"
+  },
+  {
+    "key": "proxy_auth_type",
+    "value": "BASIC"
+  },
+  {
+    "key": "proxy_host",
+    "value": ""
+  },
+  {
+    "key": "proxy_password",
+    "value": ""
+  },
+  {
+    "key": "proxy_port",
+    "value": ""
+  },
+  {
+    "key": "proxy_username",
+    "value": ""
+  },
+  {
+    "key": "pthumb.clean_level",
+    "value": "0"
+  },
+  {
+    "key": "pthumb.global_defaults",
+    "value": ""
+  },
+  {
+    "key": "pthumb.ptcache_images_basedir",
+    "value": "assets"
+  },
+  {
+    "key": "pthumb.ptcache_location",
+    "value": "assets/image-cache"
+  },
+  {
+    "key": "pthumb.s3_cache_path",
+    "value": ""
+  },
+  {
+    "key": "pthumb.s3_headers",
+    "value": ""
+  },
+  {
+    "key": "pthumb.s3_multi_img",
+    "value": ""
+  },
+  {
+    "key": "pthumb.s3_output",
+    "value": ""
+  },
+  {
+    "key": "pthumb.use_ptcache",
+    "value": ""
+  },
+  {
+    "key": "publish_default",
+    "value": "1"
+  },
+  {
+    "key": "rb_base_dir",
+    "value": ""
+  },
+  {
+    "key": "rb_base_url",
+    "value": ""
+  },
+  {
+    "key": "redirector.track_uri_updates",
+    "value": "0"
+  },
+  {
+    "key": "request_controller",
+    "value": "index.php"
+  },
+  {
+    "key": "request_method_strict",
+    "value": "0"
+  },
+  {
+    "key": "request_param_alias",
+    "value": "q"
+  },
+  {
+    "key": "request_param_id",
+    "value": "id"
+  },
+  {
+    "key": "resizer.graphics_library",
+    "value": "2"
+  },
+  {
+    "key": "resolve_hostnames",
+    "value": "0"
+  },
+  {
+    "key": "resource_static_allow_absolute",
+    "value": "0"
+  },
+  {
+    "key": "resource_static_path",
+    "value": "{assets_path}"
+  },
+  {
+    "key": "resource_tree_node_name",
+    "value": "pagetitle"
+  },
+  {
+    "key": "resource_tree_node_name_fallback",
+    "value": "pagetitle"
+  },
+  {
+    "key": "resource_tree_node_tooltip",
+    "value": ""
+  },
+  {
+    "key": "richtext_default",
+    "value": "1"
+  },
+  {
+    "key": "search_default",
+    "value": "1"
+  },
+  {
+    "key": "send_poweredby_header",
+    "value": "0"
+  },
+  {
+    "key": "server_offset_time",
+    "value": "0"
+  },
+  {
+    "key": "server_protocol",
+    "value": "https"
+  },
+  {
+    "key": "session_cookie_domain",
+    "value": ""
+  },
+  {
+    "key": "session_cookie_httponly",
+    "value": "1"
+  },
+  {
+    "key": "session_cookie_lifetime",
+    "value": "604800"
+  },
+  {
+    "key": "session_cookie_path",
+    "value": ""
+  },
+  {
+    "key": "session_cookie_samesite",
+    "value": ""
+  },
+  {
+    "key": "session_cookie_secure",
+    "value": ""
+  },
+  {
+    "key": "session_gc_maxlifetime",
+    "value": "604800"
+  },
+  {
+    "key": "session_handler_class",
+    "value": "modSessionHandler"
+  },
+  {
+    "key": "session_name",
+    "value": ""
+  },
+  {
+    "key": "settings_distro",
+    "value": "traditional"
+  },
+  {
+    "key": "settings_version",
+    "value": "2.8.3-pl"
+  },
+  {
+    "key": "set_header",
+    "value": "1"
+  },
+  {
+    "key": "show_tv_categories_header",
+    "value": "1"
+  },
+  {
+    "key": "signupemail_message",
+    "value": "<p>Hello [[+uid]],</p>\n    <p>Here are your login details for the [[+sname]] MODX Manager:</p>\n\n    <p>\n        <strong>Username:</strong> [[+uid]]<br />\n        <strong>Password:</strong> [[+pwd]]<br />\n    </p>\n\n    <p>Once you log into the MODX Manager at [[+surl]], you can change your password.</p>\n\n    <p>Regards,<br />Site Administrator</p>"
+  },
+  {
+    "key": "site_name",
+    "value": "MODX Revolution"
+  },
+  {
+    "key": "site_start",
+    "value": "1"
+  },
+  {
+    "key": "site_status",
+    "value": "1"
+  },
+  {
+    "key": "site_unavailable_message",
+    "value": "The site is currently unavailable"
+  },
+  {
+    "key": "site_unavailable_page",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_automate_chunks",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_automate_plugins",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_automate_snippets",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_automate_templates",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_automate_tvs",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_basepath",
+    "value": ""
+  },
+  {
+    "key": "static_elements_default_category",
+    "value": "0"
+  },
+  {
+    "key": "static_elements_default_mediasource",
+    "value": "0"
+  },
+  {
+    "key": "strip_image_paths",
+    "value": "1"
+  },
+  {
+    "key": "superboxselect.advanced",
+    "value": "0"
+  },
+  {
+    "key": "superboxselect.debug",
+    "value": "0"
+  },
+  {
+    "key": "symlink_merge_fields",
+    "value": "1"
+  },
+  {
+    "key": "syncsite_default",
+    "value": "1"
+  },
+  {
+    "key": "tiny.base_url",
+    "value": ""
+  },
+  {
+    "key": "tiny.convert_fonts_to_spans",
+    "value": "1"
+  },
+  {
+    "key": "tiny.convert_newlines_to_brs",
+    "value": ""
+  },
+  {
+    "key": "tiny.css_selectors",
+    "value": ""
+  },
+  {
+    "key": "tiny.custom_buttons1",
+    "value": "undo,redo,selectall,separator,pastetext,pasteword,separator,search,replace,separator,nonbreaking,hr,charmap,separator,image,modxlink,unlink,anchor,media,separator,cleanup,removeformat,separator,fullscreen,print,code,help"
+  },
+  {
+    "key": "tiny.custom_buttons2",
+    "value": "bold,italic,underline,strikethrough,sub,sup,separator,bullist,numlist,outdent,indent,separator,justifyleft,justifycenter,justifyright,justifyfull,separator,styleselect,formatselect,separator,styleprops"
+  },
+  {
+    "key": "tiny.custom_buttons3",
+    "value": ""
+  },
+  {
+    "key": "tiny.custom_buttons4",
+    "value": ""
+  },
+  {
+    "key": "tiny.custom_buttons5",
+    "value": ""
+  },
+  {
+    "key": "tiny.custom_plugins",
+    "value": "style,advimage,advlink,modxlink,searchreplace,print,contextmenu,paste,fullscreen,noneditable,nonbreaking,xhtmlxtras,visualchars,media,table"
+  },
+  {
+    "key": "tiny.editor_theme",
+    "value": "advanced"
+  },
+  {
+    "key": "tiny.element_format",
+    "value": "xhtml"
+  },
+  {
+    "key": "tiny.entity_encoding",
+    "value": "named"
+  },
+  {
+    "key": "tiny.fix_nesting",
+    "value": ""
+  },
+  {
+    "key": "tiny.fix_table_elements",
+    "value": ""
+  },
+  {
+    "key": "tiny.font_size_classes",
+    "value": ""
+  },
+  {
+    "key": "tiny.font_size_style_values",
+    "value": "xx-small,x-small,small,medium,large,x-large,xx-large"
+  },
+  {
+    "key": "tiny.forced_root_block",
+    "value": "p"
+  },
+  {
+    "key": "tiny.indentation",
+    "value": "30px"
+  },
+  {
+    "key": "tiny.invalid_elements",
+    "value": ""
+  },
+  {
+    "key": "tiny.nowrap",
+    "value": ""
+  },
+  {
+    "key": "tiny.object_resizing",
+    "value": "1"
+  },
+  {
+    "key": "tiny.path_options",
+    "value": ""
+  },
+  {
+    "key": "tiny.removeformat_selector",
+    "value": ""
+  },
+  {
+    "key": "tiny.remove_linebreaks",
+    "value": ""
+  },
+  {
+    "key": "tiny.remove_redundant_brs",
+    "value": "1"
+  },
+  {
+    "key": "tiny.skin",
+    "value": "cirkuit"
+  },
+  {
+    "key": "tiny.skin_variant",
+    "value": ""
+  },
+  {
+    "key": "tiny.table_inline_editing",
+    "value": ""
+  },
+  {
+    "key": "tiny.template_list",
+    "value": ""
+  },
+  {
+    "key": "tiny.template_list_snippet",
+    "value": ""
+  },
+  {
+    "key": "tiny.template_selected_content_classes",
+    "value": ""
+  },
+  {
+    "key": "tiny.theme_advanced_blockformats",
+    "value": "p,h1,h2,h3,h4,h5,h6,div,blockquote,code,pre,address,noindex"
+  },
+  {
+    "key": "tiny.theme_advanced_font_sizes",
+    "value": "80%,90%,100%,120%,140%,160%,180%,220%,260%,320%,400%,500%,700%"
+  },
+  {
+    "key": "tiny.use_uncompressed_library",
+    "value": ""
+  },
+  {
+    "key": "topmenu_show_descriptions",
+    "value": "1"
+  },
+  {
+    "key": "tree_default_sort",
+    "value": "menuindex"
+  },
+  {
+    "key": "tree_root_id",
+    "value": "0"
+  },
+  {
+    "key": "tvs_below_content",
+    "value": "0"
+  },
+  {
+    "key": "udperms_allowroot",
+    "value": ""
+  },
+  {
+    "key": "unauthorized_page",
+    "value": "1"
+  },
+  {
+    "key": "upload_check_exists",
+    "value": "1"
+  },
+  {
+    "key": "upload_files",
+    "value": "txt,html,htm,xml,js,js.map,css,scss,less,css.map,zip,gz,rar,z,tgz,tar,mp3,mp4,aac,wav,au,wmv,avi,mpg,mpeg,pdf,doc,docx,xls,xlsx,ppt,pptx,jpg,jpeg,png,tiff,svg,svgz,gif,psd,ico,bmp,webp,odt,ods,odp,odb,odg,odf,md,ttf,woff,woff2,eot, htaccess,php"
+  },
+  {
+    "key": "upload_flash",
+    "value": "swf,fla"
+  },
+  {
+    "key": "upload_images",
+    "value": "jpg,jpeg,png,gif,psd,ico,bmp,tiff,svg,svgz,webp"
+  },
+  {
+    "key": "upload_maxsize",
+    "value": "83886080"
+  },
+  {
+    "key": "upload_media",
+    "value": "mp3,wav,au,wmv,avi,mpg,mpeg"
+  },
+  {
+    "key": "user_nav_parent",
+    "value": "usernav"
+  },
+  {
+    "key": "use_alias_path",
+    "value": "1"
+  },
+  {
+    "key": "use_browser",
+    "value": "1"
+  },
+  {
+    "key": "use_context_resource_table",
+    "value": "1"
+  },
+  {
+    "key": "use_editor",
+    "value": "1"
+  },
+  {
+    "key": "use_frozen_parent_uris",
+    "value": "1"
+  },
+  {
+    "key": "use_multibyte",
+    "value": "1"
+  },
+  {
+    "key": "use_weblink_target",
+    "value": ""
+  },
+  {
+    "key": "webpwdreminder_message",
+    "value": "<p>Hello [[+uid]],</p>\n\n    <p>To activate your new password click the following link:</p>\n\n    <p>[[+surl]]</p>\n\n    <p>If successful you can use the following password to login:</p>\n\n    <p><strong>Password:</strong> [[+pwd]]</p>\n\n    <p>If you did not request this email then please ignore it.</p>\n\n    <p>Regards,<br />\n    Site Administrator</p>"
+  },
+  {
+    "key": "websignupemail_message",
+    "value": "<p>Hello [[+uid]],</p>\n\n    <p>Here are your login details for [[+sname]]:</p>\n\n    <p><strong>Username:</strong> [[+uid]]<br />\n    <strong>Password:</strong> [[+pwd]]</p>\n\n    <p>Once you log into [[+sname]] at [[+surl]], you can change your password.</p>\n\n    <p>Regards,<br />\n    Site Administrator</p>"
+  },
+  {
+    "key": "welcome_action",
+    "value": "welcome"
+  },
+  {
+    "key": "welcome_namespace",
+    "value": "core"
+  },
+  {
+    "key": "welcome_screen",
+    "value": ""
+  },
+  {
+    "key": "welcome_screen_url",
+    "value": "//misc.modx.com/revolution/welcome.28.html"
+  },
+  {
+    "key": "which_editor",
+    "value": "TinyMCE"
+  },
+  {
+    "key": "which_element_editor",
+    "value": "Ace"
+  },
+  {
+    "key": "xhtml_urls",
+    "value": "1"
+  },
+  {
+    "key": "yasmartcaptcha_client_key",
+    "value": ""
+  },
+  {
+    "key": "yasmartcaptcha_enabled",
+    "value": "1"
+  },
+  {
+    "key": "yasmartcaptcha_send_user_ip",
+    "value": ""
+  },
+  {
+    "key": "yasmartcaptcha_server_key",
+    "value": ""
+  },
+  {
+    "key": "yasmartcaptcha_service_js",
+    "value": "https://smartcaptcha.yandexcloud.net/captcha.js"
+  }
+]

@@ -1,0 +1,2267 @@
+[
+  {
+    "id": 168,
+    "pagetitle": "Приём гинеколога. Всё включено!",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "prijom-ginekologa-vsjo-vkljucheno",
+    "uri": "about/novosti/prijom-ginekologa-vsjo-vkljucheno/",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 6,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1648897404,
+    "editedon": 1773655756,
+    "publishedon": 1709290980,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Пришло время посетить гинеколога? Для вас клиника «Источник» снижает цену на комплексный приём женского врача до 45% за 8900 руб.!",
+      "dtxt": "Консультация гинеколога с осмотром в гинекологическом кресле, забором мазков и обзорным мазком, УЗИ малого таза за 8900 руб. в клинике \"Источник\".",
+      "newsImg": "Гинеколог-март-2026-875х320.png",
+      "newsImg2": "Гинеколог-март-2026-квадрат.png",
+      "newsImgMob": "Aksii/Гинеколог-март-2026-710х350.png",
+      "newsText": "Комплексный прием гинеколога \"Всё включено\" за 8900 руб. ",
+      "oldID": "36516",
+      "photo_list": [
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson S2000 д.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson Х600 др.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson S2000 д.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson Х600 др.jpg"
+        }
+      ],
+      "specListAction": [
+        "345",
+        "644",
+        "703",
+        "547"
+      ],
+      "subTitleActions": "Акция действует до 15 июля 2026",
+      "textContent": "<div><strong>Удачное время посетить гинеколога!</strong></div>\r\n<div><strong> </strong></div>\r\n<div>Мы рекомендуем с профилактической целью посещать врача гинеколога с базовым набором услуг каждые полгода.  Зачастую такого комплексного приема достаточно, чтобы убедиться, что вы здоровы и во время \"поймать\" проблему. </div>\r\n<p>С клиникой «Источник» ваше женское здоровье – под надежной защитой. </p>\r\n<p><strong>Звоните администраторам клиники «Источник» и записывайтесь на комплексный прием гинеколога по телефону +7 (812) 317-78-78, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>\r\n<p></p>\r\n<p> </p>",
+      "title": "Приём гинеколога. Всё включено! Гинекология | Акушерство | Клиника «Источник», Санкт-Петербург",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "pagetitle": "Приём кардиолога + ЭКГ = 3300₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "novye-akcii-ot-kliniki-istochnik",
+    "uri": "about/offer/novye-akcii-ot-kliniki-istochnik",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 7,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1648808787,
+    "editedon": 1751631171,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Приём кардиолога + ЭКГ = 3300₽.",
+      "dtxt": "Рекомендуем посещать кардиолога людям старше 40 лет, планирующим беременность женщинам, профессиональным спортсменам, перед оперативным вмешательством, при наличии симптомов, при прохождении диспансеризации.",
+      "newsImg": "Cardio s.png",
+      "newsImg2": "Slider mob.png",
+      "newsImgMob": "Aksii/Cardio ss.png",
+      "newsText": "Проверь сердце со скидкой: акция прием кардиолога и ЭКГ за 3300 руб. вместо 4100 руб. ",
+      "photo_list": [
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "15",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Регистратор АД носимый SHILLER Medilog д.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Система длительного холтеровск. мониторинга ЭКГ SCHILLER MedilogDARWIN д.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "Электрокардиограф SCHILLER CARDIOVIT AT-102 д.jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson S2000 д.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "15",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Регистратор АД носимый SHILLER Medilog д.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Система длительного холтеровск. мониторинга ЭКГ SCHILLER MedilogDARWIN д.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "Электрокардиограф SCHILLER CARDIOVIT AT-102 д.jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "Система УЗИ Acuson S2000 д.jpg"
+        }
+      ],
+      "specListAction": "103",
+      "subTitleActions": "Акция действует до 31 июля 2025",
+      "textContent": "<p>Сердцу нужно быть здоровым, чтобы вы были здоровы и активны как можно дольше. </p>\r\n<p>По статистике ВОЗ, первую позицию десяти ведущих причин смерности занимают сердечно-сосудистые заболевания. Эта позиция неизменна во всем мире уже более 20 лет. Огромного количества преждевременных смертей удалось бы избежать при заботливом отношении к своему сердцу. </p>\r\n<p>Звоните администраторам клиники «Источник» и записывайтесь на прием кардиолога и ЭКГ по телефону <strong> <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a></strong>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот  в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></p>\r\n<p></p>",
+      "title": "Акция «Приём кардиолога + ЭКГ = 3300₽». Ваша скидка - до 50%!",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "pagetitle": "Учись, студент, и будь спокоен за свое здоровье!",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "uchis-student-i-bud-spokoen-za-svoe-zdorove",
+    "uri": "about/novosti/uchis-student-i-bud-spokoen-za-svoe-zdorove/",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 15,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1633091360,
+    "editedon": 1765801127,
+    "publishedon": 1709296140,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Возьми с собой студенческий билет: по нему дадим тебе скидку 7%",
+      "dtxt": "Скидка 7% на все услуги кроме ЭКО, обследований и анализов, предоставляемых организациями-партнерами .",
+      "newsImg": "news/Учись-студент-875х320.png",
+      "newsImg2": "news/news16.jpeg",
+      "newsImgMob": "Aksii/stdent.png",
+      "newsText": "При предъявлении студенческого билета скидка 7% на медицинские услуги.",
+      "oldID": "39944",
+      "photo_list": [
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "12",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "specListAction": [
+        "80",
+        "100",
+        "84",
+        "94",
+        "95",
+        "98",
+        "97",
+        "103",
+        "336",
+        "106",
+        "350",
+        "544",
+        "341",
+        "104",
+        "409",
+        "566",
+        "110",
+        "585"
+      ],
+      "subTitleActions": "Акция действует до 31 декабря 2026",
+      "textContent": "<p><span>Учись, студент, и будь спокоен за свое здоровье! </span></p>\r\n<p>В клинике \"Источник\" можно записаться на приемы врача, а также на различные обследования по специальной цене! *</p>\r\n<p>У нас ты можешь:</p>\r\n<ul>\r\n<li>пройти разные виды УЗИ</li>\r\n<li>получить консультацию терапевтов и врачей узкой специализации (гинеколог, уролог, дерматолог, ЛОР-врач, офтальмолог, гастроэнтеролог, ортопед, колопроктолог и другие)</li>\r\n<li>сделать эндоскопию органов ЖКТ</li>\r\n<li>пройти ЭКГ, эхоКГ и другие процедуры в кабинете функциональной диагностики.</li>\r\n</ul>\r\n<p>* Подробности узнавайте у администраторов клиники \"Источник\" по телефону: +7 (812) 317-78-78</p>",
+      "title": "Учись, студент, и будь спокоен за свое здоровье! | Клиника Источник",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": " Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 396,
+    "pagetitle": "Бесплатный приём репродуктолога!",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "besplatnyij-priyom-reproduktologa-po-eko",
+    "uri": "about/offer/besplatnyij-priyom-reproduktologa-po-eko",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 77,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1674472490,
+    "editedon": 1762935747,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "columnsActions": [
+        {
+          "MIGX_id": "1",
+          "column": "<h3>Записывайтесь на прием к одному из наших специалистов если вы:</h3>\n<ul>\n<li>планируете беременность;</li>\n<li>столкнулись с проблемой бесплодия или невынашивания беременности;</li>\n<li>хотите пройти <span>ЭКО по полису ОМС</span>;</li>\n<li>задумываете о том, чтобы сохранить здоровые яйцеклетки на будущее.</li>\n</ul>"
+        },
+        {
+          "MIGX_id": "2",
+          "column": "<h3>На консультативном приеме вы сможете:</h3>\n<ul>\n<li>познакомиться с клиникой и врачом;</li>\n<li>задать все интересующие вас вопросы;</li>\n<li>получить рекомендации исходя из вашей истории болезни;</li>\n<li>наметить дальнейший план действий на пути к желаемой беременности.</li>\n</ul>"
+        }
+      ],
+      "columnsCaption": "Описание акции",
+      "des": "Если вы планируете появление в вашей семье малыша, то успевайте сделать первый шаг навстречу своей мечте и записывайтесь на прием к специалистам ЭКО Клиники.",
+      "dtxt": "Показана парам с проблемами с зачатием; с невынашиванием; при планировании сохранения яйцеклеток на будущее; при планировании ЭКО по ОМС и платно. ",
+      "newsHome": "1",
+      "newsImg": "Repro-875х320.png",
+      "newsImg2": "Бесплатные-консультации-по-ЭКО-без-рамки.png",
+      "newsText": "Беслатная первичная консультация-знакомство с репродуктологом без осмотра в гинекологическом кресле и без УЗИ с целью планирования беременности ",
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        }
+      ],
+      "specListAction": [
+        "225",
+        "408",
+        "91"
+      ],
+      "subTitleActions": "Акция действует до 31 декабря 2024",
+      "textContent": "<p>Если вы планируете появление в вашей семье малыша, то успевайте сделать первый шаг навстречу своей мечте и записывайтесь на прием к специалистам <a href=\"katalog/ekstrakorporalnoe_oplodotvorenie/\" target=\"_blank\">ЭКО Клиники</a>.</p>\r\n<p>Наши врачи-репродуктологи сделают все возможное, чтобы ваша мечта о малыше осуществилась как можно скорее!</p>\r\n<ul></ul>\r\n<h3><strong>Условия акции:</strong></h3>\r\n<ul>\r\n<li> Бесплатный прием репродуктолога по акции предполагает изучение медицинской документации, беседу с врачом, рекомендации. </li>\r\n<li> Бесплатный прием репродуктолога по акции не включает в себя осмотр в гинекологическом кресле и УЗИ.  </li>\r\n</ul>\r\n<p><strong>Звоните администраторам клиники «Источник» и записывайтесь на бесплатную консультацию врача репродуктолога по телефону + 7 (812) 317-78-78, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>\r\n<p>** Акция не суммируется с другими скидками и специальными условиями действующими в аналогичный период.</p>\r\n<p></p>",
+      "title": "Бесплатный приём репродуктолога! Наши врачи-репродуктологи сделают все возможное, чтобы ваша мечта о малыше осуществилась как можно скорее!",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "syringe_icon-icons.com_63683.png",
+          "name": "Эффективные программы ВРТ: ЭКО, ИКСИ, криопереносы, донорские программы",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "В нашей клинике работают репродуктологи со стажем более 20 лет",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "microscope_science_biology_scientific_research_chemistry_laboratory_icon_140901.png",
+          "name": "Эмбриолаборатория с автоматической системой контроля RI Witness",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Эффективность ЭКО в нашей клинике составляет 53% при криопереносах",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "24hours1_122404.png",
+          "name": "Круглосуточная система мониторинга эмбрионов Timelapse",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "medical_result_health_document_virus_medical_coronavirus_icon_140693.png",
+          "name": "Проводим предимплантационную генетическую диагностику (ПГД)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "babygirl_83972 (2).png",
+          "name": "Доступно бесплатное ЭКО по ОМС (по квоте)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "006hand_114150.png",
+          "name": "Индивидуальный подход к каждому случаю бесплодия",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 442,
+    "pagetitle": "Проверьте желудочно-кишечный тракт со скидкой 25%",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "proverte-zheludochno-kishechnyij-trakt-so-skidkoj-25",
+    "uri": "about/offer/proverte-zheludochno-kishechnyij-trakt-so-skidkoj-25",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 80,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1679381667,
+    "editedon": 1773654656,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Современное оборудование экспертного класса позволит увидеть даже малейшие отклонения в здоровье, а возможность пройти обследования «во сне» сводит к нулю дискомфортные ощущения.",
+      "dtxt": "ФГС, колоноскопия и видеоректосигмоскопия с целью диагностики и с забором биопсийного материала после 15.00 дешевле на 25%! ",
+      "newsImg": "Gastro875320.png",
+      "newsImg2": "gastrosq.png",
+      "newsImgMob": "Aksii/gastro710350.png",
+      "newsText": "Эндоскопические обследования (ФГДС, ФКС, видеоректосигмоскопия) после 15.00 со скидкой 25% ",
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Видеогастроскоп Pentax EG29-i10 ДР.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Эндоскопическая стойка Pentax OPTIVISTA EPK-i7010 ДР — копия.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Видеогастроскоп Pentax EG29-i10 ДР.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "Эндоскопическая стойка Pentax OPTIVISTA EPK-i7010 ДР — копия.jpg"
+        }
+      ],
+      "specListAction": "98",
+      "subTitleActions": "Акция действует до 15 марта 2026",
+      "textContent": "<p><strong>В клинике \"Источник\" можно пройти обследование ЖКТ с целью диагностики взрослым пациентам и детям с 6 лет! </strong></p>\r\n<p><strong>Обследования проводит врач эндоскопической диагностики <a href=\"sotrudniki/paderin-valerij-borisovich/\" target=\"_blank\">Падерин Валерий Борисович</a> с большим опытом работы, в том числе, с детьми - бережно, безопасно и комфортно! </strong></p>\r\n<p>Современное оборудование экспертного класса позволит увидеть даже малейшие отклонения в здоровье, а возможность пройти обследования «во сне» сводит к нулю дискомфортные ощущения.</p>\r\n<p><span>Скидка распространяется на:</span></p>\r\n<ul>\r\n<li><span> Диагностические исследования - ФГС, колоноскопию и видеоректосигмоскопию (осмотр прямой и сигмовидной кишки);</span></li>\r\n<li><span> ФГС, колоноскопию и видеоректосигмоскопию с забором биопсийного материала (цитологическое и гистологическое исследования оплачиваются отдельно).</span></li>\r\n<li><span>Скидка не распространяется на комплексные программы с наркозом. </span></li>\r\n<li><span>С учетом физиологических особенностей и в целях безопасности маленьких пациентов эндоскопические обследования детям проводятся строго с 6 лет и без применения наркоза.</span></li>\r\n</ul>\r\n<p>Процедуру проводит врач-эндоскопист высшей категории <strong><a href=\"sotrudniki/paderin-valerij-borisovich/\">Валерий Борисович Падерин</a></strong>. Он помогает пациентам разобраться с желудочно-кишечными патологиями уже более 22 лет.</p>\r\n<p><strong>Звоните администраторам клиники «Источник» и записывайтесь на эндоскопические обследования ЖКТ по действительно выгодной цене: <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a> , в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>",
+      "title": "Проверьте желудочно-кишечный тракт со скидкой 25% в клинике «Источник»",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Современное эндоскопическое оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "006hand_114150.png",
+          "name": "Абсолютная безопасность для здоровья",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "chart_cured_increasing_statistics_icon_208956.png",
+          "name": "Высокая информативность исследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "error_cancel_stop_icon_131540.png",
+          "name": "Возможность пройти ФГДС во сне, без неприятных ощущений",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "syringe_icon-icons.com_63683.png",
+          "name": "Тонкие и гибкие эндоскопы c диаметром трубки 9,3 мм",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "interface_checkmark_check_success_read_icon_133015.png",
+          "name": "Качественная двухступенчатая обработка",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "virus_drugs_document_medical_investigation_vaccine_icon_140349.png",
+          "name": "Проводим биопсию во время процедуры",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "clock-time-control-tool-1_icon-icons.com_56823.png",
+          "name": "Можно одновременно пройти гастроскопию и колоноскопию",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 473,
+    "pagetitle": "Прием маммолога + УЗИ за 8370 ₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "priem-mammologa-uzi",
+    "uri": "about/offer/priem-mammologa-uzi",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 83,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1683114044,
+    "editedon": 1774269595,
+    "publishedon": 1774269595,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Клиника «Источник» разработала для вас комплексное предложение: вы можете в один визит в клинику совместить УЗИ молочных желез, а затем сразу же обсудить полученные результаты с онкологом-маммологом. Стоимость предложения будет ниже, чем те же самые услуги, оплачиваемые по отдельности.",
+      "dtxt": " УЗИ молочных желез и консультация онколога-маммолога за один визит за 8370 руб. ",
+      "newsImg": "Маммо-март-2026-875х320.png",
+      "newsImg2": "Маммо-март-2026-квадрат.png",
+      "newsImgMob": "Aksii/Маммо-март-2026-710х350.png",
+      "newsText": "УЗИ молочных желез и консультация онколога-маммолога за один визит за 8370 руб. ",
+      "photo_list": [
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "specListAction": "106",
+      "subTitleActions": "Акция действует до 19 июля 2026",
+      "textContent": "<p><strong>\"Источник\" против рака молочной железы!</strong></p>\r\n<p><span>Рак молочной железы – самое распространенное онкологическое заболевание в мире. По данным Всемирной организации здравоохранения, ежегодно регистрируется более 10 миллионов новых случаев рака молочной железы –  это удвоенное население Санкт-Петербурга. Успешнее всего рак молочной железы поддается лечению при раннем диагностировании. </span></p>\r\n<p><span>Любой женщине необходимо регулярно проходить обследование: женщинам до 40 лет рекомендуется посещать маммолога раз в 1-2 года, женщинам старше 40 лет - каждый год. </span></p>\r\n<p><b>До 19.07.2026 в</b> клинике действует акция \"Прием маммолога-онколога с УЗИ за 8370 руб.\" за один визит!</p>\r\n<p>Как и любое онкозаболевание, рак груди может быть крайне опасен для жизни женщины. Но заподозрить его несложно. Для этого достаточно раз в год сделать УЗИ молочных желез с регионарными лимфоузлами и консультироваться с акушером-гинекологом, а в случае необходимости – с онкологом-маммологом.</p>\r\n<p>Ультразвуковое исследование – простой, быстрый и безболезненный метод диагностики, который дает много ценной информации о здоровье груди.</p>\r\n<p>Звоните администраторам клиники «Источник» и записывайтесь на УЗИ и консультацию онколога-маммолога по телефону <strong> <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a></strong>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></p>\r\n<p></p>",
+      "title": "Прием маммолога + УЗИ  | Клиника Источник",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 474,
+    "pagetitle": "УЗИ щитовидной железы + приём эндокринолога за 8190 ₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "uzi-shhitovidnoj-zhelezyi-priyom-endokrinologa",
+    "uri": "about/offer/uzi-shhitovidnoj-zhelezyi-priyom-endokrinologa",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 84,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1683114391,
+    "editedon": 1775482506,
+    "publishedon": 1774269840,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Щитовидная железа – маленький, но очень важный орган. От него зависит наш обмен веществ, ведь железа вырабатывает тиреодиные гормоны. Недостаток или избыток этих гормонов одинаково опасен для человека: под удар сразу попадают сердечно-сосудистая, нервная и репродуктивная системы.",
+      "newsImg": "Щитовидка-март-2026-875х320.png",
+      "newsImg2": "Щито-март-2026-квадрат.png",
+      "newsImgMob": "Aksii/Щито-март-2026-710х350.png",
+      "newsText": "Оценка состояния щитовидной железы с приемом эндокринолога по результатам УЗИ за один визит 8190 руб. ",
+      "photo_list": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "specListAction": [
+        "94",
+        "350"
+      ],
+      "subTitleActions": "Акция действует до 19 июля 2026 ",
+      "textContent": "<p>Раз в год рекомендуется посетить эндокринолога и сделать УЗИ щитовидки с целью оценки динамики лечения при ранее выявленных патологиях, при появлении симптомов и для исключения патологий эндокринной системы.</p>\r\n<p>Щитовидная железа – маленький, но очень важный орган. От него зависит наш обмен веществ, ведь железа вырабатывает тиреодиные гормоны. Недостаток или избыток этих гормонов одинаково опасен для человека: под удар сразу попадают сердечно-сосудистая, нервная и репродуктивная системы</p>\r\n<p>При следующих симптомах откладывать визит к врачу опасно:</p>\r\n<ul>\r\n<li>припухлость, увеличение зоба; </li>\r\n<li>слабость, постоянное чувство усталости;</li>\r\n<li>потеря веса при хорошем аппетите;</li>\r\n<li>набор веса без видимых для этого причин;</li>\r\n<li>повышенная потливость;</li>\r\n<li>ощущение кома в горле;</li>\r\n<li>снижение памяти, внимания;</li>\r\n<li>сильная сухость кожи, ломкость ногтей, волос.</li>\r\n</ul>\r\n<p>Клиника «Источник» разработала для вас комплексное предложение: вы можете в один визит в клинику совместить УЗИ щитовидной железы, а затем сразу же обсудить полученные результаты с эндокринологом. Стоимость предложения будет ниже, чем те же самые услуги, оплачиваемые по отдельности.</p>\r\n<ul></ul>\r\n<p><strong>Записывайтесь на прием эндокринолога и обследование по выгодной цене: <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a> , в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>\r\n<p dir=\"ltr\"><strong> </strong></p>",
+      "title": "УЗИ щитовидной железы + приём эндокринолога | Клиника Источник",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 517,
+    "pagetitle": "R.E.M.S. Денситометрия + бесплатная консультация врача",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "r.e.m.s.-densitometriya-besplatnaya-konsultacziya-vracha",
+    "uri": "about/offer/r.e.m.s.-densitometriya-besplatnaya-konsultacziya-vracha",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 94,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1697026727,
+    "editedon": 1751631056,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Процедура R.E.M.S. Денситометрия по акции, получите бесплатную консультацию врача в подарок.",
+      "dtxt": "R.E.M.S. денситометрия показана людям старше 50 лет, людям с частыми переломами и женщинам в период менопаузы ",
+      "newsImg": "Dens-875х320.png",
+      "newsImg2": "Денситометрия-октябрь-слайдер.png",
+      "newsImgMob": "Aksii/densito.png",
+      "newsText": "Проверка плотности костей с помощью R.E.M.S денситометрии (без лучевой нагрузки) для выявления риска остеопороза и консультация врача по результату в подарок",
+      "photo_list": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Денситометр EchoStation др.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Денситометр EchoStation др.jpg"
+        }
+      ],
+      "specListAction": [
+        "84",
+        "103"
+      ],
+      "subTitleActions": "Акция действует до 31 июля 2024",
+      "textContent": "<p><strong>В клинике \"Источник\" можно проверить плотность кости с помощью R.E.M.S денситометрии (без лучевой нагрузки).</strong></p>\r\n<p>Знаете ли вы, что в 30-34 года ваши кости максимально крепки? А потом их плотность снижается. У всех это происходит с разной скоростью.</p>\r\n<p><span>В некоторых случаях выявляется остеопороз - заболевание, которое делает кости очень хрупкими. При остеопорозе переломы могут возникать даже при сильном кашле.</span><span><br /><br />Среди лиц старше 50 лет остеопороз выявляется у 34% женщин и 27% мужчин (данные ВОЗ).<br /><br />Из 100% людей, которые получили перелом по причине остеопороза, восстанавливается только каждый четвертый. <br /><br />Остеопороз на ранних стадиях заподозрить почти невозможно. Поэтому очень важно проходить обследования, которые позволяют с высокой точностью диагностировать его.<br /></span></p>\r\n<p><strong>Звоните администраторам клиники «Источник» и записывайтесь на R.E.M.S.-денситометрию и Вы получите консультацию врача в подарок. Запись по телефону +7 (812) 317-78-78, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бог в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>",
+      "title": "R.E.M.S. Денситометрия + бесплатная консультация врача | Клиника Источник",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "medical_result_health_document_virus_medical_coronavirus_icon_140693.png",
+          "name": "Проводим полноформатную диагностику всех систем и функций организма",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "medicine_care_medical_icon_192525.png",
+          "name": "Исследования проводятся на эхографическом денситометре Echolight SPA (Италия)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "clock-time-control-tool-1_icon-icons.com_56823.png",
+          "name": "Клиника в пешей доступности от станции метро Площадь Ленина (4 минуты)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "Более 50% врачей высшей категории и кандидаты медицинских наук",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 551,
+    "pagetitle": "Биоимпеданс + комментарий специалиста в подарок",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "kopiya-bioimpedans-kommentarij-speczialista-v-podarok",
+    "uri": "about/offer/kopiya-bioimpedans-kommentarij-speczialista-v-podarok",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 105,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1709311620,
+    "editedon": 1751631041,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Акция на процедуру Биоимпеданс + комментарий специалиста в подарок  в клинике \"Источник\".",
+      "dtxt": "Биомпеданс и экспресс-консультация за 2100 руб. ",
+      "newsHome": "1",
+      "newsImg": "bio-875х320.png",
+      "newsImg2": "bio2.png",
+      "newsImgMob": "Aksii/bio.png",
+      "newsText": "Оценка веса с помощью биоимпедансометрии и экспресс-консультация врача по результатам обследования 2100 руб.  Биоимпеданс-NEW-на-сайт.png",
+      "photo_list": [
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Анализатор состава тела inBody 370 др.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "Анализатор состава тела inBody 370 др.jpg"
+        }
+      ],
+      "specListAction": [
+        "350",
+        "94",
+        "95"
+      ],
+      "subTitleActions": "Акция действует до 31 июля 2024",
+      "textContent": "<p>Если лишние килограммы прилипли намертно или недостаток веса носит патологический характер, то выясняются причины проблем.</p>\r\n<p>Все мы разные, и основания для прибавки или недостатка веса - тоже. Поэтому вопрос веса имеет междисциплинарную направленность, и занимаются им эндокринологи, диетологи, гинекологи, гастроэнтерологи и не только. А начать работу над силуэтом можно с простого, быстрого и точного обследования – биоимпедансометрии.</p>\r\n<p>Специальный аппарат покажет, сколько в Вашем организме жира, воды, костной и мышечной массы.<br />Полученные результаты будут полезны не только для худеющих. Его активно используют:</p>\r\n<ul>\r\n<li>люди с низкой массой тела;</li>\r\n<li>спортсмены для контроля показателей и коррекции тренировок;</li>\r\n<li>пациенты с различными заболеваниями внутренних органов (эндокринных, болезнях почек, сердечно-сосудистой системы, опорно-двигательного аппарата и других).</li>\r\n</ul>\r\n<h3>Преимущества:</h3>\r\n<ol>\r\n<li>\r\n<p>Анализ состава тела \"жир-мышцы-вода\" позволяет узнать фактическое состояние состава Вашего тела, а не только вес - мышцы, жир, вода. Доля скелетных мышц и жира в теле отражает сбалансированность состава и показывает тот “идеал”, к которому стремиться нужно именно Вам, чтобы жить качественно и полноценно. Оценивает состав тела с распределением жировых отложений вокруг талии и бедер, висцелярного жира и в каждом из сегментов.</p>\r\n</li>\r\n<li>Возможность контроля веса, баланса тела относительно верхней и нижней частей, уровня базального метаболизма (ккал) — минимальный расход энергии, необходимый для процессов жизнедеятельности организма в состоянии покоя.</li>\r\n<li>Краткая расшифровка результатов квалифицированным врачом диетологом, эндокринологом, которая поможет скорректировать образ жизни.</li>\r\n<li>Оборудование от всемирно признанного эксперта в сфере биоимпедансного анализа состава тела человека InBody.</li>\r\n</ol>\r\n<p><strong>Записывайтесь на процедуру по телефону клиники «Источник»:  <strong><a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a> , в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></strong></p>",
+      "title": "Биоимпеданс + комментарий специалиста в подарок в клинике \"Источник\".",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "analytics_report_analysis_document_data_study_icon_143867.png",
+          "name": "Анализ состава тела: соотношение мышц, жира и воды ",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "diet_waist_icon_187484.png",
+          "name": "Оценка жировых отложений вокруг талии и бедер",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "hourglass_85974.png",
+          "name": "Контроль баланса между верхней и нижней частями тела",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "wondicon-ui-free-sleep_111270.png",
+          "name": "Расчет минимального расхода энергии в состоянии покоя",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "graph_analytics_charts_data_study_anaysis_icon_143871.png",
+          "name": "Даем понятную краткую расшифровку результатов ",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "Комментарии специалиста (диетолога, эндокринолога)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "error_cancel_stop_icon_131540.png",
+          "name": "Поможем скорректировать образ жизни без стресса",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Используем инновационное оборудование InBody",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 553,
+    "pagetitle": "ЭКО за 99 000 ₽ и криоперенос за 49 000 ₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "eko-za-99-000-rublej",
+    "uri": "about/offer/eko-za-99-000-rublej",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 1,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1710311436,
+    "editedon": 1771598200,
+    "publishedon": 1738319400,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "columnsActions": [
+        {
+          "MIGX_id": "1",
+          "column": "<h2>ПРОГРАММА «ЭКО за 99000 рублей»:</h2>\n<ul>\n<li>3 приема акушера-гинеколога-репродуктолога в рамках программы;</li>\n<li>3 УЗИ-мониторинга фолликулогенеза;</li>\n<li>прием анестезиолога;</li>\n<li>внутривенный наркоз;</li>\n<li>пункцию фолликулов;</li>\n<li>очистку и подготовку ооцитов;</li>\n<li>выделение из эякулята и подготовка сперматозоидов;</li>\n<li>оплодотворение методом ЭКО;</li>\n<li>культивирование эмбрионов;</li>\n<li>пребывание в палате дневного стационара (1 день);</li>\n<li>осмотр лечащим врачом с наблюдением и уходом среднего и младшего медицинского персонала в отделении ВРТ</li>\n<li>осмотр лечащего врача совместно с заведующим отделением ВРТ.</li>\n</ul>\n<p><strong>Условия акции:</strong></p>\n<ul>\n<li>Лекарственные препараты, перенос эмбрионов, криоконсервация, криохранение, дополнительные манипуляции в стоимость программ ЭКО по акции не входят и оплачиваются пациентами отдельно.</li>\n<li>Дополнительно лечащим врачом могут быть назначены услуги: перенос эмбрионов, дополнительные приемы врача акушера-гинеколога-репродуктолога, УЗИ мониторинги фолликулогенеза и пр. В случае переноса эмбриона процедура проводится в рамках акции \"ЭКО за 99 000 руб.\" по сниженной цене - 25000 руб. </li>\n<li>Бесплатный прием репродуктолога по акции предполагает изучение медицинской документации, знакомство и беседу с врачом, рекомендации по выбору программы на основе имеющихся данных. </li>\n<li>Бесплатный прием репродуктолога по акции не включает в себя осмотр в гинекологическом кресле и УЗИ.</li>\n<li>Акция не суммируется с другими скидками и специальными условиями, действующими в аналогичный период.</li>\n<li>Пациентка имеет право воспользоваться данной программой несколько раз в срок до 31 декабря 2026 года включительно, если она до начала программы ЭКО оплатит её стоимость в полном объёме. </li>\n<li>Врачи, ведущие прием по данной акции: Койстрик А.В., Ломова-Митрофанова Т.Ю., Зейналова А.Э.</li>\n</ul>"
+        },
+        {
+          "MIGX_id": "2",
+          "column": "<h2>ПРОГРАММА \"Криоперенос за 49000 рублей\":</h2>\n<ul>\n<li>разморозка эмбрионов (1 носитель)</li>\n<li>перенос эмбрионов в полость матки</li>\n<li>вспомогательный хэтчинг</li>\n<li>осмотр лечащим врачом с наблюдением и уходом среднего и младшего медицинского персонала в отделении ВРТ (1 день)</li>\n</ul>\n<p><strong>Условия акции:</strong></p>\n<ul>\n<li>отдельно оплачиваются EmbryoGlue (специальная среда для фиксирования эмбрионов в полости матки), приемы врачей, УЗИ-мониторинги, лекарственные препараты.</li>\n<li>Акция не суммируется с другими скидками и специальными условиями, действующими в аналогичный период.</li>\n<li>Врачи, ведущие прием по данной акции: Никитин С.В., Арутюнян А.Ф., Койстрик А.В., Ломова-Митрофанова Т.Ю., Зейналова А.Э.</li>\n</ul>"
+        }
+      ],
+      "columnsCaption": "Описание программ по специальным ценам",
+      "des": "Приём любого репродуктолога для подбора программы ЭКО, включая заведующего отделением ВРТ, к.м.н. Никитина Сергея Васильевича в подарок! Приходите, знакомьтесь с врачом, определяйтесь с тактикой лечения и исполняйте свою мечту!",
+      "dtxt": "Подбор программы лечебного цикла ЭКО, подходящей именно Вам с учетом индивидуальных показаний, репродуктолог определит на консультации, которую вы получите в подарок. ",
+      "newsImg": "Aksii/Специальные-цены-875х320.png",
+      "newsImg2": "Aksii/ЭКО-99-крио-49-квадрат.png",
+      "newsImgMob": "Aksii/Спациальные-цены-710х350.png",
+      "newsText": "ЭКО за 99 000 руб. и прием врача репродуктолога в подарок!",
+      "photo_list": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "foto/5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "specListAction": [
+        "408",
+        "91",
+        "225",
+        "563",
+        "727"
+      ],
+      "subTitleActions": "Акция действует до 31 декабря 2026",
+      "textContent": "<p dir=\"ltr\"><span>Мы сохранили цены на самые популярные программы ЭКО для всех пациентов независимо от того, какую программу вы планируете: в свежем цикле или криоперенос, по ОМС или платно. </span></p>\r\n<h2><span>Наши специальные цены для пациентов:</span></h2>\r\n<ul>\r\n<li><span><span>которые не хотят ждать очереди на ОМС</span></span></li>\r\n<li><span><span>которые ценят свое время и хотят стать родителями в максимально короткие сроки</span></span></li>\r\n<li><span><span>которые ищут клинику, чтобы “сменить” руку врача и эмбриолога</span></span></li>\r\n<li><span><span>которые ищут \"своего\" врача </span></span></li>\r\n<li><span><span>которым отказали в квоте на проведение ЭКО по ОМС</span></span></li>\r\n<li><span><span>у которых есть направление на ЭКО по ОМС, но по каким-то причинам вы не успели им воспользоваться</span></span></li>\r\n<li><span><span>для тех, кто ищет индивидуального и системного подхода к своему особому случаю</span></span></li>\r\n<li><span><span>для тех, кому \"ЭКО - дорого\".</span></span></li>\r\n</ul>\r\n<p><strong>* Клиника \"Источник\" входит в <a href=\"https://award.doctorpiter.ru/top-10-2025\" target=\"_blank\">ТОП-10 клиник ЭКО</a>, по мнению Городской ежегодной премии \"Доктор Питер\". </strong></p>",
+      "title": "Акция ЭКО за 99 000 ₽ и криоперенос за 49 000 ₽ - Клиника \"Источник\" СПб",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "syringe_icon-icons.com_63683.png",
+          "name": "Эффективные программы ВРТ: ЭКО, ИКСИ, криопереносы, донорские программы",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "В нашей клинике работают репродуктологи со стажем более 20 лет",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "microscope_science_biology_scientific_research_chemistry_laboratory_icon_140901.png",
+          "name": "Эмбриолаборатория с автоматической системой контроля RI Witness",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Эффективность ЭКО в нашей клинике составляет 53% при криопереносах",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "24hours1_122404.png",
+          "name": "Круглосуточная система мониторинга эмбрионов Timelapse",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "medical_result_health_document_virus_medical_coronavirus_icon_140693.png",
+          "name": "Проводим предимплантационную генетическую диагностику (ПГД)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "babygirl_83972 (2).png",
+          "name": "Доступно бесплатное ЭКО по ОМС (по квоте) из любого региона РФ",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "006hand_114150.png",
+          "name": "Персонализированный подход к каждому случаю бесплодия",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 568,
+    "pagetitle": "Скидка 10% участникам СВО",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "svo10",
+    "uri": "about/offer/svo10",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 16,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1713521133,
+    "editedon": 1765801086,
+    "publishedon": 1713433320,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "При предъявлении справки об участии в СВО предоставляется 10% скидка на услуги клиники",
+      "dtxt": "Скидка 10% на все услуги кроме ЭКО, обследований и анализов, предоставляемых организациями-партнерами.",
+      "newsImg": "svo-875х320.png",
+      "newsImg2": "svo.jpg",
+      "newsImgMob": "Aksii/svo.png",
+      "newsText": "При предъявлении справки об участии в СВО скидка 10% на медицинские услуги. ",
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "specListAction": [
+        "100",
+        "80",
+        "108",
+        "84",
+        "94",
+        "95",
+        "98",
+        "97",
+        "103",
+        "336",
+        "106",
+        "350",
+        "544",
+        "341",
+        "104",
+        "409",
+        "566",
+        "110",
+        "585"
+      ],
+      "subTitleActions": "Акция действует до 31 декабря 2026",
+      "textContent": "<p>Ваше здоровье - важно и ценно всегда! Мы его ценим также, как вы цените нашу стабильность и безопасность.</p>\r\n<p><strong>У нас Вы можете:</strong></p>\r\n<ul>\r\n<li>пройти УЗ-обследования, эндоскопические обследования ЖКТ, функциональную диагностику сердца и сердечно-сосудистой системы ЭКГ и другие процедуры в кабинете функциональной диагностики</li>\r\n<li>получить консультацию терапевтов и врачей узкой специализации (уролог, ЛОР-врач, офтальмолог, гастроэнтеролог, ортопед, колопроктолог, эндокринолог, травматолог, дерматолог, хирург и других)</li>\r\n<li>проконсультироваться с психологом и психотерапевтом, неврологом, нейрохирургом.</li>\r\n</ul>\r\n<p><strong>Скидка не распространяется на:</strong></p>\r\n<ul>\r\n<li>услуги и анализы, которые проводят сторонние организации</li>\r\n<li>медицинские услуги, оказываемые в рамках ДМС и оплачиваемые за Участника третьими лицами (юридическими лицами, организациями за своих сотрудников)</li>\r\n<li>медицинские услуги в рамках программ ЭКО</li>\r\n</ul>\r\n<p><strong>Условия предоставления скидки:</strong></p>\r\n<ul>\r\n<li>наличие справки Участника СВО </li>\r\n<li>скидка не суммируется с другими акциями и скидками</li>\r\n<li>бонусы при предоставлении скидки 10% не начисляются.</li>\r\n</ul>\r\n<p><span>* Подробности уточняйте у администраторов клиники \"Источник\" по телефону: +7 (812) 317-78-78. </span></p>\r\n<p></p>",
+      "title": "Скидка 10% участникам СВО",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 50 направлений медицинской помощи",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "Икнонка3 (1).jpg",
+          "name": "Команда врачей профессионалов",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 590,
+    "pagetitle": "Удаление новообразования с приемом врача и гистологией за 6900₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "dermatology6900",
+    "uri": "about/offer/dermatology6900",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 12,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1719483056,
+    "editedon": 1751630989,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Удаление новообразования по акции с приемом врача и гистологией за 6900₽  в клинике \"Источник\" выгодно и качественно.",
+      "newsImg": "udal-875х320.png",
+      "newsImg2": "Delete S.png",
+      "newsImgMob": "Aksii/novoobr.png",
+      "newsText": "Удаление одного новообразования с приемом врача, дерматоскопией и анализом на гистологию.",
+      "photo_list": [
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "9",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_4 (1).jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_5 (1).jpg"
+        },
+        {
+          "MIGX_id": "11",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_2.jpg"
+        },
+        {
+          "MIGX_id": "13",
+          "photo_link": "",
+          "equipment_i": "photo_cispb_3.jpg"
+        }
+      ],
+      "specListAction": [
+        "104",
+        "346",
+        "88"
+      ],
+      "subTitleActions": "Акция действует до 01 октября 2024",
+      "textContent": "<h3 dir=\"ltr\"><strong>Чистая кожа - это здорово!</strong></h3>\r\n<p><strong>Удаление одного новообразования (родинки, папилломы, невуса и пр., в том числе, в интимной зоне) с приемом врача, дерматоскопией и анализом на гистологию за 6900 руб.</strong></p>\r\n<p dir=\"ltr\"><span>Наши врачи дерматологи используют щадящий инновационный </span><span>молекулярно-резонансный аппарат Vesalius LX80. В основе аппарата Vesalius, производства компании Telea Electronic Engineering Srl (Италия), лежит принцип молекулярного резонанса, который имеет ряд преимуществ в сравнении с другими методами:</span></p>\r\n<ul>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>температура в зоне разреза 45-55 град. С, что исключает тепловой некроз и обугливание краев раны и ускоряет заживление.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>для рассечения ткани не требуется механическое усилие. Заживление происходит в короткие сроки без образования рубцов.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>аппарат позволяет выполнять удаления в непосредственной близости от кровеносных сосудов и нервных окончаний.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>возможность одновременного рассечения тканей и коагуляции позволяет свести к минимуму кровопотерю, удаление проходит в “сухой” ране.</span></p>\r\n</li>\r\n</ul>\r\n<p dir=\"ltr\"><span><strong>После операции</strong> часть удаленного новообразования направляется на гистологию для исключения наличия злокачественных клеток. </span></p>\r\n<p dir=\"ltr\"><span><strong>Перед удалением</strong> врач тщательно осматривает новообразование, исследует кожу с помощью специального оптического оборудования для частичной диагностики злокачественности в самом начале процесса, проводит местную анестезию.</span></p>\r\n<p dir=\"ltr\"><span><strong>Время процедуры удаления:</strong> не более часа, в зависимости от размеров новообразования.</span></p>\r\n<p dir=\"ltr\"><span><strong>После удаления</strong> образуется корочка, которая самостоятельно отпадает через несколько дней. Врач предоставляет все рекомендации по наблюдению и уходу за раной.</span></p>\r\n<p dir=\"ltr\"><span> </span></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\"><span><strong>Записывайтесь на комплексную программу “Удаление одного новообразования с гистологическим исследованием” по выгодной цене: <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a> , в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></span></p>\r\n<p dir=\"ltr\"><strong> </strong></p>",
+      "title": "Удаление новообразования с приемом врача и гистологией за 6900₽  в клинике \"Источник\"",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "006hand_114150.png",
+          "name": " Щадящее инновационное оборудование европейского производителя",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Заживление в кратчайшие сроки без образования рубца",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "blood_medicine_medical_icon_228721.png",
+          "name": "Минимальная кровопотеря и удаление в \"сухой\" ране",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "checkmarksquare_111077.png",
+          "name": "Удаление в непосредственной близости от кровеносных сосудов и нервных окончаний ",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 591,
+    "pagetitle": "Консультация ведущих репродуктологов с опытом более 30 лет. Бесплатно",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "difficult",
+    "uri": "about/offer/difficult",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 13,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1719499253,
+    "editedon": 1768207635,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Пройдите бесплатную первичную консультацию ведущих репродуктологов клиники и СПб заведующего отделением ВРТ, к.м.н., репродуктолога Никитина С.В. или Ломовой-Митрофановой Т.Ю.",
+      "newsImg": "LN 875х320.png",
+      "newsImg2": "LN 875х320.png",
+      "newsImgMob": "Aksii/LN710х350.png",
+      "newsText": "Бесплатная первичная консультация ведущих репродуктологов для пациентов со сложными случаями бесплодия.  ",
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_2024-07-29_17-50-06.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        },
+        {
+          "MIGX_id": "8",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd418406b.jpg"
+        },
+        {
+          "MIGX_id": "10",
+          "photo_link": "",
+          "equipment_i": "photo_2024-07-29_17-50-06.jpg"
+        }
+      ],
+      "specListAction": [
+        "225",
+        "563"
+      ],
+      "subTitleActions": "Акция действует до 31 декабря 2025",
+      "textContent": "<h3 dir=\"ltr\">Описание акции:</h3>\r\n<p dir=\"ltr\">Акция распространяется на пациентов:</p>\r\n<ul>\r\n<li>с неудачными попытками ЭКО в прошлом (более 2 попыток в анамнезе),</li>\r\n<li>на женщин со сниженным овариальным резервом,</li>\r\n<li>при выявленной онкопатологии и при наличии репродуктивных планов у пары,</li>\r\n<li>на женщин старшего репродуктивного возраста (более 35 лет).</li>\r\n</ul>\r\n<p dir=\"ltr\">В клинике “Источник” вы сможете получить квалифицированную консультацию одного из ведущих репродуктологов Санкт-Петербурга, заведующего отделением ВРТ, к.м.н. <a href=\"sotrudniki/nikitin-sergej-vasilevich\" target=\"_blank\">Никитина Сергея Васильевича</a> или врача акушера-гинеколога, репродуктолога, врача УЗД <a href=\"sotrudniki/Lomova-Mitrofanova-Tatyana-YUrevna/\" target=\"_blank\">Татьяны Юрьевны Ломовой-Митрофановой</a> абсолютно бесплатно!</p>\r\n<h3 dir=\"ltr\"><span>Условия предоставления скидки:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Бесплатный первичный прием предоставляется квалифицированным врачом репродуктологом, акушером-гинекологом, заместителем главного врача по ВРТ Никитиным Сергеем Васильевичем или врачом репродуктологом, акушером-гинекологом, врачом УЗД Татьяны Юрьевны Ломовой-Митрофановой. Первичный консультативный прием включает в себя: подробный сбор анамнеза, изучение медицинской документации, консультацию с программой дальнейших шагов по обследованию и/ или лечению. Для вашего удобства возможен онлайн-прием (телемедицинская консультация), осуществляется по предварительной записи. </span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Для предоставления скидки 100% на прием в рамках предложения необходимыми условиями являются показания (одно или несколько), изложенные в разделе \"Описание акции\", поэтому при себе необходимо иметь медицинскую документацию (выписку из карт, результаты анализов, выписки из эмбриопротоколов, заключения иных наблюдающих специалистов и т.п.) При ее отсутствии прием оплачивается в полном объеме согласно стоимости, указанной в прейскуранте клиники “Источник”. Жалобы и претензии в этом случае администрацией не рассматриваются.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Скидка распространяется на пациентов, обратившихся к врачу Никитину С.В. или врачу Ломовой-Митрофановой Т.Ю. впервые. Получить бесплатную консультацию можно у указанных специалистов один раз, последующие приемы оплачиваются по прейскуранту.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Необходима предварительная запись по телефонам клиники.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Обычная цена (вне предложения) первичного приема врача репродуктолога, к.м.н., заместителя главного врача по ВРТ Сергея Васильевича Никитина - 8600 руб., репродуктолога, акушера-гинеколога, врача УЗД Татьяны Юрьевны Ломовой-Митрофановой — 5500 руб.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Скидка не суммируется с другими акциями и скидками клиники и не распространяется на другие услуги. Бонусы не начисляются.</span></p>\r\n</li>\r\n</ul>\r\n<p dir=\"ltr\">* Клиника \"Источник\" вошла в ТОП-10 клиник ЭКО в 2025 году, по версии <a href=\"https://award.doctorpiter.ru/top-10-2025\" target=\"_blank\">Ежегодной премии в области частной медицины \"Доктор Питер\". </a></p>\r\n<p><span> </span></p>",
+      "title": "Бесплатная первичная консультация врача ведущих репродуктологов клиники по сложным случаям",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "syringe_icon-icons.com_63683.png",
+          "name": "Эффективные программы ВРТ: ЭКО, ИКСИ, криопереносы, донорские программы",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "В нашей клинике работают репродуктологи со стажем более 20 лет",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "microscope_science_biology_scientific_research_chemistry_laboratory_icon_140901.png",
+          "name": "Эмбриолаборатория с автоматической системой контроля RI Witness",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Эффективность ЭКО в нашей клинике составляет 53% при криопереносах",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "24hours1_122404.png",
+          "name": "Круглосуточная система мониторинга эмбрионов Timelapse",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "medical_result_health_document_virus_medical_coronavirus_icon_140693.png",
+          "name": "Проводим предимплантационную генетическую диагностику (ПГД)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "babygirl_83972 (2).png",
+          "name": "Доступно бесплатное ЭКО по ОМС (по квоте)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "006hand_114150.png",
+          "name": "Индивидуальный подход к каждому случаю бесплодия",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 616,
+    "pagetitle": "Любой* прием врача репродуктолога с УЗИ органов малого таза от 6500 ₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "povtornyij-priem-vracha-reproduktologa-s-uzi-organov-malogo-taza-ot-6500",
+    "uri": "about/offer/povtornyij-priem-vracha-reproduktologa-s-uzi-organov-malogo-taza-ot-6500",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 14,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1729681841,
+    "editedon": 1768207595,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Клиника «Источник» разработала для своих любимых пациентов комплексное предложение: первичный и повторный прием врача акушера-гинеколога, репродуктолога, в том числе, заместителя главного врача по ВРТ с УЗИ органов малого таза от 6500  ₽! Стоимость предложения будет ниже, чем те же самые услуги, оплачиваемые по отдельности - скидка более 15%!",
+      "dtxt": "Прием врача репродуктолога первичный и повторный с УЗИ органов малого таза от 6500 ₽",
+      "newsImg": "875х320.png",
+      "newsImg2": "nolim.png",
+      "newsImgMob": "710х350.png",
+      "photo_list": [
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "photo_list2": [
+        {
+          "MIGX_id": "2",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcdf0a40a.jpg"
+        },
+        {
+          "MIGX_id": "3",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dca5980f3.jpg"
+        },
+        {
+          "MIGX_id": "4",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dcf44787c.jpg"
+        },
+        {
+          "MIGX_id": "5",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd2e8a8d7.jpg"
+        },
+        {
+          "MIGX_id": "6",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd3cc7e44.jpg"
+        },
+        {
+          "MIGX_id": "7",
+          "photo_link": "",
+          "equipment_i": "5ef97e11f4c6926e9026ee1c_5fa8dd435ed8e.jpg"
+        }
+      ],
+      "specListAction": [
+        "563",
+        "91",
+        "408",
+        "225"
+      ],
+      "subTitleActions": "Предложение действует до 31 декабря 2025",
+      "textContent": "<p><strong>Только для наших пациентов действует комплексное предложение: любой* прием врача репродуктолога, в том числе, заведующего отделением, с УЗИ органов малого таза со скидкой более 15% - от 6500 рублей.</strong></p>\r\n<p>Мы следуем вместе с вами к вашей заветной мечте стать родителями здорового малыша.</p>\r\n<p>Мы стараемся сделать так, чтобы каждый прием у репродуктолога был для вас полезным и максимально информативным.</p>\r\n<p>Мы знаем, насколько трепетно и бережно нужно подходить к каждому случаю.</p>\r\n<p>Мы понимаем, что вы ищете ту клинику, где заботятся о вас во всех направлениях. Поэтому скидка 15% создана именно для вас и именно с целью заботы о вас. </p>\r\n<p>УЗ-исследование органов малого таза - неотъемлемая часть практически любого посещения репродуктолога. УЗИ дает картину о состоянии здоровья женщины и этапе, на котором пара находится в процессе подготовки к ВРТ. <a href=\"katalog/uzi-pri-beremennosti/\" target=\"_blank\">УЗИ-контроль</a> позволяет вашему лечащему врачу репродуктологу оценить состояние репродуктивных органов женщины (труб, матки, яичников и др.) и составить индивидуальный план лечения и наблюдения. </p>\r\n<p>Сэкономьте 15% на приемах с УЗИ органов малого таза у репродуктолога - записывайтесь по телефону <strong> <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a></strong>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></p>\r\n<p>*Под \"любым приемом\" подразумевается \"первичный\" или \"повторный прием\" с УЗИ органов малого таза.</p>",
+      "title": "Прием репродуктолога с УЗИ  | Клиника Источник",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "syringe_icon-icons.com_63683.png",
+          "name": "Эффективные программы ВРТ: ЭКО, ИКСИ, криопереносы, донорские программы",
+          "text": ""
+        },
+        {
+          "MIGX_id": "2",
+          "img": "medical_mask_mask_pollution_medical_security_icon_140702.png",
+          "name": "В нашей клинике работают репродуктологи со стажем более 20 лет",
+          "text": ""
+        },
+        {
+          "MIGX_id": "3",
+          "img": "microscope_science_biology_scientific_research_chemistry_laboratory_icon_140901.png",
+          "name": "Эмбриолаборатория с автоматической системой контроля RI Witness",
+          "text": ""
+        },
+        {
+          "MIGX_id": "4",
+          "img": "thumb-up-stroke_icon-icons.com_57954 (1).png",
+          "name": "Эффективность ЭКО в нашей клинике составляет 53% при криопереносах",
+          "text": ""
+        },
+        {
+          "MIGX_id": "5",
+          "img": "24hours1_122404.png",
+          "name": "Круглосуточная система мониторинга эмбрионов Timelapse",
+          "text": ""
+        },
+        {
+          "MIGX_id": "6",
+          "img": "medical_result_health_document_virus_medical_coronavirus_icon_140693.png",
+          "name": "Проводим предимплантационную генетическую диагностику (ПГД)",
+          "text": ""
+        },
+        {
+          "MIGX_id": "7",
+          "img": "babygirl_83972 (2).png",
+          "name": "Доступно бесплатное ЭКО по ОМС (по квоте) из любого региона РФ",
+          "text": ""
+        },
+        {
+          "MIGX_id": "8",
+          "img": "006hand_114150.png",
+          "name": "Персонализированный подход к каждому случаю бесплодия",
+          "text": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 637,
+    "pagetitle": "Программы по диетологии \"Идеальный вес\" от 11300₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "dietology",
+    "uri": "about/offer/dietology",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 15,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1734016782,
+    "editedon": 1773654838,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "columnsActions": [
+        {
+          "MIGX_id": "1",
+          "column": "<h3>Программа \"Идеальный вес. Базовый\". </h3>\n<h3><strong>Стоимость: 11 300 ₽</strong></h3>\n<ul>\n<li>Прием врача-диетолога</li>\n<li>Биоимпедансометрия</li>\n<li>Ультразвуковое исследование щитовидной железы</li>\n<li>Ультразвуковое исследование органов брюшной полости (печень, желчный пузырь, поджелудочная железа, селезенка)</li>\n</ul>"
+        },
+        {
+          "MIGX_id": "2",
+          "column": "<h3>Программа \"Идеальный вес. Оптимальный\".</h3>\n<h3>Стоимость: 46 000 <strong>₽</strong></h3>\n<ul>\n<li>3 приема врача-диетолога в рамках программы</li>\n<li>2 биоимпедансометрии</li>\n<li>Прием эндокринолога в рамках программы</li>\n<li>Прием гастроэнтеролога в рамках программы</li>\n<li>Прием психолога/психотерапевта в рамках комплексной программы</li>\n<li>Ультразвуковое исследование органов брюшной полости (печень, желчный пузырь, поджелудочная железа, селезенка)</li>\n<li>Клинический анализ крови: общий анализ, лейкоформула, СОЭ (с микроскопией мазка крови при наличии патологических сдвигов</li>\n<li>Аланинаминотрансфераза (АЛТ)</li>\n<li>Аспартатаминотрансфераза (ACT)</li>\n<li>Билирубин общий</li>\n<li>Билирубин прямой</li>\n<li>Креатинин</li>\n<li>Мочевина</li>\n<li>Мочевая кислота</li>\n<li>Липиды (холестерин, триглицериды, холестерин ЛПВП, ЛПНП, ЛПОНП, коэфф. атерогенности)</li>\n<li>Общий белок</li>\n<li>Высокочувствительный С-реактивный белок (кардио), (СРБ высокочувствительный, high sensitlvity CRP. hs-CRP)</li>\n<li>Тиреотропный гормон (ТТ,тиротропин,Тhугоіd Stimulating Hormone,TSH)</li>\n<li>Тироксин свободный (fT4)</li>\n<li>Антитела к тиреопероксидазе</li>\n<li>Гликозилированный гемоглобин (HBA1с)</li>\n<li>Индекс ипсулинорезистентности (глюкоза, инсулин, расчетный индекс инсулинорезистентности HOMA-IR)</li>\n<li>Кортизол (вечер)</li>\n<li>Пролактин</li>\n<li>Витамин В12</li>\n<li>Фолиевая кислота</li>\n<li>25-OH витамин D</li>\n<li>Кальций общий (Са)</li>\n<li>Магний</li>\n<li>Взятие крови из периферической вены</li>\n<li>Железо</li>\n<li>Ферритин</li>\n</ul>"
+        }
+      ],
+      "columnsCaption": "Программы \"Идеальный вес\"",
+      "des": "Ведущие врачи диетологи, эндокринологи и гастроэнтерологи клиники \"Источник\" разработали для вас программы по диетологии \"Идеальный вес\". Программа представлена в 2 форматах - без анализов \"Базовая\" и с анализами \"Оптимальная\". Выбирайте ту программу, которая подходит именно вам - в обоих случаях за вашим здоровьем и динамикой будут следить наши врачи! ",
+      "newsImg": "Идеал875х320.png",
+      "newsImg2": "Идеал-без-рамки.png",
+      "newsImgMob": "Идеал710х350.png",
+      "specListAction": [
+        "350",
+        "95"
+      ],
+      "subTitleActions": "Акция действует до 15.03.2026",
+      "textContent": "<p>И ожирение, и дефицит массы тела - актуальные проблемы современного мира. Жить в своем идеальном весе - это баланс и радость от жизни. </p>\r\n<p>Зачастую проблемы с весом появляется даже при соблюдении, казалось бы, правильного питания и ЗОЖ.</p>\r\n<p>Для выявления причин лишнего веса или его снижения мы разработали две специальные комплексные программы, позволяющие определить источник проблемы и получить квалифицированные рекомендации врачей по коррекции и сохранению достигнутых результатов.</p>\r\n<h3>Кому подходят программы?</h3>\r\n<p>Мужчинам и женщинам при наличии следующих показаний:</p>\r\n<ul>\r\n<li>прибавка или резкое снижение веса на фоне привычного образа жизни</li>\r\n<li>ожирением: ИМТ выше 30 <span>кг/м²</span></li>\r\n<li>избыточный вес и ИМТ выше 27 <span>кг/м²</span> в сочетании с: абдоминальным типом ожирения, окружностью талии более 80 см для женщин и 94 см для мужчин</li>\r\n<li>наличие сахарного диабета или артериальной гипертензии</li>\r\n<li>наследственная предрасположенность к сахарному диабету или артериальной гипертонии</li>\r\n<li>повышенный уровень холестерина</li>\r\n<li>метаболическом синдроме</li>\r\n<li>расстройствах пищевого поведения</li>\r\n<li><span>дефицитом массы тела: ИМТ ниже 18,4 <span>кг/м²</span></span></li>\r\n</ul>\r\n<p><strong>Живите в идеальном весе и в гармонии с собой - записывайтесь по телефону  <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>\r\n<p></p>",
+      "title": "Комплексные программы по диетологии | Клиника Источник"
+    }
+  },
+  {
+    "id": 640,
+    "pagetitle": "Программа ЭКО \"Сопровождение до рождения\" 200000 ₽",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "expertguide",
+    "uri": "about/offer/expertguide",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 16,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1734611519,
+    "editedon": 1772194087,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "columnsCaption": "\"Сопровождение до рождения\"",
+      "des": "Ведущие специалисты отделения ВРТ разработали программу ЭКО \"Сопровождение до рождения\". Программа направлена на комплексное преодоление бесплодия в паре и включает в себя цикл ЭКО с экспертными консультациями сразу трех специалистов: заведующего отделением ВРТ, к.м.н., репродуктолога Никитина С.В. + консультации психолога, д.пс.н. Пикулевой О.А. + генетика Двойной Н.М. ",
+      "newsImg": "Сопровождение-875х320.png",
+      "newsImg2": "Сопровождение-без-рамки.png",
+      "newsImgMob": "Сопровождение-710х350.png",
+      "specListAction": [
+        "563",
+        "624",
+        "108"
+      ],
+      "subTitleActions": "Бессрочно",
+      "textContent": "<p><span>Основываясь на колоссальном опыте наших экспертов <a href=\"sotrudniki/nikitin-sergej-vasilevich\" target=\"_blank\">Никитина С.В.</a>, к.м.н., заведующего отделением ВРТ, репродуктолога, <a href=\"sotrudniki/pikulyova-oksana-anatolevna\" target=\"_blank\">Пикулевой О.А.</a>, психолога, д.пс.н., и <a href=\"sotrudniki/Dvojnova-Natalya-Mihajlovna/\" target=\"_blank\">Двойновой Н.М.</a> врача генетика, мы разработали программу ЭКО \"Сопровождение до рождения\".</span></p>\r\n<h3><strong><span>Для кого эта программа?</span></strong></h3>\r\n<ul>\r\n<li><span>Для пациентов, которые знают, что любой исход лечения бесплодия - это опыт, который дает врачу подсказки для дальнейшей тактики и получения желанной беременности.</span></li>\r\n<li><span>Для пациентов, которые готовы рука об руку идти со своим врачом к мечте - здоровой беременности и малышу.</span></li>\r\n<li><span>Для пациентов, которые хотят не просто получать медикаментозное лечение, но готовы встретиться с собой и истинными мотивами.</span></li>\r\n<li><span>Для пациентов, которые столкнулись с бесплодием неясного генеза и психологическими аспектами, мешающими зачатию и вынашиванию.</span></li>\r\n<li><span>Для пациентов, которые понимают,</span> что стресс и негативные мысли могут ухудшить наше самочувствие, а позитивный настрой – это  мощнейший инструмент для улучшения здоровья и результата.</li>\r\n<li>Для пациентов с множественными неудачными попытками ЭКО и привычным невынашиванием.</li>\r\n<li>Для пациентов с отягченным анамнезом, включая онкопатологию. </li>\r\n</ul>\r\n<h3><span style=\"font-size: 1.17em;\">Что входит в программу ЭКО \"Сопровождение до рождения\":</span></h3>\r\n<ul>\r\n<li>Один консультативный прием врача-акушера-гинеколога (врача-репродуктолога) первичный<span style=\"white-space: pre;\"> без осмотра в гинекологическом кресле, без УЗИ</span></li>\r\n<li>Три приема акушера-гинеколога, заведующего отделением ВРТ, к.м.н.<span style=\"white-space: pre;\"> Никитина С.В.</span></li>\r\n<li>Две консультации доктора психологических наук, психолога Пикулевой О.А.</li>\r\n<li>Один прием медицинского генетика Двойновой Н.М.</li>\r\n<li>Три ультразвуковых мониторинга <span style=\"white-space: pre;\"> </span></li>\r\n<li>Прием анестезиолога<span style=\"white-space: pre;\"> </span></li>\r\n<li>Внутривенный наркоз<span style=\"white-space: pre;\"> </span></li>\r\n<li>Пункция фолликулов в программе ВРТ<span style=\"white-space: pre;\"> </span></li>\r\n<li>Очистка и подготовка ооцитов<span style=\"white-space: pre;\"> </span></li>\r\n<li>Выделение сперматозоидов из эякулята<span style=\"white-space: pre;\"> </span></li>\r\n<li>Оплодотворение методом ЭКО<span style=\"white-space: pre;\"> </span></li>\r\n<li>Культивирование эмбрионов<span style=\"white-space: pre;\"> </span></li>\r\n<li>Перенос эмбрионов в полость матки<span style=\"white-space: pre;\"> </span></li>\r\n<li>Фиксирование эмбрионов в полости матки специализированной средой (EmbryoGlue)<span style=\"white-space: pre;\"> </span></li>\r\n<li>Два осмотра врачом-специалистом с наблюдением и уходом среднего и младшего медицинского персонала в отделении ВРТ </li>\r\n</ul>\r\n<p>Обращаем ваше внимание: в стоимость программы не входят препараты для стимуляции овуляции.</p>\r\n<h3><strong>Стоимость программы \"Сопровождение до рождения\" - 200 000 ₽</strong></h3>\r\n<p>* Клиника \"Источник\" входит в ТОП-10 клиник ЭКО в 2024 году, по версии <a href=\"https://award.doctorpiter.ru/ceremony_2024\">Ежегодной премии в области частной медицины \"Доктор Питер\".</a> </p>\r\n<p><strong>Следуйте за своей мечтой вместе с нашими экспертами - записывайтесь по телефону  <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм.</a></strong></p>\r\n<p></p>\r\n<p></p>",
+      "title": "Комплексные программы лечение бесплодия | Клиника Источник"
+    }
+  },
+  {
+    "id": 701,
+    "pagetitle": "Консультация перед операцией врача уролога бесплатно",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "konsultacziya-pered-operacziej-vracha-urologa-pislegina-a.v.besplatno",
+    "uri": "about/offer/konsultacziya-pered-operacziej-vracha-urologa-pislegina-a.v.besplatno",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 17,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1750951000,
+    "editedon": 1754037984,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "newsImg": "Бесплатный-прием-уролога-875х320.png",
+      "newsImg2": "Бесплатный_прием_уролога_квадрат.png",
+      "newsImgMob": "Бесплатный-прием-уролога-710х350.png",
+      "newsText": " Бесплатный прием уролога Пислегина А.В. по вопросам оперативного лечения пациентов с варикоцеле и азооспермией",
+      "specListAction": "626",
+      "subTitleActions": "Акция действует до 31 июля 2025 ",
+      "textContent": "<p>Успейте записаться на бесплатный прием уролога Пислегина А.В. по вопросам оперативного лечения пациентов с варикоцеле и азооспермией.</p>\r\n<p><strong>Условия акции:</strong></p>\r\n<ul>\r\n<li>Распространяется на консультацию уролога-андролога Пислегина А.В. только по вопросам оперативного лечения данных заболеваний.</li>\r\n<li>Не распространяются другие акции и скидки.</li>\r\n<li>Бонусы не начисляются.</li>\r\n</ul>\r\n<p><em>Варикоцеле представляет собой варикозное расширение вен в мошонке, по которым кровь должна оттекать от яичка. </em></p>\r\n<p><em>Азооспермия – это отсутствие сперматозоидов в эякуляте (семенной жидкости). Оба заболевания часто выступают причинами мужского бесплодия.</em></p>\r\n<p><em><strong>Если Вы уже знакомы с данными заболеваниями и хотите быстро и результативно решить вопрос - записывайтесь по телефону  <a href=\"tel:[[++phone:tel]]\"><span class=\"callibri_phone01\">[[++phone]]</span></a>, в сообщениях нашей группы «<a href=\"https://vk.com/istochnik.clinica\">ВКонтакте</a>» или через удобный чат-бот в <a href=\"https://t.me/IstochnikClinic_spb_bot\">Телеграм</a></strong></em></p>",
+      "title": "Консультация перед операцией врача-уролога бесплатно"
+    }
+  },
+  {
+    "id": 718,
+    "pagetitle": "Счастливые-новогодние",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "happynewyear",
+    "uri": "about/offer/happynewyear",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 18,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1760702883,
+    "editedon": 1768207571,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "С 12.00 до 15.00 каждый день в период с 22.12.25 по 11.01.26 первичные приемы всех врачей-специалистов со скидкой 25%!  ",
+      "dtxt": "Праздничная акция \"Счастливые-новогодние\" для пациентов с 12.00 до 15.00. Три часа, когда качественная забота о здоровье у ведущих врачей становится доступнее\r\n",
+      "newsImg": "NY.png",
+      "newsImg2": "Новогодние-счастл-квадрат.png",
+      "newsImgMob": "NY710х350.png",
+      "newsText": "Скидка 25% на первичные приемы врачей-специалистов с 12.00 до 15.00",
+      "specListAction": [
+        "646",
+        "409",
+        "544",
+        "341",
+        "644",
+        "607",
+        "106",
+        "345",
+        "84",
+        "80",
+        "108",
+        "625",
+        "715",
+        "88",
+        "91",
+        "547",
+        "612",
+        "104",
+        "408",
+        "95",
+        "87",
+        "225",
+        "566",
+        "563",
+        "626",
+        "647",
+        "97",
+        "336",
+        "100",
+        "350",
+        "346",
+        "671",
+        "704",
+        "94",
+        "703",
+        "726"
+      ],
+      "subTitleActions": "Акция действует с 22.12.2025 по 11.01.2026",
+      "textContent": "<p><span>Новый год к нам мчится и дарит подарки в клинике \"Источник\"!</span></p>\r\n<p><strong>Когда ждешь сказки, она обязательно случается! </strong></p>\r\n<p><strong>Клиника дарит скидку 25% на первичные приемы всех врачей-специалистов с 12.00 до 15.00. </strong></p>\r\n<p><span></span><span>Акция распространяется на всех врачей: от офтальмолога до ортопеда.</span></p>\r\n<p><span></span><span>Это отличная возможность проконсультироваться у специалиста, которого вы давно хотели посетить.</span></p>\r\n<p><span>Позаботьтесь о себе в спокойном неторопливом режиме каникул!</span></p>\r\n<h3><span>Условия акции:</span></h3>\r\n<ul>\r\n<li><span>Скидки не суммируются с другими акциями и специальными предложениями.</span></li>\r\n<li>Бонусы не начисляются. </li>\r\n<li>Скидка 25% не распространяется на комплексные программы и процедуры. </li>\r\n<li>Количество записей по акции может быть ограничено.</li>\r\n</ul>",
+      "title": "Акция Счастливые часы - Клиника \"Источник\" СПб"
+    }
+  },
+  {
+    "id": 739,
+    "pagetitle": "Скидка 10% на функциональную диагностику",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "functional",
+    "uri": "about/offer/functional",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 19,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1771424787,
+    "editedon": 1771427949,
+    "publishedon": 1771422960,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Скидка 10% на ряд услуг функциональной диагностики - холтеровское мониторирование и дуплексное сканирование артерий верхних и нижних конечностей на оборудовании высокого класса в комфортных условиях, без очередей и ожиданий. Врач с опытом более 30 лет! ",
+      "dtxt": "Сердце и сосуды под контролем: следите за их здоровьем со скидкой 10% с 13 февраля и в течение всей весны!",
+      "newsImg": "holt875320.png",
+      "newsImg2": "Холтер-квадрат.png",
+      "newsImgMob": "holt710350.png",
+      "newsText": "Функциональная диагностика со скидкой 10%",
+      "specListAction": "103",
+      "subTitleActions": "Акция действует до 31.05.2026",
+      "textContent": "<p>Сердечно-сосудистые заболевания - одна из самых распространенных причин смертности. Для того, чтобы следить за своим состоянием, во время диагностировать тромбозы, аневризмы, атеросклеротические бляшки, работу сердца и контролировать эффективность медикаментозной терапии при патологиям сердечно-сосудистой системы мы предоставляем вам скидку 10% на популярные и проверенные исследования:</p>\r\n<ul>\r\n<li>Ультразвуковое дуплексное сканирование артерий нижних конечностей</li>\r\n<li>Ультразвуковое дуплексное сканирование артерий верхних конечностей </li>\r\n<li>Холтеровское мониторирование артериального давления (ХМ-АД) </li>\r\n<li>Холтеровское мониторирование ритма сердца по 12 отведениям ЭКГ на аппаратах СМ FD 12 и AR 12 plus </li>\r\n<li>Холтеровское мониторирование ритма сердца (ХМ-ЭКГ)</li>\r\n</ul>\r\n<p>Записывайтесь по телефонам клиники или на сайте. </p>",
+      "title": "Акция скидка 10% на функциональную диагностику"
+    }
+  },
+  {
+    "id": 744,
+    "pagetitle": "Знакомство с доктором со скидкой 30%",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "meeting30",
+    "uri": "about/offer/meeting30",
+    "parent": 549,
+    "template": 19,
+    "menuindex": 20,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1775030742,
+    "editedon": 1775033421,
+    "publishedon": 1775029980,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Вы давно хотели записаться к врачу, но что-то останавливало? Возможно, вы ищете специалиста, которому сможете доверять годами.\r\nМы даем вам идеальный повод сделать первый шаг. Приходите на прием «Знакомство с врачом» со скидкой 30%.",
+      "newsImg": "Знакомство-875х320.png",
+      "newsImg2": "Знакомство-квадрат.png",
+      "newsImgMob": "Знакомство-710х350.png",
+      "newsText": "Знакомство с врачом со скидкой 30% - первичные приемы",
+      "specListAction": [
+        "97",
+        "703",
+        "736",
+        "715",
+        "737",
+        "647"
+      ],
+      "subTitleActions": "Акция действует до 30 апреля",
+      "textContent": "<p dir=\"ltr\"><span>Мы понимаем, как важно найти специалиста, которому вы сможете доверять. </span></p>\r\n<p dir=\"ltr\"><span>Для тех, кто только присматривается к нашей клинике или ищет своего врача, мы запускаем акцию «Знакомство с доктором».</span></p>\r\n<h3 dir=\"ltr\"><span>Описание акции:</span><span><br /></span><span></span></h3>\r\n<p dir=\"ltr\"><span>При записи на первичный прием к любому из перечисленных специалистов стоимость консультации ниже на 30%.</span></p>\r\n<h3 dir=\"ltr\"><span>Специалисты-участники:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Невролог</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Кардиолог</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Акушер-гинеколог</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Гастроэнтеролог</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Дерматовенеролог</span></p>\r\n</li>\r\n</ul>\r\n<h3 dir=\"ltr\"><span>Что вы получите:</span><span><br /></span><span></span></h3>\r\n<p dir=\"ltr\"><span>В рамках акции проводится полноценный первичный прием, включающий:</span></p>\r\n<ol>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Сбор анамнеза и детальное обсуждение жалоб</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Физикальный осмотр при необхмодимости</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Постановку предварительного диагноза и назначение обследований (если требуется)</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Разработку индивидуального плана обследования и/ или лечения</span></p>\r\n</li>\r\n</ol>\r\n<h3 dir=\"ltr\"><span>Важные условия:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Акция не суммируется с другими скидками, специальными предложениями и сертификатами.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Бонусы не начисляются и не могут быть списаны в счет оплаты указанных приемов.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Акция распространяется только на указанных специалистов, скидка может быть применена как для пациентов, которые ранее не были в клинике, так и для пациентов, которые наблюдаются в клинике, но не были у указанных специалистов.</span></p>\r\n</li>\r\n<li dir=\"ltr\" aria-level=\"1\">\r\n<p dir=\"ltr\" role=\"presentation\"><span>Для получения скидки необходимо сообщить администратору о желании участвовать в акции до начала приема.</span></p>\r\n</li>\r\n</ul>",
+      "title": "Знакомство с врачом со скидкой 30% в клинике \"Источник\""
+    }
+  }
+]

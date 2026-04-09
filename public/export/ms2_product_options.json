@@ -1,0 +1,1722 @@
+[
+  {
+    "product_id": 22,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 23,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 24,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 79,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 83,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 350,
+    "key": "specializacia",
+    "value": "Эндокринолог"
+  },
+  {
+    "product_id": 86,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 114,
+    "key": "specializacia",
+    "value": "Эмбриолог"
+  },
+  {
+    "product_id": 344,
+    "key": "specializacia",
+    "value": "Эмбриолог"
+  },
+  {
+    "product_id": 90,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 341,
+    "key": "specializacia",
+    "value": "Анестезиолог-реаниматолог"
+  },
+  {
+    "product_id": 703,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 544,
+    "key": "specializacia",
+    "value": "Колопроктолог"
+  },
+  {
+    "product_id": 96,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 554,
+    "key": "specializacia",
+    "value": "Хирург-уролог"
+  },
+  {
+    "product_id": 105,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 219,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 316,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 332,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 333,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 334,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 337,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 339,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 375,
+    "key": "specializacia",
+    "value": "Психотерапевт"
+  },
+  {
+    "product_id": 342,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 347,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 349,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 381,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 382,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 385,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 386,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 407,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 341,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 344,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 410,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 415,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 476,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 483,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 484,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 530,
+    "key": "specializacia",
+    "value": "Нейрохирург"
+  },
+  {
+    "product_id": 533,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 534,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 539,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 546,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 559,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 561,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 578,
+    "key": "otdelenie",
+    "value": ""
+  },
+  {
+    "product_id": 22,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 23,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 24,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 79,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 83,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 624,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 86,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 90,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 547,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 96,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 104,
+    "key": "specializacia",
+    "value": "Дерматолог"
+  },
+  {
+    "product_id": 114,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 105,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 219,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 316,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 332,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 333,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 334,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 607,
+    "key": "specializacia",
+    "value": "Травматолог-ортопед"
+  },
+  {
+    "product_id": 337,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 339,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 342,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 644,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 347,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 349,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 381,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 382,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 385,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 386,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 407,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 410,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 415,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 476,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 483,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 484,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 533,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 534,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 539,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 546,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 559,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 561,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 110,
+    "key": "specializacia",
+    "value": "Анестезиолог-реаниматолог"
+  },
+  {
+    "product_id": 578,
+    "key": "specializacia",
+    "value": ""
+  },
+  {
+    "product_id": 88,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 78,
+    "key": "otdelenie",
+    "value": "Администрация"
+  },
+  {
+    "product_id": 80,
+    "key": "specializacia",
+    "value": "Ревматолог"
+  },
+  {
+    "product_id": 563,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 100,
+    "key": "otdelenie",
+    "value": "Администрация"
+  },
+  {
+    "product_id": 100,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 505,
+    "key": "specializacia",
+    "value": "Отоларинголог"
+  },
+  {
+    "product_id": 505,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 409,
+    "key": "specializacia",
+    "value": "Пульмонолог"
+  },
+  {
+    "product_id": 94,
+    "key": "specializacia",
+    "value": "Гастроэнтеролог"
+  },
+  {
+    "product_id": 108,
+    "key": "specializacia",
+    "value": "Генетик"
+  },
+  {
+    "product_id": 81,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 81,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 81,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 81,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 715,
+    "key": "specializacia",
+    "value": "Врач функциональной диагностики"
+  },
+  {
+    "product_id": 530,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 97,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 346,
+    "key": "specializacia",
+    "value": "Гинеколог-эстетист"
+  },
+  {
+    "product_id": 85,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 85,
+    "key": "otdelenie",
+    "value": "Администрация"
+  },
+  {
+    "product_id": 85,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 346,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 345,
+    "key": "specializacia",
+    "value": "Гинеколог-эстетист"
+  },
+  {
+    "product_id": 84,
+    "key": "specializacia",
+    "value": "Детский травматолог"
+  },
+  {
+    "product_id": 345,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 557,
+    "key": "specializacia",
+    "value": "Дерматовенеролог"
+  },
+  {
+    "product_id": 557,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 95,
+    "key": "specializacia",
+    "value": "Диетолог"
+  },
+  {
+    "product_id": 95,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 95,
+    "key": "specializacia",
+    "value": "Гастроэнтеролог"
+  },
+  {
+    "product_id": 87,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 87,
+    "key": "specializacia",
+    "value": "Детский гинеколог"
+  },
+  {
+    "product_id": 92,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 563,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 566,
+    "key": "specializacia",
+    "value": "Пульмонолог"
+  },
+  {
+    "product_id": 548,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 548,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 103,
+    "key": "specializacia",
+    "value": "Врач функциональной диагностики"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 563,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 563,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 98,
+    "key": "specializacia",
+    "value": "Детский эндоскопист"
+  },
+  {
+    "product_id": 97,
+    "key": "specializacia",
+    "value": "Невролог"
+  },
+  {
+    "product_id": 531,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 531,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 348,
+    "key": "specializacia",
+    "value": "Косметолог"
+  },
+  {
+    "product_id": 348,
+    "key": "specializacia",
+    "value": "Дерматолог"
+  },
+  {
+    "product_id": 348,
+    "key": "specializacia",
+    "value": "Дерматовенеролог"
+  },
+  {
+    "product_id": 348,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 348,
+    "key": "specializacia",
+    "value": "Трихолог"
+  },
+  {
+    "product_id": 715,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 350,
+    "key": "specializacia",
+    "value": "Диетолог"
+  },
+  {
+    "product_id": 554,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 554,
+    "key": "specializacia",
+    "value": "Уролог"
+  },
+  {
+    "product_id": 106,
+    "key": "specializacia",
+    "value": "Онколог-маммолог"
+  },
+  {
+    "product_id": 352,
+    "key": "specializacia",
+    "value": "Врач функциональной диагностики"
+  },
+  {
+    "product_id": 352,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 340,
+    "key": "specializacia",
+    "value": "Ревматолог"
+  },
+  {
+    "product_id": 340,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 113,
+    "key": "specializacia",
+    "value": "Психолог"
+  },
+  {
+    "product_id": 113,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 351,
+    "key": "specializacia",
+    "value": "Кардиолог"
+  },
+  {
+    "product_id": 92,
+    "key": "specializacia",
+    "value": "Врач УЗИ пренатальный"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 560,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 560,
+    "key": "specializacia",
+    "value": "Гинеколог-эстетист"
+  },
+  {
+    "product_id": 560,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 560,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 560,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 646,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 81,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 585,
+    "key": "specializacia",
+    "value": "Анестезиолог-реаниматолог"
+  },
+  {
+    "product_id": 594,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 547,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 582,
+    "key": "specializacia",
+    "value": "Невролог"
+  },
+  {
+    "product_id": 592,
+    "key": "specializacia",
+    "value": "Аллерголог-иммунолог"
+  },
+  {
+    "product_id": 592,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 592,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 593,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 593,
+    "key": "specializacia",
+    "value": "Офтальмолог"
+  },
+  {
+    "product_id": 544,
+    "key": "specializacia",
+    "value": "Хирург-проктолог"
+  },
+  {
+    "product_id": 594,
+    "key": "specializacia",
+    "value": "Отоларинголог"
+  },
+  {
+    "product_id": 577,
+    "key": "specializacia",
+    "value": "Ревматолог"
+  },
+  {
+    "product_id": 85,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 560,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 602,
+    "key": "specializacia",
+    "value": "Эмбриолог"
+  },
+  {
+    "product_id": 602,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 604,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 604,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 352,
+    "key": "specializacia",
+    "value": "Кардиолог"
+  },
+  {
+    "product_id": 351,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 566,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 577,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 582,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 103,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 610,
+    "key": "specializacia",
+    "value": "Сосудистый хирург"
+  },
+  {
+    "product_id": 610,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 610,
+    "key": "specializacia",
+    "value": "Флеболог"
+  },
+  {
+    "product_id": 610,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 547,
+    "key": "specializacia",
+    "value": "Врач УЗИ пренатальный"
+  },
+  {
+    "product_id": 611,
+    "key": "specializacia",
+    "value": "Отоларинголог"
+  },
+  {
+    "product_id": 611,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 612,
+    "key": "specializacia",
+    "value": "Ревматолог"
+  },
+  {
+    "product_id": 89,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 106,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 624,
+    "key": "specializacia",
+    "value": "Психолог"
+  },
+  {
+    "product_id": 625,
+    "key": "specializacia",
+    "value": "Андролог"
+  },
+  {
+    "product_id": 625,
+    "key": "specializacia",
+    "value": "Уролог"
+  },
+  {
+    "product_id": 626,
+    "key": "specializacia",
+    "value": "Уролог"
+  },
+  {
+    "product_id": 626,
+    "key": "specializacia",
+    "value": "Андролог"
+  },
+  {
+    "product_id": 81,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 646,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 647,
+    "key": "specializacia",
+    "value": "Детский гастроэнтеролог"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 89,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 671,
+    "key": "specializacia",
+    "value": "Гемостазиолог"
+  },
+  {
+    "product_id": 100,
+    "key": "specializacia",
+    "value": "Детский офтальмолог"
+  },
+  {
+    "product_id": 683,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 683,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 683,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 683,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 683,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 704,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 704,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 704,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 683,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 715,
+    "key": "specializacia",
+    "value": "Кардиолог"
+  },
+  {
+    "product_id": 708,
+    "key": "specializacia",
+    "value": "Дерматолог"
+  },
+  {
+    "product_id": 708,
+    "key": "specializacia",
+    "value": "Дерматовенеролог"
+  },
+  {
+    "product_id": 708,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 708,
+    "key": "specializacia",
+    "value": "Трихолог"
+  },
+  {
+    "product_id": 87,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 566,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 719,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 719,
+    "key": "specializacia",
+    "value": "Эмбриолог"
+  },
+  {
+    "product_id": 88,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 88,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 644,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 703,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 80,
+    "key": "otdelenie",
+    "value": "Администрация"
+  },
+  {
+    "product_id": 563,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 87,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Репродуктолог"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 408,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 704,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 625,
+    "key": "specializacia",
+    "value": "Хирург-уролог"
+  },
+  {
+    "product_id": 89,
+    "key": "specializacia",
+    "value": "Гинеколог-эндокринолог"
+  },
+  {
+    "product_id": 345,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 346,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 346,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 92,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 547,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 84,
+    "key": "specializacia",
+    "value": "Травматолог-ортопед"
+  },
+  {
+    "product_id": 94,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 647,
+    "key": "specializacia",
+    "value": "Гастроэнтеролог"
+  },
+  {
+    "product_id": 350,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 544,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 544,
+    "key": "specializacia",
+    "value": "Хирург"
+  },
+  {
+    "product_id": 341,
+    "key": "specializacia",
+    "value": "Нефролог"
+  },
+  {
+    "product_id": 585,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 726,
+    "key": "specializacia",
+    "value": "Ревматолог"
+  },
+  {
+    "product_id": 727,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 727,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 728,
+    "key": "specializacia",
+    "value": "Онколог"
+  },
+  {
+    "product_id": 106,
+    "key": "specializacia",
+    "value": "Онколог"
+  },
+  {
+    "product_id": 93,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 93,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 104,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 735,
+    "key": "specializacia",
+    "value": "Детский травматолог"
+  },
+  {
+    "product_id": 735,
+    "key": "specializacia",
+    "value": "Травматолог-ортопед"
+  },
+  {
+    "product_id": 735,
+    "key": "specializacia",
+    "value": "Мануальный терапевт"
+  },
+  {
+    "product_id": 736,
+    "key": "specializacia",
+    "value": "Врач функциональной диагностики"
+  },
+  {
+    "product_id": 737,
+    "key": "specializacia",
+    "value": "Дерматовенеролог"
+  },
+  {
+    "product_id": 737,
+    "key": "specializacia",
+    "value": "Детский дерматолог"
+  },
+  {
+    "product_id": 737,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 737,
+    "key": "specializacia",
+    "value": "Дерматолог"
+  },
+  {
+    "product_id": 736,
+    "key": "specializacia",
+    "value": "Кардиолог"
+  },
+  {
+    "product_id": 100,
+    "key": "specializacia",
+    "value": "Офтальмолог"
+  },
+  {
+    "product_id": 98,
+    "key": "specializacia",
+    "value": "Эндоскопист"
+  },
+  {
+    "product_id": 104,
+    "key": "specializacia",
+    "value": "Дерматовенеролог"
+  },
+  {
+    "product_id": 104,
+    "key": "specializacia",
+    "value": "Косметолог"
+  },
+  {
+    "product_id": 104,
+    "key": "specializacia",
+    "value": "Детский дерматолог"
+  },
+  {
+    "product_id": 336,
+    "key": "specializacia",
+    "value": "Детский отоларинголог"
+  },
+  {
+    "product_id": 336,
+    "key": "specializacia",
+    "value": "Отоларинголог"
+  },
+  {
+    "product_id": 336,
+    "key": "specializacia",
+    "value": "детский ЛОР"
+  },
+  {
+    "product_id": 84,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 84,
+    "key": "specializacia",
+    "value": "Ортопед"
+  },
+  {
+    "product_id": 103,
+    "key": "specializacia",
+    "value": "Детский функциональный диагност"
+  },
+  {
+    "product_id": 647,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 736,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 736,
+    "key": "specializacia",
+    "value": "Детский функциональный диагност"
+  },
+  {
+    "product_id": 735,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 727,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 625,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 106,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 80,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 563,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 563,
+    "key": "otdelenie",
+    "value": "Администрация"
+  },
+  {
+    "product_id": 703,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 98,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 84,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 89,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 91,
+    "key": "specializacia",
+    "value": "Гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 91,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 225,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог-репродуктолог"
+  },
+  {
+    "product_id": 225,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 408,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 108,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 375,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 626,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 88,
+    "key": "specializacia",
+    "value": "Гинеколог-эстетист"
+  },
+  {
+    "product_id": 89,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 345,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 345,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 346,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 644,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 646,
+    "key": "specializacia",
+    "value": "Гинеколог-эстетист"
+  },
+  {
+    "product_id": 646,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 671,
+    "key": "specializacia",
+    "value": "Ведение беременности"
+  },
+  {
+    "product_id": 671,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 671,
+    "key": "specializacia",
+    "value": "Терапевт"
+  },
+  {
+    "product_id": 607,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 607,
+    "key": "specializacia",
+    "value": "Ортопед"
+  },
+  {
+    "product_id": 94,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 95,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 336,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 544,
+    "key": "specializacia",
+    "value": "Проктолог"
+  },
+  {
+    "product_id": 728,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 409,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 110,
+    "key": "otdelenie",
+    "value": "Отделение ВРТ (ЭКО)"
+  },
+  {
+    "product_id": 612,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 726,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 94,
+    "key": "specializacia",
+    "value": "Эндокринолог"
+  },
+  {
+    "product_id": 743,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 743,
+    "key": "specializacia",
+    "value": "Врач остеопат"
+  },
+  {
+    "product_id": 745,
+    "key": "specializacia",
+    "value": "Врач УЗИ"
+  },
+  {
+    "product_id": 745,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 745,
+    "key": "specializacia",
+    "value": "Детский гинеколог"
+  },
+  {
+    "product_id": 745,
+    "key": "specializacia",
+    "value": "Акушер-гинеколог"
+  },
+  {
+    "product_id": 747,
+    "key": "otdelenie",
+    "value": "Поликлиника"
+  },
+  {
+    "product_id": 747,
+    "key": "specializacia",
+    "value": "Терапевт"
+  }
+]

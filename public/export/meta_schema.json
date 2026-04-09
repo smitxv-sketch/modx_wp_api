@@ -1,0 +1,6830 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "templatename": "1. Главная",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "templatename": "2. Текст",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "templatename": "3. Вакансии",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "templatename": "4. Новости",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "templatename": "5. Контакты",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "templatename": "6. Специалисты",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "templatename": "7. Специалист",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "templatename": "8. Услуги",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "templatename": "9. Отзывы",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "templatename": "black",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "templatename": "Английская страница",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "templatename": "Комплексные программы",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "templatename": "Страница благодарности",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "templatename": "404",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "templatename": "Главная с банером (тг)",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "templatename": "Форма обратной связи",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "templatename": "Контакты - с переключателями",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "templatename": "Специалисты тест",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "templatename": "Акции",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "templatename": "О клинике",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "templatename": "Цены",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "templatename": "Подарочный сертификат",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "templatename": "Блог - внутренняя страница",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "templatename": "Блог - список статей",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "templatename": "CSS для конференции",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "templatename": "Конференция",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "templatename": "2. Текст - спасибо",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "templatename": "Редирект",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "templatename": "Услуга",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "templatename": "Кастомная отправка сертификатов",
+      "description": "( если клиент не получил сертификат )"
+    }
+  ],
+  "tvs": [
+    {
+      "id": 1,
+      "name": "title",
+      "caption": "Meta title",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 2,
+      "name": "des",
+      "caption": "Meta description",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 3,
+      "name": "keyw",
+      "caption": "Meta keywords",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 4,
+      "name": "image",
+      "caption": "",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 5,
+      "name": "slider",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 6,
+      "name": "homeAbout",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 7,
+      "name": "homeAboutText",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 8,
+      "name": "homeVideoName",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 9,
+      "name": "homeVideoName2",
+      "caption": "Заголовок 2",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 10,
+      "name": "homeVideo",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 11,
+      "name": "textContent",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 12,
+      "name": "newsImg",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 13,
+      "name": "newsText",
+      "caption": "Краткое описание",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 14,
+      "name": "polyclinicName",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 15,
+      "name": "polyclinicText",
+      "caption": "Описание",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 16,
+      "name": "polyclinicImg",
+      "caption": "Фото",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 17,
+      "name": "polyclinicCoord",
+      "caption": "Координаты",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 18,
+      "name": "polyclinicCoordText",
+      "caption": "Текст для карты",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 19,
+      "name": "branchName",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 20,
+      "name": "branchText",
+      "caption": "Описание",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 21,
+      "name": "branchImg",
+      "caption": "Фото",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 22,
+      "name": "branchCoord",
+      "caption": "Координаты",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 23,
+      "name": "branchCoordText",
+      "caption": "Текст для карты",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 24,
+      "name": "specintro",
+      "caption": "Краткое описание",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 25,
+      "name": "specExperience",
+      "caption": "Стаж",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 26,
+      "name": "education",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 27,
+      "name": "educationDop",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 28,
+      "name": "conferences",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 29,
+      "name": "time",
+      "caption": "Время приема",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 30,
+      "name": "prices",
+      "caption": "Стоимость приема",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 31,
+      "name": "tel",
+      "caption": "Телефон для записи на прием",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 32,
+      "name": "directions",
+      "caption": "Направления деятельности",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 33,
+      "name": "specSales",
+      "caption": "Не показывать кнопку записи",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 34,
+      "name": "specSalesFast",
+      "caption": "Ссылка на быструю запись",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 35,
+      "name": "oldID",
+      "caption": "oldID",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 36,
+      "name": "newsImgIs",
+      "caption": "Не показывать изображение",
+      "description": "в карточке",
+      "type": "checkbox"
+    },
+    {
+      "id": 37,
+      "name": "newsImg2",
+      "caption": "Изображение в карточке",
+      "description": "не обязательно для заполнения",
+      "type": "image"
+    },
+    {
+      "id": 38,
+      "name": "img",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 39,
+      "name": "minText",
+      "caption": "Текст",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 40,
+      "name": "uslugiPrice",
+      "caption": "Цены",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 41,
+      "name": "serf",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 42,
+      "name": "uslugiVideoName",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 43,
+      "name": "uslugiVideoImg",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 44,
+      "name": "uslugiVideoText",
+      "caption": "Описание",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 45,
+      "name": "uslugPre",
+      "caption": "Преимущества",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 46,
+      "name": "uslugiVideoLink",
+      "caption": "Ссылка",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 47,
+      "name": "rev",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 48,
+      "name": "newsHome",
+      "caption": "Показывать на главной",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 49,
+      "name": "showDoc",
+      "caption": "Показывать доктора",
+      "description": "В начале раздела",
+      "type": "checkbox"
+    },
+    {
+      "id": 50,
+      "name": "docImg",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 51,
+      "name": "docName",
+      "caption": "ФИО",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 52,
+      "name": "docIntrotext",
+      "caption": "Краткое описание",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 53,
+      "name": "docText",
+      "caption": "Описание",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 54,
+      "name": "categoryIs",
+      "caption": "Раздел",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 55,
+      "name": "revCategory",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 56,
+      "name": "specMore",
+      "caption": "Показать блок \"Другие специалисты\"",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 57,
+      "name": "uslugiPriceName",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 58,
+      "name": "revDate",
+      "caption": "Дата отзыва",
+      "description": "пример 2022-04-12",
+      "type": "text"
+    },
+    {
+      "id": 59,
+      "name": "revPlus",
+      "caption": "Плюсы",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 60,
+      "name": "revMinus",
+      "caption": "Минусы",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 61,
+      "name": "revDoc",
+      "caption": "Врач",
+      "description": "id врача",
+      "type": "superboxselect"
+    },
+    {
+      "id": 62,
+      "name": "revStar",
+      "caption": "Рейтинг",
+      "description": "по умолчанию 5",
+      "type": "text"
+    },
+    {
+      "id": 63,
+      "name": "showPrice",
+      "caption": "Показать цены",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 64,
+      "name": "articles",
+      "caption": "Статьи",
+      "description": "",
+      "type": "superboxselect"
+    },
+    {
+      "id": 65,
+      "name": "articles2",
+      "caption": "Статьи",
+      "description": "с яндекса",
+      "type": "migx"
+    },
+    {
+      "id": 66,
+      "name": "textContent2",
+      "caption": "Текст 2",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 67,
+      "name": "loc",
+      "caption": "Список",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 68,
+      "name": "priceTemplate",
+      "caption": "Шаблон цены",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 69,
+      "name": "uslugiPrice1",
+      "caption": "Цена",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 70,
+      "name": "pricelist",
+      "caption": "Цены",
+      "description": "",
+      "type": "migxdb"
+    },
+    {
+      "id": 71,
+      "name": "sign_online",
+      "caption": "Записаться онлайн",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 72,
+      "name": "english page",
+      "caption": "",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 73,
+      "name": "descriptionProgramm",
+      "caption": "Описание",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 74,
+      "name": "priceProgramm",
+      "caption": "Цена",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 75,
+      "name": "spoiler",
+      "caption": "Добавить спойлер",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 76,
+      "name": "text-programm",
+      "caption": "Текстовое поле",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 77,
+      "name": "salesSelect",
+      "caption": "Включить спец предложение",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 78,
+      "name": "sales_text",
+      "caption": "Спец. предложение",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 79,
+      "name": "telegram",
+      "caption": "Телеграм",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 80,
+      "name": "FAQ",
+      "caption": "FAQ",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 81,
+      "name": "faq_services",
+      "caption": "FAQ",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 82,
+      "name": "price",
+      "caption": "Стоимость",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 83,
+      "name": "spoiler_services",
+      "caption": "Добавить спойлер",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 84,
+      "name": "subtitle",
+      "caption": "Заголовок",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 85,
+      "name": "button_txt",
+      "caption": "Кнопка записи",
+      "description": "Укажите текст для кнопки записи",
+      "type": "text"
+    },
+    {
+      "id": 87,
+      "name": "addnapravleniya",
+      "caption": "Выберите направления",
+      "description": "",
+      "type": "superboxselect"
+    },
+    {
+      "id": 88,
+      "name": "dzen",
+      "caption": "Dzen",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 89,
+      "name": "dzen_new",
+      "caption": "Дзен ",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 90,
+      "name": "first_block_title",
+      "caption": "Заголовок первой колонки",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 91,
+      "name": "first_block_text",
+      "caption": "Текс первой колонки",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 92,
+      "name": "second_block_text",
+      "caption": "Текст второй колонки",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 93,
+      "name": "second_block_title",
+      "caption": "Заголовок второй колонки",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 94,
+      "name": "dropdown-title",
+      "caption": "Заголовок блока с выпадающим текстов",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 95,
+      "name": "dropdown-text-before",
+      "caption": "Текст для выпадающего блока до 2-х колонок",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 96,
+      "name": "dropdown-text-after",
+      "caption": "Текст для блока с разделем после двух колонок",
+      "description": "",
+      "type": "richtext"
+    },
+    {
+      "id": 97,
+      "name": "related_specialist_block",
+      "caption": "Выберите специалистов для отображения в блоке \"Другие специалисты\"",
+      "description": "",
+      "type": "superboxselect"
+    },
+    {
+      "id": 98,
+      "name": "equipment_name",
+      "caption": "Наименование",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 99,
+      "name": "equipment_i",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 100,
+      "name": "equipment_list",
+      "caption": "Оборудование",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 101,
+      "name": "photo_list",
+      "caption": "Блок с фото",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 102,
+      "name": "photo_link",
+      "caption": "Ссылка на видео",
+      "description": "",
+      "type": "url"
+    },
+    {
+      "id": 103,
+      "name": "specListAction",
+      "caption": "Специалисты",
+      "description": "",
+      "type": "superboxselect"
+    },
+    {
+      "id": 104,
+      "name": "subTitleActions",
+      "caption": "Подзаголовок под названием",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 105,
+      "name": "columnsActions",
+      "caption": "Колонки",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 106,
+      "name": "dtxt",
+      "caption": "Доп. текст",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 107,
+      "name": "columnsCaption",
+      "caption": "Колонки(Заголовок)",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 108,
+      "name": "priceright",
+      "caption": "Цена справа",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 109,
+      "name": "newsImgMob",
+      "caption": "Изображение для моб. устройств",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 110,
+      "name": "json_data",
+      "caption": "Цены JSON",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 111,
+      "name": "params",
+      "caption": "Свойства",
+      "description": "",
+      "type": "checkbox"
+    },
+    {
+      "id": 112,
+      "name": "education_items",
+      "caption": "Образование",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 113,
+      "name": "beginning",
+      "caption": "Начало карьеры (дата формата ДД.ММ.ГГ)",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 114,
+      "name": "rank",
+      "caption": "Специальность",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 115,
+      "name": "сategory",
+      "caption": "Специализация",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 116,
+      "name": "certificates",
+      "caption": "Сертификаты",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 117,
+      "name": "clinic_city",
+      "caption": "Город клиники",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 118,
+      "name": "degree",
+      "caption": "Степень",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 119,
+      "name": "prodoctorov",
+      "caption": "Ссылка на prodoctorov.ru",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 120,
+      "name": "action_form",
+      "caption": "Блок \"Акция\"",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 121,
+      "name": "check_up",
+      "caption": "Чекапы",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 122,
+      "name": "gift_images",
+      "caption": "Сертификаты",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 123,
+      "name": "email_economist",
+      "caption": "почта для Бухгалтерии",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 124,
+      "name": "photo_list2",
+      "caption": "Блок с фото",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 125,
+      "name": "list-of-examinations",
+      "caption": "Перечень обследований",
+      "description": "",
+      "type": "file"
+    },
+    {
+      "id": 128,
+      "name": "blogBlocks",
+      "caption": "Блоки",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 130,
+      "name": "blogDate",
+      "caption": "Дата",
+      "description": "",
+      "type": "date"
+    },
+    {
+      "id": 131,
+      "name": "blogTags",
+      "caption": "Теги",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 132,
+      "name": "blogImage",
+      "caption": "Изображение в списке статей",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 133,
+      "name": "blogAuthorName",
+      "caption": "Имя",
+      "description": "",
+      "type": "text"
+    },
+    {
+      "id": 134,
+      "name": "blogAuthorDescription",
+      "caption": "Описание",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 136,
+      "name": "blogAuthorImage",
+      "caption": "Изображение",
+      "description": "",
+      "type": "image"
+    },
+    {
+      "id": 137,
+      "name": "blogAuthor",
+      "caption": "Автор",
+      "description": "Если выбрано, то можно не заполнять имя и описание ниже",
+      "type": "resourcelist"
+    },
+    {
+      "id": 138,
+      "name": "blogBlocksLink",
+      "caption": "Ссылка",
+      "description": "",
+      "type": "resourcelist"
+    },
+    {
+      "id": 139,
+      "name": "blogDescription",
+      "caption": "Краткое описание страницы в категории",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 140,
+      "name": "HitsPage",
+      "caption": "Количество просмотров",
+      "description": "",
+      "type": "number"
+    },
+    {
+      "id": 141,
+      "name": "blogArticle",
+      "caption": "Другие статьи",
+      "description": "Если выбрано, то можно не заполнять имя и описание ниже",
+      "type": "resourcelist"
+    },
+    {
+      "id": 142,
+      "name": "blogArticles",
+      "caption": "Другие статьи",
+      "description": "Если выбрано, то можно не заполнять имя и описание ниже",
+      "type": "migx"
+    },
+    {
+      "id": 143,
+      "name": "vak",
+      "caption": "Вакансии",
+      "description": "",
+      "type": "migx"
+    },
+    {
+      "id": 144,
+      "name": "codingSystem",
+      "caption": "Код болезни на русском ",
+      "description": "(Пример: МКБ-10)",
+      "type": "text"
+    },
+    {
+      "id": 145,
+      "name": "code",
+      "caption": "Код болезни на английском ",
+      "description": "(Пример: I64)",
+      "type": "text"
+    },
+    {
+      "id": 146,
+      "name": "medicalSpecialty",
+      "caption": "Название отделения ",
+      "description": "(Пример: Неврология)",
+      "type": "text"
+    },
+    {
+      "id": 147,
+      "name": "alternateName",
+      "caption": "Альтернативное название ",
+      "description": "(Пример: Острое нарушение мозгового кровообращения)",
+      "type": "text"
+    },
+    {
+      "id": 148,
+      "name": "audienceType",
+      "caption": "Кому",
+      "description": "(Пример: Пациенты, перенесшие инсульт, их родственники)",
+      "type": "text"
+    },
+    {
+      "id": 149,
+      "name": "name",
+      "caption": "Название болезни",
+      "description": "(Пример: Инсульт)",
+      "type": "text"
+    },
+    {
+      "id": 150,
+      "name": "video_link",
+      "caption": "Видео специалиста",
+      "description": "",
+      "type": "textarea"
+    },
+    {
+      "id": 151,
+      "name": "video_link_type",
+      "caption": "Тип вставки видео",
+      "description": "",
+      "type": "listbox"
+    }
+  ],
+  "tv_template_map": [
+    {
+      "tmplvarid": 1,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 2
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 3
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 9
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 11
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 16
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 21
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 27
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 30
+    },
+    {
+      "tmplvarid": 1,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 2
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 3
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 9
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 11
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 16
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 21
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 27
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 30
+    },
+    {
+      "tmplvarid": 2,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 2
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 3
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 9
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 16
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 21
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 27
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 30
+    },
+    {
+      "tmplvarid": 3,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 5,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 5,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 6,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 6,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 7,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 7,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 8,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 8,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 9,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 9,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 10,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 10,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 2
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 3
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 9
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 10
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 16
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 21
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 11,
+      "templateid": 30
+    },
+    {
+      "tmplvarid": 12,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 12,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 12,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 12,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 13,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 13,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 13,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 13,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 14,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 14,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 15,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 15,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 16,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 16,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 17,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 17,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 18,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 18,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 19,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 19,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 20,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 20,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 21,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 21,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 22,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 22,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 23,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 23,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 24,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 25,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 26,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 27,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 28,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 29,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 30,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 31,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 32,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 33,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 34,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 35,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 35,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 36,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 36,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 36,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 36,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 37,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 37,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 38,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 38,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 39,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 39,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 41,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 41,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 42,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 42,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 43,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 43,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 44,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 44,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 45,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 45,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 45,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 46,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 46,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 48,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 48,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 48,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 48,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 49,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 49,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 50,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 50,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 51,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 51,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 52,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 52,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 53,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 53,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 54,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 54,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 56,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 57,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 57,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 58,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 59,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 60,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 61,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 62,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 63,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 63,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 64,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 64,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 65,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 65,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 66,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 66,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 67,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 67,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 68,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 68,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 69,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 69,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 70,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 70,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 70,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 71,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 71,
+      "templateid": 15
+    },
+    {
+      "tmplvarid": 72,
+      "templateid": 11
+    },
+    {
+      "tmplvarid": 73,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 74,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 75,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 76,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 77,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 78,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 79,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 80,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 81,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 81,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 81,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 81,
+      "templateid": 12
+    },
+    {
+      "tmplvarid": 81,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 82,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 82,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 83,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 83,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 84,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 84,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 85,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 85,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 85,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 87,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 87,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 87,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 88,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 89,
+      "templateid": 5
+    },
+    {
+      "tmplvarid": 89,
+      "templateid": 17
+    },
+    {
+      "tmplvarid": 90,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 90,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 91,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 91,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 92,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 92,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 93,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 93,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 94,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 95,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 95,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 96,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 96,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 97,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 100,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 100,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 100,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 100,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 1
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 8
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 20
+    },
+    {
+      "tmplvarid": 101,
+      "templateid": 29
+    },
+    {
+      "tmplvarid": 103,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 104,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 105,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 106,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 107,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 108,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 109,
+      "templateid": 4
+    },
+    {
+      "tmplvarid": 109,
+      "templateid": 19
+    },
+    {
+      "tmplvarid": 109,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 109,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 110,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 110,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 111,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 112,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 113,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 114,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 115,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 116,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 117,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 118,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 119,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 120,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 120,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 121,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 122,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 123,
+      "templateid": 22
+    },
+    {
+      "tmplvarid": 124,
+      "templateid": 2
+    },
+    {
+      "tmplvarid": 124,
+      "templateid": 30
+    },
+    {
+      "tmplvarid": 125,
+      "templateid": 6
+    },
+    {
+      "tmplvarid": 125,
+      "templateid": 18
+    },
+    {
+      "tmplvarid": 128,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 128,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 130,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 130,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 131,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 131,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 133,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 133,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 134,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 134,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 136,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 136,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 137,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 137,
+      "templateid": 32
+    },
+    {
+      "tmplvarid": 140,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 142,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 143,
+      "templateid": 3
+    },
+    {
+      "tmplvarid": 144,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 145,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 146,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 147,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 148,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 149,
+      "templateid": 25
+    },
+    {
+      "tmplvarid": 150,
+      "templateid": 7
+    },
+    {
+      "tmplvarid": 151,
+      "templateid": 7
+    }
+  ],
+  "migx_configs": [
+    {
+      "name": "slider",
+      "formtabs": [
+        {
+          "MIGX_id": 1,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 1,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 249,
+              "field": "descslider",
+              "caption": "Description slider SEO ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 248,
+              "field": "PriceSlider",
+              "caption": "Цена",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 250,
+              "field": "datastart",
+              "caption": "Дата начала акции (Формат 2024-01-01)",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 251,
+              "field": "dataend",
+              "caption": "Дата окончания акции (Формат 2024-01-01) ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 2,
+              "field": "links",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 3,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 4,
+              "field": "imgMob",
+              "caption": "Изображение",
+              "description": "Для мобильной версии",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "homeAbout",
+      "formtabs": [
+        {
+          "MIGX_id": 2,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 5,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 6,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "homeVideo",
+      "formtabs": [
+        {
+          "MIGX_id": 3,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 7,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 8,
+              "field": "links",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "polyclinicImg",
+      "formtabs": [
+        {
+          "MIGX_id": 4,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 9,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 61,
+              "field": "Alt",
+              "caption": "Alt",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "uslugiPrice",
+      "formtabs": [
+        {
+          "MIGX_id": 5,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 38,
+              "field": "ids",
+              "caption": "ID",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 10,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 37,
+              "field": "name2",
+              "caption": "Заголовок en",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 11,
+              "field": "price",
+              "caption": "Цена",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 21,
+              "field": "links",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "serf",
+      "formtabs": [
+        {
+          "MIGX_id": 6,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 12,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "uslugPre",
+      "formtabs": [
+        {
+          "MIGX_id": 7,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 13,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 14,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 15,
+              "field": "text",
+              "caption": "Описание",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "rev",
+      "formtabs": [
+        {
+          "MIGX_id": 8,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 16,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 17,
+              "field": "text",
+              "caption": "Отзыв",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 18,
+              "field": "plus",
+              "caption": "Плюсы",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 19,
+              "field": "minus",
+              "caption": "Минусы",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 20,
+              "field": "star",
+              "caption": "Рейтинг",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "revCategory",
+      "formtabs": [
+        {
+          "MIGX_id": 9,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 22,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 23,
+              "field": "text",
+              "caption": "Отзыв",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 24,
+              "field": "plus",
+              "caption": "Плюсы",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 25,
+              "field": "minus",
+              "caption": "Минусы",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 26,
+              "field": "star",
+              "caption": "Рейтинг",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 27,
+              "field": "doc",
+              "caption": "ID Врача",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "articles2",
+      "formtabs": [
+        {
+          "MIGX_id": 10,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 28,
+              "field": "img",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "image",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 29,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 30,
+              "field": "text",
+              "caption": "Описание",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 31,
+              "field": "date",
+              "caption": "Дата",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 32,
+              "field": "date2",
+              "caption": "Год",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 33,
+              "field": "links",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "loc",
+      "formtabs": [
+        {
+          "MIGX_id": 11,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 34,
+              "field": "name",
+              "caption": "Ключ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 35,
+              "field": "ru",
+              "caption": "ru",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 36,
+              "field": "en",
+              "caption": "en",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "pricelist",
+      "formtabs": [
+        {
+          "MIGX_id": 12,
+          "caption": "List",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 39,
+              "field": "doc_id",
+              "caption": "Код",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 40,
+              "field": "name",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 41,
+              "field": "name2",
+              "caption": "Заголовок En",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 42,
+              "field": "price",
+              "caption": "Цена",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 43,
+              "field": "links",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 44,
+              "field": "sorts",
+              "caption": "Сортировка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "add_spoiler",
+      "formtabs": [
+        {
+          "MIGX_id": 15,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 49,
+              "field": "title_spoiler",
+              "caption": "Заголовок спойлера",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 50,
+              "field": "description_spoiler",
+              "caption": "Описание",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 60,
+              "field": "price",
+              "caption": "Цена",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "add_faq",
+      "formtabs": [
+        {
+          "MIGX_id": 19,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 57,
+              "field": "question",
+              "caption": "Вопрос",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 58,
+              "field": "reply",
+              "caption": "Ответ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "napravleniya",
+      "formtabs": [
+        {
+          "MIGX_id": 20,
+          "caption": "Выберите направление",
+          "print_before_tabs": "0",
+          "fields": null,
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "napravleniya",
+      "formtabs": [
+        {
+          "MIGX_id": 21,
+          "caption": "Выберите направление",
+          "print_before_tabs": "0",
+          "fields": null,
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blockAction",
+      "formtabs": [
+        {
+          "MIGX_id": 22,
+          "caption": "Поля",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 62,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 63,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "text",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 64,
+              "field": "enabled",
+              "caption": "Включить/Выключить",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==1",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogImageFullwidth",
+      "formtabs": [
+        {
+          "MIGX_id": 23,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 109,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 65,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 95,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 94,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 66,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 67,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 107,
+              "field": "imageMobile",
+              "caption": "Изображение для телефона",
+              "description": "Если не заполнено, то будет использовано основное изображение",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 108,
+              "field": "imageCaption",
+              "caption": "Подпись изображения",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogImageLeft",
+      "formtabs": [
+        {
+          "MIGX_id": 36,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 134,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 135,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 136,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 137,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 138,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 139,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 140,
+              "field": "imageMobile",
+              "caption": "Изображение для телефона",
+              "description": "Если не заполнено, то будет использовано основное изображение",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 141,
+              "field": "imageCaption",
+              "caption": "Подпись изображения",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blog",
+      "formtabs": [
+        {
+          "MIGX_id": 25,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 69,
+              "field": "image",
+              "caption": "Загрузите изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 70,
+              "field": "title",
+              "caption": "Заголовок слайда",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 71,
+              "field": "description",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "textarea",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogTag",
+      "formtabs": [
+        {
+          "MIGX_id": 26,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 72,
+              "field": "title",
+              "caption": "Тег",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "tag",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 222,
+              "field": "link",
+              "caption": "Ссылка",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogTags",
+      "formtabs": [
+        {
+          "MIGX_id": 27,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 76,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 73,
+              "field": "item",
+              "caption": "Тег",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "tag",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogPageProps",
+      "formtabs": [
+        {
+          "MIGX_id": 28,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 77,
+              "field": "date",
+              "caption": "Дата",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "date",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 78,
+              "field": "tags",
+              "caption": "Теги",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "blogTags",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 79,
+              "field": "image",
+              "caption": "Изображение (в списке статей)",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 80,
+              "field": "author",
+              "caption": "Автор",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogAuthor",
+      "formtabs": [
+        {
+          "MIGX_id": 29,
+          "caption": "Автор",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 81,
+              "field": "name",
+              "caption": "Имя",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 82,
+              "field": "description",
+              "caption": "Описание",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 83,
+              "field": "link_id",
+              "caption": "ID ресурса (для ссылки)",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 84,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogPageProps",
+      "formtabs": [
+        {
+          "MIGX_id": 30,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 85,
+              "field": "date",
+              "caption": "Дата",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "date",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 86,
+              "field": "tags",
+              "caption": "Теги",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "blogTags",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 87,
+              "field": "author",
+              "caption": "Автор",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "blogAuthor",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogText",
+      "formtabs": [
+        {
+          "MIGX_id": 37,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 142,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 143,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 144,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 145,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 146,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogImageRight",
+      "formtabs": [
+        {
+          "MIGX_id": 38,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 150,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 151,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 152,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 153,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 154,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 155,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 156,
+              "field": "imageMobile",
+              "caption": "Изображение для телефона",
+              "description": "Если не заполнено, то будет использовано основное изображение",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 157,
+              "field": "imageCaption",
+              "caption": "Подпись изображения",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogIndications",
+      "formtabs": [
+        {
+          "MIGX_id": 39,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 158,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 159,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 160,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 161,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 176,
+              "field": "indicationsTitle",
+              "caption": "Заголовок показаний",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 162,
+              "field": "indications",
+              "caption": "Показания",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 177,
+              "field": "contraindicationsTitle",
+              "caption": "Заголовок противопоказаний",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 166,
+              "field": "contraindications",
+              "caption": "Противопоказания",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogTable",
+      "formtabs": [
+        {
+          "MIGX_id": 40,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 167,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 168,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 169,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 170,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 171,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 175,
+              "field": "table",
+              "caption": "Таблица",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogImportant",
+      "formtabs": [
+        {
+          "MIGX_id": 41,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 178,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 179,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 180,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 181,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 182,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogAccordion",
+      "formtabs": [
+        {
+          "MIGX_id": 42,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 184,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 185,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 186,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 187,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 188,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 189,
+              "field": "accordion",
+              "caption": "Аккордеон",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "blogAccordionItem",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogAccordionItem",
+      "formtabs": [
+        {
+          "MIGX_id": 43,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 190,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 191,
+              "field": "description",
+              "caption": "Описание",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogSpecialists",
+      "formtabs": [
+        {
+          "MIGX_id": 45,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 193,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 194,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 195,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 196,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 197,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 198,
+              "field": "specialists",
+              "caption": "Врачи",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "blogSpecialist",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogSpecialist",
+      "formtabs": [
+        {
+          "MIGX_id": 44,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 192,
+              "field": "specialist",
+              "caption": "Специалист",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "blogAuthor",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogPrice",
+      "formtabs": [
+        {
+          "MIGX_id": 46,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 199,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 200,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 201,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 202,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 203,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 204,
+              "field": "price",
+              "caption": "Цены",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migxdb",
+              "validation": "",
+              "configs": "pricelist",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogForm",
+      "formtabs": [
+        {
+          "MIGX_id": 49,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 206,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 207,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 208,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 209,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogLinks",
+      "formtabs": [
+        {
+          "MIGX_id": 50,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 211,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 212,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 213,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 214,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 216,
+              "field": "pages",
+              "caption": "Страницы",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "blogLink",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogLink",
+      "formtabs": [
+        {
+          "MIGX_id": 51,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 215,
+              "field": "page",
+              "caption": "Страница",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "blogBlocksLink",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogFormQuestion",
+      "formtabs": [
+        {
+          "MIGX_id": 52,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 217,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 218,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 219,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 220,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogArticles",
+      "formtabs": [
+        {
+          "MIGX_id": 53,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 221,
+              "field": "article",
+              "caption": "Статья",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "blogArticle",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "serviceCertificates",
+      "formtabs": [
+        {
+          "MIGX_id": 56,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 225,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 226,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 227,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 228,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "serviceCertificate",
+      "formtabs": [
+        {
+          "MIGX_id": 55,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 224,
+              "field": "image",
+              "caption": "",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "servicePrices",
+      "formtabs": [
+        {
+          "MIGX_id": 57,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 230,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 231,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 232,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 233,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "serviceWideText",
+      "formtabs": [
+        {
+          "MIGX_id": 58,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 235,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 236,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 237,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 238,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 239,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "serviceWideImage",
+      "formtabs": [
+        {
+          "MIGX_id": 59,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 240,
+              "field": "hideTopMargin",
+              "caption": "Убрать верхний отступ блока ",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 241,
+              "field": "title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "required",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            },
+            {
+              "MIGX_id": 242,
+              "field": "hideTitle",
+              "caption": "Скрыть заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 3
+            },
+            {
+              "MIGX_id": 243,
+              "field": "caption",
+              "caption": "Заголовок для навигации по заголовкам",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 4
+            },
+            {
+              "MIGX_id": 244,
+              "field": "text",
+              "caption": "Текст",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "richtext",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 5
+            },
+            {
+              "MIGX_id": 245,
+              "field": "image",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 6
+            },
+            {
+              "MIGX_id": 246,
+              "field": "imageMobile",
+              "caption": "Изображение для телефона",
+              "description": "Если не заполнено, то будет использовано основное изображение",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 7
+            },
+            {
+              "MIGX_id": 247,
+              "field": "imageCaption",
+              "caption": "Подпись изображения",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 8
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogSlider",
+      "formtabs": [
+        {
+          "MIGX_id": 60,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 252,
+              "field": "blogPhoto_title",
+              "caption": "Заголовок",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 253,
+              "field": "blogimage",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "blogSliderImage",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogSliderImage",
+      "formtabs": [
+        {
+          "MIGX_id": 61,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 254,
+              "field": "blogPhoto_link",
+              "caption": "Ссылка на видео",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 255,
+              "field": "blogEquipment_i",
+              "caption": "Изображение",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "image",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogAdvantages",
+      "formtabs": [
+        {
+          "MIGX_id": 62,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 256,
+              "field": "uslugPre",
+              "caption": "Преимущества",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "migx",
+              "validation": "",
+              "configs": "uslugPre",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogFormSection",
+      "formtabs": [
+        {
+          "MIGX_id": 63,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 257,
+              "field": "addSectionForm",
+              "caption": "Показывать секцию с формой",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection",
+      "formtabs": [
+        {
+          "MIGX_id": 64,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 258,
+              "field": "addSectionEquipment",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            },
+            {
+              "MIGX_id": 263,
+              "field": "addSectionEquipment2",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 2
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection",
+      "formtabs": [
+        {
+          "MIGX_id": 65,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 259,
+              "field": "addSectionEquipment",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection",
+      "formtabs": [
+        {
+          "MIGX_id": 66,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 261,
+              "field": "addSectionEquipment",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection",
+      "formtabs": [
+        {
+          "MIGX_id": 67,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 260,
+              "field": "addSectionEquipment",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection",
+      "formtabs": [
+        {
+          "MIGX_id": 68,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 262,
+              "field": "addSectionEquipment",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "name": "blogEquipmentSection2",
+      "formtabs": [
+        {
+          "MIGX_id": 69,
+          "caption": "",
+          "print_before_tabs": "0",
+          "fields": [
+            {
+              "MIGX_id": 264,
+              "field": "addSectionEquipment_1",
+              "caption": "Показывать секцию с \"Оборудование, используемое в нашей клинике\"",
+              "description": "",
+              "description_is_code": "0",
+              "inputTV": "",
+              "inputTVtype": "checkbox",
+              "validation": "",
+              "configs": "",
+              "restrictive_condition": "",
+              "display": "",
+              "sourceFrom": "config",
+              "sources": "",
+              "inputOptionValues": "Да==Y",
+              "default": "",
+              "useDefaultIfEmpty": "0",
+              "pos": 1
+            }
+          ],
+          "pos": 1
+        }
+      ]
+    }
+  ],
+  "export_date": "2026-04-09T10:30:16.237Z"
+}

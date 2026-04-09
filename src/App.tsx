@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Users, Briefcase, Share2, MapPin, FileText, Image as ImageIcon, ArrowRightLeft, LayoutTemplate, Settings, Tag, Search, Database } from "lucide-react";
+import { Users, Briefcase, Share2, MapPin, FileText, Image as ImageIcon, ArrowRightLeft, LayoutTemplate, Settings, Tag, Search, Database, Download } from "lucide-react";
 import { Doctor, Service } from "./types";
 import { Header } from "./components/Header";
 import { EntityCard } from "./components/EntityCard";
@@ -13,6 +13,7 @@ import { ErrorBoundary } from "./components/ErrorBoundary";
 import { DataExplorer } from "./components/DataExplorer";
 import { DbDumper } from "./components/DbDumper";
 import { SchemaBuilder } from "./components/SchemaBuilder";
+import { ExportView } from "./components/ExportView";
 
 export default function App() {
   const [city, setCity] = useState<"spb" | "chelyabinsk">("spb");
@@ -250,6 +251,7 @@ export default function App() {
               <EntityCard title="SEO Аналитика" count={fullGraph?.entities?.resources?.length || 0} icon={<Search size={24} />} onClick={() => handleTabChange("seo")} />
               <EntityCard title="Сырые данные" count={Object.keys(fullGraph?.entities || {}).length} icon={<Database size={24} />} onClick={() => handleTabChange("explorer")} />
               <EntityCard title="Дамп БД" count={city === 'chelyabinsk' ? 1 : 0} icon={<Database size={24} />} onClick={() => handleTabChange("dump")} />
+              <EntityCard title="Экспорт JSON" count={30} icon={<Download size={24} />} onClick={() => handleTabChange("export")} />
               <EntityCard title="Схема (Strapi)" count={2} icon={<FileText size={24} />} onClick={() => handleTabChange("schema")} />
               <EntityCard title="Конфигурация" count={allResources.length} icon={<Settings size={24} />} onClick={() => handleTabChange("configuration")} />
             </div>
@@ -257,7 +259,7 @@ export default function App() {
         )}
 
         {/* Списки сущностей */}
-        {!loading && !error && viewMode === "list" && activeTab !== "overview" && activeTab !== "graph" && activeTab !== "configuration" && activeTab !== "seo" && activeTab !== "explorer" && activeTab !== "dump" && activeTab !== "schema" && (
+        {!loading && !error && viewMode === "list" && activeTab !== "overview" && activeTab !== "graph" && activeTab !== "configuration" && activeTab !== "seo" && activeTab !== "explorer" && activeTab !== "dump" && activeTab !== "schema" && activeTab !== "export" && (
           <EntityLists 
             activeTab={activeTab} 
             doctors={doctors} 
@@ -272,6 +274,10 @@ export default function App() {
 
         {!loading && !error && activeTab === "dump" && (
           <DbDumper />
+        )}
+
+        {!loading && !error && activeTab === "export" && (
+          <ExportView handleTabChange={handleTabChange} />
         )}
 
         {!loading && !error && activeTab === "schema" && (

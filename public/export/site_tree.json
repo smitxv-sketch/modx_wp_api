@@ -1,0 +1,3560 @@
+{
+  "0": [
+    {
+      "id": 1,
+      "title": "Главная",
+      "uri": "index"
+    },
+    {
+      "id": 2,
+      "title": "О клинике",
+      "uri": "about/"
+    },
+    {
+      "id": 19,
+      "title": "Контакты",
+      "uri": "kontakty/"
+    },
+    {
+      "id": 20,
+      "title": "Расписание приемов",
+      "uri": "r/"
+    },
+    {
+      "id": 21,
+      "title": "Специалисты",
+      "uri": "sotrudniki/"
+    },
+    {
+      "id": 208,
+      "title": "Услуги",
+      "uri": "katalog/"
+    },
+    {
+      "id": 210,
+      "title": "System",
+      "uri": "system/"
+    },
+    {
+      "id": 213,
+      "title": "Политика обработки персональных данных в ООО «Клиника «Источник»",
+      "uri": "politika-obrabotki-personalnykh-dannykh/"
+    },
+    {
+      "id": 214,
+      "title": "Оплата услуг",
+      "uri": "oplata/"
+    },
+    {
+      "id": 215,
+      "title": "Реквизиты",
+      "uri": "rekvizity/"
+    },
+    {
+      "id": 218,
+      "title": "Предупреждение об использовании файлов cookies",
+      "uri": "cookies/"
+    },
+    {
+      "id": 394,
+      "title": "Политика конфиденциальности",
+      "uri": "agreement/"
+    },
+    {
+      "id": 397,
+      "title": "ДМС",
+      "uri": "dms"
+    },
+    {
+      "id": 475,
+      "title": "English page",
+      "uri": "english-page"
+    },
+    {
+      "id": 480,
+      "title": "Спасибо за ваше обращение в нашу клинику!",
+      "uri": "stranicza-blagodarnosti"
+    },
+    {
+      "id": 487,
+      "title": "Программа 1",
+      "uri": "programma-1"
+    },
+    {
+      "id": 549,
+      "title": "Акции",
+      "uri": "about/offer/"
+    },
+    {
+      "id": 552,
+      "title": "Заказать звонок",
+      "uri": "forma-obratnoj-svyazi"
+    },
+    {
+      "id": 567,
+      "title": "Тестовая услуга",
+      "uri": "testovaya-usluga"
+    },
+    {
+      "id": 580,
+      "title": "Онлайн-трансляция",
+      "uri": "online"
+    },
+    {
+      "id": 609,
+      "title": "Цены",
+      "uri": "prices/"
+    },
+    {
+      "id": 638,
+      "title": "Подарочные сертификаты",
+      "uri": "podarochnyj-sertifikat"
+    },
+    {
+      "id": 645,
+      "title": "Доступная среда",
+      "uri": "dostupnaya-sreda"
+    },
+    {
+      "id": 656,
+      "title": "Блог",
+      "uri": "blog-test/"
+    },
+    {
+      "id": 680,
+      "title": "VI научно-практическая конференция с международным участием «Репродуктивная медицина: краеугольные вопросы»",
+      "uri": "conf-eco"
+    },
+    {
+      "id": 681,
+      "title": "Согласие на получение информационных и рекламных рассылок",
+      "uri": "soglasie-na-poluchenie-informaczionnyix-i-reklamnyix-rassyilok"
+    },
+    {
+      "id": 693,
+      "title": "Политика конфиденциальности",
+      "uri": "politika-konfidenczialnosti"
+    },
+    {
+      "id": 705,
+      "title": "Тестовая страница услуги",
+      "uri": "testovaya-stranicza-uslugi/"
+    },
+    {
+      "id": 716,
+      "title": "test-heder",
+      "uri": "test-header"
+    },
+    {
+      "id": 731,
+      "title": "Спасибо за покупку сертификата!",
+      "uri": "sertifikat-success"
+    }
+  ],
+  "2": [
+    {
+      "id": 4,
+      "title": "Пациентам",
+      "uri": "about/pacientam/"
+    },
+    {
+      "id": 5,
+      "title": "Корпоративным клиентам",
+      "uri": "about/korporativnym-klientam/"
+    },
+    {
+      "id": 6,
+      "title": "Сведения о мед. организации",
+      "uri": "about/svedeniya-o-med-organizacii/"
+    },
+    {
+      "id": 7,
+      "title": "Вышестоящие органы",
+      "uri": "about/vyshestoyaschie-organy/"
+    },
+    {
+      "id": 8,
+      "title": "Охрана труда",
+      "uri": "about/ohrana-truda/"
+    },
+    {
+      "id": 9,
+      "title": "Вакансии",
+      "uri": "about/vakansii/"
+    },
+    {
+      "id": 16,
+      "title": "Блог о здоровье",
+      "uri": "articles/"
+    },
+    {
+      "id": 115,
+      "title": "Новости",
+      "uri": "about/novosti/"
+    },
+    {
+      "id": 209,
+      "title": "Отзывы",
+      "uri": "otzyvy/"
+    },
+    {
+      "id": 212,
+      "title": "Приём врача: теперь и в режиме онлайн",
+      "uri": "about/telemed/"
+    },
+    {
+      "id": 510,
+      "title": "Комплесные программы осень 2023",
+      "uri": "about/offer-sep-2023"
+    },
+    {
+      "id": 586,
+      "title": "Рассрочка и кредит",
+      "uri": "about/rassrochka-i-kredit"
+    }
+  ],
+  "9": [
+    {
+      "id": 10,
+      "title": "Акушер-гинеколог, репродуктолог",
+      "uri": "about/vakansii/vrach-akusher-ginekolog-reproduktolog/"
+    },
+    {
+      "id": 11,
+      "title": "Оториноларинголог",
+      "uri": "about/vakansii/vrach-otorinolaringolog/"
+    },
+    {
+      "id": 12,
+      "title": "Кардиолог",
+      "uri": "about/vakansii/kardiolog/"
+    },
+    {
+      "id": 13,
+      "title": "Хирург",
+      "uri": "about/vakansii/hirurg/"
+    },
+    {
+      "id": 14,
+      "title": "Нефролог",
+      "uri": "about/vakansii/nefrolog/"
+    },
+    {
+      "id": 15,
+      "title": "Медицинская сестра по физиотерапии",
+      "uri": "about/vakansii/medicinskaja-sestra-po-fizioterapii/"
+    }
+  ],
+  "16": [
+    {
+      "id": 17,
+      "title": "Цистит: «Можно» и «Нельзя»",
+      "uri": "articles/cistit-mozhno-i-nelzja/"
+    },
+    {
+      "id": 18,
+      "title": "Трубный фактор",
+      "uri": "articles/trubnyj-faktor/"
+    },
+    {
+      "id": 180,
+      "title": "Лечим переломы без гипса",
+      "uri": "about/novosti/lechim-perelomy-bez-gipsa/"
+    },
+    {
+      "id": 326,
+      "title": "COVID-19, стрессы, стоматологи и прививки для беременных",
+      "uri": "articles/covid-19-stressy-stomatologi-i-privivki-dlja-beremennyh/"
+    },
+    {
+      "id": 327,
+      "title": "Когда перелом — не просто «звоночек»",
+      "uri": "articles/kogda-perelom-ne-prosto-zvonochek/"
+    },
+    {
+      "id": 328,
+      "title": "Что нужно для бесплатного ЭКО по ОМС в клинике \"Источник\"",
+      "uri": "articles/jeko-legko/"
+    },
+    {
+      "id": 329,
+      "title": "Скинуть лишнее и… забеременеть",
+      "uri": "articles/skinut-lishnee-i-zaberemenet/"
+    },
+    {
+      "id": 357,
+      "title": "Причины женского бесплодия",
+      "uri": "articles/besplodie-tolko-zhenskoe-delo"
+    },
+    {
+      "id": 360,
+      "title": "Женские боли − норма?",
+      "uri": "articles/zhenskie-boli-norma"
+    },
+    {
+      "id": 412,
+      "title": "Плазмотерапия для восстановления роста волос",
+      "uri": "articles/plazmoterapiya-dlya-vosstanovleniya-rosta-volos"
+    },
+    {
+      "id": 413,
+      "title": "Как пройти ЭКО бесплатно?",
+      "uri": "articles/kak-projti-eko-besplatno"
+    },
+    {
+      "id": 414,
+      "title": "Что такое мужское бесплодие",
+      "uri": "articles/put-pobeditelya"
+    },
+    {
+      "id": 471,
+      "title": "Открой личико",
+      "uri": "articles/otkroj-lichiko"
+    },
+    {
+      "id": 587,
+      "title": "Подготовка к ЭКО: как повысить шансы на беременность",
+      "uri": "articles/podgotovka-k-eko-kak-povyisit-shansyi-na-beremennost"
+    },
+    {
+      "id": 621,
+      "title": "Первое УЗИ при беременности: когда и на каких сроках делают?",
+      "uri": "articles/pervoe-uzi-pri-beremennosti-kogda-i-na-kakix-srokax-delayut"
+    },
+    {
+      "id": 627,
+      "title": "Как сдавать спермограмму правильно: полный гид",
+      "uri": "articles/kak-sdavat-spermogrammu-pravilno-polnyij-gid"
+    },
+    {
+      "id": 628,
+      "title": "Какие анализы нужно сдавать для определения бесплодия?",
+      "uri": "articles/kakie-analizyi-nuzhno-sdavat-dlya-opredeleniya-besplodiya"
+    },
+    {
+      "id": 635,
+      "title": "Причины мужского бесплодия",
+      "uri": "articles/prichinyi-muzhskogo-besplodiya"
+    },
+    {
+      "id": 658,
+      "title": "Какие анализы нужно сдавать для определения бесплодия?",
+      "uri": "articles/prichinyi-muzhskogo-besplodiya-2"
+    },
+    {
+      "id": 666,
+      "title": "Причины мужского бесплодия",
+      "uri": "articles/prichiny-muzhskogo-besplodiya"
+    },
+    {
+      "id": 675,
+      "title": "Персонализированное ЭКО: путь к успешной беременности",
+      "uri": "articles/personalizirovannoye-eko-put-k-uspeshnoy-beremennosti"
+    },
+    {
+      "id": 679,
+      "title": "Ощущения и симптомы после криопереноса по дням",
+      "uri": "articles/oshhushheniya-i-simptomyi-posle-krioperenosa-po-dnyam"
+    },
+    {
+      "id": 685,
+      "title": "3D и 4D УЗИ при беременности",
+      "uri": "articles/3d-i-4d-uzi-pri-beremennosti"
+    },
+    {
+      "id": 686,
+      "title": "Наркоз при ЭКО?",
+      "uri": "articles/narkoz-pri-eko"
+    },
+    {
+      "id": 692,
+      "title": "Функциональные расстройства ЖКТ",
+      "uri": "articles/funkczionalnyie-rasstrojstva-zhkt"
+    },
+    {
+      "id": 695,
+      "title": "Восстановление после родов: гайд по послеродовой реабилитации",
+      "uri": "articles/vosstanovlenie-posle-rodov"
+    },
+    {
+      "id": 697,
+      "title": "Как пережить неудачное ЭКО?",
+      "uri": "articles/kak-perezhit-neudachnoe-eko"
+    },
+    {
+      "id": 698,
+      "title": "Как питаться маме? Топ 5 веществ, необходимых для мамы и малыша",
+      "uri": "articles/kak-pitatsya-mame-top-5-neobhodimyih-veshhestv"
+    },
+    {
+      "id": 699,
+      "title": "Кесарево сечение при беременности",
+      "uri": "articles/kesarevo-sechenie-pri-beremennosti"
+    },
+    {
+      "id": 706,
+      "title": "Гестационный сахарный диабет: что важно знать беременной",
+      "uri": "articles/gestatsionniy-sakharniy-diabet"
+    },
+    {
+      "id": 711,
+      "title": "Эндоскопия — что это за процедура и зачем она нужна",
+      "uri": "articles/endoskopiya-kak-provoditsya-i-zachem-nuzhna"
+    },
+    {
+      "id": 712,
+      "title": "Что такое денситометрия и как проводится исследование костей",
+      "uri": "articles/densitometriya-kostey-chto-eto-kak-provoditsya"
+    },
+    {
+      "id": 713,
+      "title": "Рак груди во время беременности и после родов",
+      "uri": "articles/rak-grudi-pri-beremennosti-i-posle-rodov"
+    },
+    {
+      "id": 714,
+      "title": "Восстановление после инсульта",
+      "uri": "articles/vosstanovleniye-posle-insulta"
+    },
+    {
+      "id": 720,
+      "title": "Трихолог",
+      "uri": "articles/kto-takoj-trikholog-i-chem-on-zanimaetsya"
+    },
+    {
+      "id": 722,
+      "title": "Как сохранить зрение при работе за компьютером и смартфоном: советы офтальмологов",
+      "uri": "articles/kak-soxranit-zrenie-pri-rabote-za-kompyuterom-i-smartfonom-sovetyi-oftalmologov"
+    },
+    {
+      "id": 723,
+      "title": "Гистероскопия: когда требуется и как проводится",
+      "uri": "articles/gisteroskopiya"
+    },
+    {
+      "id": 729,
+      "title": "Первые признаки заболеваний щитовидной железы у женщин и мужчин",
+      "uri": "articles/pervye-priznaki-zabolevanij-shhitovidnoj-zhelezy-u-zhenshhin-i-muzhchin"
+    },
+    {
+      "id": 732,
+      "title": "Инсулинорезистентность",
+      "uri": "articles/insulinorezistentnost"
+    },
+    {
+      "id": 738,
+      "title": "Ботулинотерапия при мигрени: современный метод лечения хронической головной боли",
+      "uri": "articles/botulinoterapiya-metod-lecheniya-xronicheskoj-golovnoj-boli"
+    }
+  ],
+  "21": [
+    {
+      "id": 22,
+      "title": "Частная поликлиника",
+      "uri": "katalog/vzroslaya_klinika/"
+    },
+    {
+      "id": 23,
+      "title": "Комплексные программы",
+      "uri": "katalog/kompleksnye_programmy_535/"
+    },
+    {
+      "id": 24,
+      "title": "Отделение ВРТ",
+      "uri": "katalog/otdelenie-vrt/"
+    },
+    {
+      "id": 61,
+      "title": "Диагностика беременности",
+      "uri": "katalog/diagnostika_beremennosti/"
+    },
+    {
+      "id": 69,
+      "title": "Анестезиологическое пособие",
+      "uri": "katalog/anesteziologiceskoe_posobie-lechenie-metodom-vrt/"
+    },
+    {
+      "id": 78,
+      "title": "Тупиков Владислав Анатольевич",
+      "uri": "sotrudniki/tupikov-vladislav-anatolevich/"
+    },
+    {
+      "id": 79,
+      "title": "Красовская Елена Владимировна",
+      "uri": "sotrudniki/Krasovskaya-Elena-Vladimirovna/"
+    },
+    {
+      "id": 80,
+      "title": "Громова Ольга Александровна",
+      "uri": "sotrudniki/gromova-olga-aleksandrovna/"
+    },
+    {
+      "id": 81,
+      "title": "Эрлихман Надежда Марковна",
+      "uri": "sotrudniki/ehrlikhman-nadezhda-markovna/"
+    },
+    {
+      "id": 83,
+      "title": "Бабенчук Ирина Александровна",
+      "uri": "sotrudniki/Babenchuk-Irina-Aleksandrovna/"
+    },
+    {
+      "id": 84,
+      "title": "Громов Иван Анатольевич",
+      "uri": "sotrudniki/gromov-ivan-anatolevich/"
+    },
+    {
+      "id": 85,
+      "title": "Гафурова Дина Наилевна",
+      "uri": "sotrudniki/Gafurova-Dina-Nailevna/"
+    },
+    {
+      "id": 86,
+      "title": "Брюхина Елена Владимировна",
+      "uri": "sotrudniki/bryuhina_elena_valerevna/"
+    },
+    {
+      "id": 87,
+      "title": "Летягина Надежда Петровна",
+      "uri": "sotrudniki/Letyagina-Nadezhda-Petrovna/"
+    },
+    {
+      "id": 88,
+      "title": "Егунян Анжела Шаликовна",
+      "uri": "sotrudniki/Egunyan-Anzhela-SHalikovna/"
+    },
+    {
+      "id": 89,
+      "title": "Суслова Елена Владимировна",
+      "uri": "sotrudniki/Suslova-Elena-Vladimirovna/"
+    },
+    {
+      "id": 90,
+      "title": "Карелина Наталья Юрьевна",
+      "uri": "sotrudniki/Karelina-Natalya-YUrevna/"
+    },
+    {
+      "id": 91,
+      "title": "Зейналова Айгюнь Элшановна",
+      "uri": "sotrudniki/Zejnalova-Ajgyun-Elshanovna/"
+    },
+    {
+      "id": 92,
+      "title": "Решанова Людмила Михайловна",
+      "uri": "sotrudniki/Reshanova-Lyudmila-Mihajlovna/"
+    },
+    {
+      "id": 93,
+      "title": "Лукичева (Козицина) Марина Валерьевна",
+      "uri": "sotrudniki/Kozicina-Marina-Valerevna/"
+    },
+    {
+      "id": 94,
+      "title": "Чередникова Марина Анатольевна",
+      "uri": "sotrudniki/cherednikova_marina_anatolevna/"
+    },
+    {
+      "id": 95,
+      "title": "Кузнецова Анна Владимировна",
+      "uri": "sotrudniki/Kuznecova-Anna-Vladimirovna/"
+    },
+    {
+      "id": 96,
+      "title": "Мирная Дарья Александровна",
+      "uri": "sotrudniki/Mirnaya-Darya-Aleksandrovna/"
+    },
+    {
+      "id": 97,
+      "title": "Потасеева Ольга Альбертовна",
+      "uri": "sotrudniki/Potaseeva-Olga-Albertovna/"
+    },
+    {
+      "id": 98,
+      "title": "Падерин Валерий Борисович",
+      "uri": "sotrudniki/paderin-valerij-borisovich/"
+    },
+    {
+      "id": 100,
+      "title": "Сусло Ирина Сергеевна",
+      "uri": "sotrudniki/Suslo-Irina-Sergeevna/"
+    },
+    {
+      "id": 103,
+      "title": "Младенцева Татьяна Эдуардовна",
+      "uri": "sotrudniki/mladenceva-tatjana-ehduardovna/"
+    },
+    {
+      "id": 104,
+      "title": "Клюева Татьяна Анатольевна",
+      "uri": "sotrudniki/KLYUEVA-TATYANA-ANATOLEVNA/"
+    },
+    {
+      "id": 105,
+      "title": "Хазов Антон Викторович",
+      "uri": "sotrudniki/Hazov-Anton-Viktorovich/"
+    },
+    {
+      "id": 106,
+      "title": "Важенина Инна Игоревна",
+      "uri": "sotrudniki/Vazhenina-Inna-Igorevna/"
+    },
+    {
+      "id": 108,
+      "title": "Двойнова Наталья Михайловна",
+      "uri": "sotrudniki/Dvojnova-Natalya-Mihajlovna/"
+    },
+    {
+      "id": 110,
+      "title": "Иванов Максим Витальевич",
+      "uri": "sotrudniki/Ivanov-Maksim-Vitalevich/"
+    },
+    {
+      "id": 113,
+      "title": "Всемирнова Юлия Владимировна",
+      "uri": "sotrudniki/Vsemirnova-YUliya-Vladimirovna/"
+    },
+    {
+      "id": 114,
+      "title": "Антоненкова Елена Сергеевна",
+      "uri": "sotrudniki/antonenkova-elena-sergeevna/"
+    },
+    {
+      "id": 219,
+      "title": "Other",
+      "uri": "sotrudniki/other"
+    },
+    {
+      "id": 225,
+      "title": "Ломова-Митрофанова Татьяна Юрьевна",
+      "uri": "sotrudniki/Lomova-Mitrofanova-Tatyana-YUrevna/"
+    },
+    {
+      "id": 316,
+      "title": "Глоба Анатолий Денисович",
+      "uri": "sotrudniki/Globa-Anatolij-Denisovich/"
+    },
+    {
+      "id": 332,
+      "title": "Пульмонология",
+      "uri": "sotrudniki/pulmonology/"
+    },
+    {
+      "id": 333,
+      "title": "Гематология",
+      "uri": "sotrudniki/gematology/"
+    },
+    {
+      "id": 334,
+      "title": "Агнаева Алана Олеговна",
+      "uri": "sotrudniki/agnaeva-alana-olegovna"
+    },
+    {
+      "id": 336,
+      "title": "Славик Анастасия Халитовна",
+      "uri": "sotrudniki/slavik-anastasiya-xalitovna"
+    },
+    {
+      "id": 337,
+      "title": "Чёрная Юлия Витальевна",
+      "uri": "sotrudniki/chyornaya-yuliya-vitalevna"
+    },
+    {
+      "id": 339,
+      "title": "Шафранюк Олеся Вадимовна",
+      "uri": "sotrudniki/shafranyuk-olesya-vadimovna"
+    },
+    {
+      "id": 340,
+      "title": "Волков Константин Юрьевич",
+      "uri": "sotrudniki/volkov-konstantin-yurevich"
+    },
+    {
+      "id": 341,
+      "title": "Акименко Татьяна Игоревна",
+      "uri": "sotrudniki/akimenko-tatyana-igorevna"
+    },
+    {
+      "id": 342,
+      "title": "Жданович Константин Викторович",
+      "uri": "sotrudniki/zhdanovich-konstantin-viktorovich"
+    },
+    {
+      "id": 344,
+      "title": "Глущенко Анна Сергеевна",
+      "uri": "sotrudniki/glushhenko-anna-sergeevna"
+    },
+    {
+      "id": 345,
+      "title": "Герасимова Елена Анатольевна",
+      "uri": "sotrudniki/gerasimova-elena-anatolevna"
+    },
+    {
+      "id": 346,
+      "title": "Фоос Оксана Вячеславовна",
+      "uri": "sotrudniki/foos-oksana-vyacheslavovna"
+    },
+    {
+      "id": 347,
+      "title": "Алетин Роман Романович",
+      "uri": "sotrudniki/aletin-roman-romanovich"
+    },
+    {
+      "id": 348,
+      "title": "Шевченко Виктория Викторовна",
+      "uri": "sotrudniki/shevchenko-viktoriya-viktorovna"
+    },
+    {
+      "id": 349,
+      "title": "Терентьева Ксения Евгеньевна",
+      "uri": "sotrudniki/terenteva-kseniya-evgenevna"
+    },
+    {
+      "id": 350,
+      "title": "Тачовали Тауфик Мохамедович",
+      "uri": "sotrudniki/tachovali-taufik-moxamedovich"
+    },
+    {
+      "id": 351,
+      "title": "Яковлев Андрей Николаевич",
+      "uri": "sotrudniki/yakovlev-andrej-nikolaevich"
+    },
+    {
+      "id": 352,
+      "title": "Волкова Марина Геннадьевна",
+      "uri": "sotrudniki/volkova-marina-gennadevna"
+    },
+    {
+      "id": 375,
+      "title": "Кэрролл Наталья Валериевна",
+      "uri": "sotrudniki/kerroll-natalya-valerievna"
+    },
+    {
+      "id": 381,
+      "title": "Суладзе Бадри Сашаевич",
+      "uri": "sotrudniki/suladze-badri-sashaevich"
+    },
+    {
+      "id": 382,
+      "title": "Андрей Владимирович Аверюшкин",
+      "uri": "sotrudniki/andrej-vladimirovich-averyushkin"
+    },
+    {
+      "id": 385,
+      "title": "Удаление доброкачественных новообразований кожи",
+      "uri": "sotrudniki/udalenie-dobrokachestvennyix-novoobrazovanij-kozhi/"
+    },
+    {
+      "id": 386,
+      "title": "Копия Удаление доброкачественных новообразований кожи",
+      "uri": "sotrudniki/kopiya-udalenie-dobrokachestvennyix-novoobrazovanij-kozhi/"
+    },
+    {
+      "id": 399,
+      "title": "Комплексная программа «Мужское здоровье»",
+      "uri": "sotrudniki/kompleksnaya-programma-muzhskoe-zdorove"
+    },
+    {
+      "id": 407,
+      "title": "Магомедова Фарида Абдурахмановна",
+      "uri": "sotrudniki/magomedova-farida-abduraxmanovna"
+    },
+    {
+      "id": 408,
+      "title": "Койстрик Анна Вилоровна",
+      "uri": "sotrudniki/kojstrik-anna-vilorovna"
+    },
+    {
+      "id": 409,
+      "title": "Безужкевич Валентин Витальевич",
+      "uri": "sotrudniki/bezuzhkevich-valentin-vitalevich"
+    },
+    {
+      "id": 410,
+      "title": "Загайнова Валентина Юрьевна",
+      "uri": "sotrudniki/zagajnova-valentina-yurevna"
+    },
+    {
+      "id": 415,
+      "title": "Гродинская Дина Владимировна",
+      "uri": "sotrudniki/grodinskaya-dina-vladimirovna"
+    },
+    {
+      "id": 476,
+      "title": "Тест",
+      "uri": "sotrudniki/test"
+    },
+    {
+      "id": 477,
+      "title": "Ведение беременности. Первый триместр",
+      "uri": "sotrudniki/kompleksnaya-programma-vedenie-beremennosti.-pervyij-trimestr"
+    },
+    {
+      "id": 483,
+      "title": "Богомолова Елена Викторовна",
+      "uri": "sotrudniki/bogomolova-elena-viktorovna"
+    },
+    {
+      "id": 484,
+      "title": "Ультразвуковое исследование органов малого таза",
+      "uri": "sotrudniki/ultrazvukovoe-issledovanie-organov-malogo-taza"
+    },
+    {
+      "id": 485,
+      "title": "111",
+      "uri": "sotrudniki/111"
+    },
+    {
+      "id": 505,
+      "title": "Берулава Алеся Игоревна",
+      "uri": "sotrudniki/berulava-alesya-igorevna"
+    },
+    {
+      "id": 530,
+      "title": "Федин Дмитрий Игоревич",
+      "uri": "sotrudniki/fedin-dmitrij-igorevich"
+    },
+    {
+      "id": 531,
+      "title": "Салимова Давлатби Зоировна",
+      "uri": "sotrudniki/salimova-davlatbi-zoirovna"
+    },
+    {
+      "id": 533,
+      "title": "Диагностика",
+      "uri": "sotrudniki/diagnostika/"
+    },
+    {
+      "id": 534,
+      "title": "Ультразвуковая диагностика",
+      "uri": "sotrudniki/ultrazvukovaya-diagnostika/"
+    },
+    {
+      "id": 539,
+      "title": "Эндоскопическая диагностика",
+      "uri": "sotrudniki/endoskopicheskaya-diagnostika/"
+    },
+    {
+      "id": 544,
+      "title": "Бейг Тарик Махмудович",
+      "uri": "sotrudniki/bejg-tarik-maxmudovich"
+    },
+    {
+      "id": 546,
+      "title": "Короткова Дарья Сергеевна",
+      "uri": "sotrudniki/korotkova-darya-sergeevna"
+    },
+    {
+      "id": 547,
+      "title": "Карасева Екатерина Александровна",
+      "uri": "sotrudniki/ekaterina-aleksandrovna-karaseva"
+    },
+    {
+      "id": 548,
+      "title": "Михайлова Людмила Геннадьевна",
+      "uri": "sotrudniki/mixajlova-lyudmila-gennadevna"
+    },
+    {
+      "id": 554,
+      "title": "Тюнтяев Сергей Александрович",
+      "uri": "sotrudniki/tyuntyaev-sergej-aleksandrovich"
+    },
+    {
+      "id": 557,
+      "title": "Коршунова Лариса Николаевна",
+      "uri": "sotrudniki/korshunova-larisa-nikolaevna"
+    },
+    {
+      "id": 559,
+      "title": "Перенос эмбрионов",
+      "uri": "sotrudniki/perenos-embrionov/"
+    },
+    {
+      "id": 560,
+      "title": "Жилина Диана Васильевна",
+      "uri": "sotrudniki/zhilina-diana-vasilevna"
+    },
+    {
+      "id": 561,
+      "title": "УЗИ при беременности",
+      "uri": "sotrudniki/uzi-pri-beremennosti/"
+    },
+    {
+      "id": 563,
+      "title": "Никитин Сергей Васильевич",
+      "uri": "sotrudniki/nikitin-sergej-vasilevich"
+    },
+    {
+      "id": 566,
+      "title": "Мальцева Ольга Александровна",
+      "uri": "sotrudniki/malczeva-olga-aleksandrovna"
+    },
+    {
+      "id": 577,
+      "title": "Мордвинцев Владислав Валерьевич",
+      "uri": "sotrudniki/vladislav-valerevich-mordvinczev"
+    },
+    {
+      "id": 578,
+      "title": "Пахомова Елена Владимировна",
+      "uri": "sotrudniki/paxomova-elena-vladimirovna"
+    },
+    {
+      "id": 582,
+      "title": "Подунов Александр Юрьевич",
+      "uri": "sotrudniki/podunov-aleksandr-yurevich"
+    },
+    {
+      "id": 585,
+      "title": "Еремеев Михаил Николаевич",
+      "uri": "sotrudniki/eremeev-mixail-nikolaevich"
+    },
+    {
+      "id": 592,
+      "title": "Тен Мён Су",
+      "uri": "sotrudniki/ten-myon-su"
+    },
+    {
+      "id": 593,
+      "title": "Нилова Кристина Сароевна",
+      "uri": "sotrudniki/nilova-kristina-saroevna"
+    },
+    {
+      "id": 594,
+      "title": "Узгорский Дмитрий Владимирович",
+      "uri": "sotrudniki/uzgorskij-dmitrij-vladimirovich"
+    },
+    {
+      "id": 602,
+      "title": "Деденева Елена Викторовна",
+      "uri": "sotrudniki/dedenevaev"
+    },
+    {
+      "id": 604,
+      "title": "Цаболова Залина Святославовна",
+      "uri": "sotrudniki/czabolova"
+    },
+    {
+      "id": 607,
+      "title": "Булахтин Юрий Юрьевич",
+      "uri": "sotrudniki/bulaxtin-yurij-yurevich"
+    },
+    {
+      "id": 610,
+      "title": "Борисов Алексей Геннадьевич",
+      "uri": "sotrudniki/borisov-aleksej-gennadevich"
+    },
+    {
+      "id": 611,
+      "title": "Румянцева Елена Евгеньевна",
+      "uri": "sotrudniki/rumyanczeva-elena-evgenevna"
+    },
+    {
+      "id": 612,
+      "title": "Кацельник Екатерина Юрьевна",
+      "uri": "sotrudniki/kaczelnik-ekaterina-yurevna"
+    },
+    {
+      "id": 624,
+      "title": "Пикулёва Оксана Анатольевна",
+      "uri": "sotrudniki/pikulyova-oksana-anatolevna"
+    },
+    {
+      "id": 625,
+      "title": "Довжанский Илия Васильевич",
+      "uri": "sotrudniki/dovzhanskij-iliya-vasilevich"
+    },
+    {
+      "id": 626,
+      "title": "Пислегин Андрей Вячеславович",
+      "uri": "sotrudniki/pislegin-andrej-vyacheslavovich"
+    },
+    {
+      "id": 644,
+      "title": "Бондарчук Людмила Валерьевна",
+      "uri": "sotrudniki/bondarchuk-lyudmila-valerevna"
+    },
+    {
+      "id": 646,
+      "title": "Акопян Сергей Владимирович",
+      "uri": "sotrudniki/akopyan-sergej-vladimirovich"
+    },
+    {
+      "id": 647,
+      "title": "Полетова Людмила Павловна",
+      "uri": "sotrudniki/poletova-lyudmila-pavlovna"
+    },
+    {
+      "id": 649,
+      "title": "!Урофлоуметрия Измерение скорости потока мочи",
+      "uri": "sotrudniki/urofloumetriya-kopiya/"
+    },
+    {
+      "id": 671,
+      "title": "Фролова Надежда Васильевна",
+      "uri": "sotrudniki/frolova-nadezhda-vasilevna"
+    },
+    {
+      "id": 683,
+      "title": "Доброумова Анастасия Сергеевна",
+      "uri": "sotrudniki/dobroumova"
+    },
+    {
+      "id": 703,
+      "title": "Шиянова Екатерина Владиславовна",
+      "uri": "sotrudniki/shiyanova-ekaterina-vladislavovna"
+    },
+    {
+      "id": 704,
+      "title": "Хобец Владислав Владимирович",
+      "uri": "sotrudniki/xobecz-vladislav-vladimirovich"
+    },
+    {
+      "id": 708,
+      "title": "Белоконь Геннадий Владимирович",
+      "uri": "sotrudniki/belokon"
+    },
+    {
+      "id": 715,
+      "title": "Дубова Ирина Константиновна",
+      "uri": "sotrudniki/dubova-irina-konstantinovna"
+    },
+    {
+      "id": 719,
+      "title": "Решетников Игорь Владимирович",
+      "uri": "sotrudniki/reshetnikov-igor-vladimirovich"
+    },
+    {
+      "id": 726,
+      "title": "Дегтева Любовь Сергеевна",
+      "uri": "sotrudniki/degteva-lyubov-sergeevna"
+    },
+    {
+      "id": 727,
+      "title": "Арутюнян Арутюн Феликсович",
+      "uri": "sotrudniki/arutyunyan-arutyun-feliksovich"
+    },
+    {
+      "id": 728,
+      "title": "Райгородский Максим Владимирович",
+      "uri": "sotrudniki/rajgorodskij-maksim-vladimirovich"
+    },
+    {
+      "id": 735,
+      "title": "Букалеров Иван Алексеевич",
+      "uri": "sotrudniki/bukalerov-ivan-alekseevich"
+    },
+    {
+      "id": 736,
+      "title": "Скуридин Даниил Сергеевич",
+      "uri": "sotrudniki/skuridin-daniil-sergeevich"
+    },
+    {
+      "id": 737,
+      "title": "Антонова Светлана Борисовна",
+      "uri": "sotrudniki/antonova-svetlana-borisovna"
+    },
+    {
+      "id": 741,
+      "title": "Детские специалисты",
+      "uri": "katalog/detskie-speczialistyi/"
+    },
+    {
+      "id": 743,
+      "title": "Эккерт Дмитрий Александрович",
+      "uri": "sotrudniki/ekkertdmitrii"
+    },
+    {
+      "id": 745,
+      "title": "Мороз Екатерина Александровна",
+      "uri": "sotrudniki/morozekaterina"
+    },
+    {
+      "id": 747,
+      "title": "Бронникова Александра Александровна",
+      "uri": "sotrudniki/bronnikovaalex"
+    }
+  ],
+  "22": [
+    {
+      "id": 25,
+      "title": "Анестезиология",
+      "uri": "katalog/anesteziologiya/"
+    },
+    {
+      "id": 26,
+      "title": "Гастроэнтерология",
+      "uri": "katalog/gastroenterologiya_7/"
+    },
+    {
+      "id": 27,
+      "title": "Гинекология и акушерство",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/"
+    },
+    {
+      "id": 32,
+      "title": "Дерматовенерология",
+      "uri": "katalog/dermatovenerologia/"
+    },
+    {
+      "id": 33,
+      "title": "Диетология",
+      "uri": "katalog/dietologiya/"
+    },
+    {
+      "id": 34,
+      "title": "Кардиология",
+      "uri": "katalog/kardiologia/"
+    },
+    {
+      "id": 35,
+      "title": "Колопроктология",
+      "uri": "katalog/koloproktologiya_29/"
+    },
+    {
+      "id": 36,
+      "title": "Неврология",
+      "uri": "katalog/nevrologiya/"
+    },
+    {
+      "id": 37,
+      "title": "Онкология",
+      "uri": "katalog/onkologia/"
+    },
+    {
+      "id": 38,
+      "title": "Офтальмология",
+      "uri": "katalog/oftalmologiya_40/"
+    },
+    {
+      "id": 39,
+      "title": "Психология",
+      "uri": "katalog/psihologia/"
+    },
+    {
+      "id": 40,
+      "title": "Психотерапия",
+      "uri": "katalog/psihoterapia/"
+    },
+    {
+      "id": 41,
+      "title": "Ревматология",
+      "uri": "katalog/revmatologiya_45/"
+    },
+    {
+      "id": 42,
+      "title": "Телемедицина",
+      "uri": "katalog/telemedicina/"
+    },
+    {
+      "id": 43,
+      "title": "Терапия",
+      "uri": "katalog/terapiya_48/"
+    },
+    {
+      "id": 44,
+      "title": "Травматолог-ортопед",
+      "uri": "katalog/travmatologiya_ortopediya_49/"
+    },
+    {
+      "id": 45,
+      "title": "Пренатальная диагностика",
+      "uri": "katalog/prenatalnaya-diagnostika/"
+    },
+    {
+      "id": 46,
+      "title": "УЗИ (ультразвуковые исследования)",
+      "uri": "katalog/ultrazvukovaya_diagnostika_50/"
+    },
+    {
+      "id": 49,
+      "title": "Урология",
+      "uri": "katalog/urologiya_51/"
+    },
+    {
+      "id": 50,
+      "title": "Функциональная диагностика",
+      "uri": "katalog/funkcionalnaya_diagnostika_57/"
+    },
+    {
+      "id": 51,
+      "title": "Хирургия",
+      "uri": "katalog/hirurgia/"
+    },
+    {
+      "id": 52,
+      "title": "Эндокринология",
+      "uri": "katalog/endokrinologiya_66/"
+    },
+    {
+      "id": 53,
+      "title": "Эндоскопическая диагностика",
+      "uri": "katalog/endoskopicheskaya_diagnostika_25/"
+    },
+    {
+      "id": 99,
+      "title": "Соль Антон Александрович",
+      "uri": "sotrudniki/Sol-Anton-Aleksandrovich/"
+    },
+    {
+      "id": 101,
+      "title": "Семенова Наталья Валерьевна",
+      "uri": "sotrudniki/Semenova-Natalya-Valerevna/"
+    },
+    {
+      "id": 102,
+      "title": "Тютелев Антон Михайлович",
+      "uri": "sotrudniki/Tyutelev-Anton-Mihajlovich/"
+    },
+    {
+      "id": 107,
+      "title": "Гараев Ринат Ривхатович",
+      "uri": "sotrudniki/Garaev-Rinat-Rivhatovich/"
+    },
+    {
+      "id": 109,
+      "title": "Вавилова Людмила Анатольевна",
+      "uri": "sotrudniki/Vavilova-Lyudmila-Anatolevna/"
+    },
+    {
+      "id": 111,
+      "title": "Демидов Дмитрий Александрович",
+      "uri": "sotrudniki/Demidov-Dmitrij-Aleksandrovich/"
+    },
+    {
+      "id": 216,
+      "title": "Пульмонология",
+      "uri": "katalog/pul_monologia/"
+    },
+    {
+      "id": 217,
+      "title": "Услуги процедурного кабинета",
+      "uri": "katalog/procedurnye_uslugi_41/"
+    },
+    {
+      "id": 220,
+      "title": "Физиотерапия",
+      "uri": "katalog/fizioterapiya_56/"
+    },
+    {
+      "id": 223,
+      "title": "Волкова Ирина Игоревна",
+      "uri": "sotrudniki/Volkova-Irina-Igorevna"
+    },
+    {
+      "id": 224,
+      "title": "Графшина Елена Николаевна",
+      "uri": "sotrudniki/Grafshina-Elena-Nikolaevna/"
+    },
+    {
+      "id": 226,
+      "title": "Оториноларингология",
+      "uri": "katalog/otorinolaringologiya_36/"
+    },
+    {
+      "id": 331,
+      "title": "Аллергология-иммунология",
+      "uri": "katalog/vzroslaya_klinika/allergologiya-immunologiya/"
+    },
+    {
+      "id": 338,
+      "title": "Евстигнеева Надежда Борисовна",
+      "uri": "katalog/vzroslaya_klinika/evstigneeva-nadezhda-borisovna"
+    },
+    {
+      "id": 343,
+      "title": "Жданович Кристина Витальевна",
+      "uri": "katalog/vzroslaya_klinika/zhdanovich-kristina-vitalevna"
+    },
+    {
+      "id": 614,
+      "title": "Флебология",
+      "uri": "katalog/flebologiya/"
+    },
+    {
+      "id": 672,
+      "title": "Гемостазиология",
+      "uri": "katalog/hemostasiology/"
+    },
+    {
+      "id": 688,
+      "title": "Тестовая услуга",
+      "uri": "katalog/vzroslaya_klinika/testovaya-usluga/"
+    },
+    {
+      "id": 721,
+      "title": "Трихология — лечение волос и кожи головы",
+      "uri": "katalog/vzroslaya_klinika/triholog/"
+    }
+  ],
+  "23": [
+    {
+      "id": 54,
+      "title": "Комплексные программы по акушерству и гинекологии",
+      "uri": "katalog/ginekologiya_539/"
+    },
+    {
+      "id": 55,
+      "title": "Ведение беременности",
+      "uri": "katalog/vedenie_beremennosti-kompleksnye_programmy_535/"
+    },
+    {
+      "id": 56,
+      "title": "Комплексные программы по гастроэнтерологии",
+      "uri": "katalog/gastroenterologiya_537/"
+    },
+    {
+      "id": 57,
+      "title": "Комплексные программы по ревматологии",
+      "uri": "katalog/revmatologia/"
+    },
+    {
+      "id": 58,
+      "title": "Комплексные программы по урологии",
+      "uri": "katalog/urologia/"
+    },
+    {
+      "id": 59,
+      "title": "Медицинские чек-апы",
+      "uri": "katalog/medicinskie_chek_apy_541/"
+    },
+    {
+      "id": 379,
+      "title": "Комплексные программы по кардиологии",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/"
+    },
+    {
+      "id": 511,
+      "title": "Комплексные программы по эндокринологии",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-endokrinologii/"
+    },
+    {
+      "id": 528,
+      "title": "Комплексные программы по дерматовенерологии",
+      "uri": "katalog/kompleksnye_programmy_535/kp-po-dermatovenerologii/"
+    },
+    {
+      "id": 564,
+      "title": "Комплексные программы по офтальмологии",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-oftalmologii/"
+    },
+    {
+      "id": 639,
+      "title": "Комплексные программы по диетологии",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-dietologii/"
+    }
+  ],
+  "24": [
+    {
+      "id": 60,
+      "title": "RI Witness",
+      "uri": "katalog/ri_witness/"
+    },
+    {
+      "id": 62,
+      "title": "Диагностика и лечение женского бесплодия",
+      "uri": "katalog/diagnostika_i_lecenie_zenskogo_besplodia/"
+    },
+    {
+      "id": 63,
+      "title": "Диагностика и лечение мужского бесплодия",
+      "uri": "katalog/diagnostika_i_lecenie_muzskogo_besplodia/"
+    },
+    {
+      "id": 64,
+      "title": "Репродуктолог в Санкт-Петербурге",
+      "uri": "katalog/konsultatsiya-reproduktologa/"
+    },
+    {
+      "id": 65,
+      "title": "Timelapse: круглосуточная система мониторинга эмбрионов",
+      "uri": "katalog/kul_tivirovanie_embrionov_v_sisteme_timelapse/"
+    },
+    {
+      "id": 66,
+      "title": "Лечение методом ВРТ",
+      "uri": "katalog/lechenie-metodom-vrt/"
+    },
+    {
+      "id": 76,
+      "title": "Программы ЭКО",
+      "uri": "katalog/programmy_eko/"
+    },
+    {
+      "id": 77,
+      "title": "ЭКО по ОМС",
+      "uri": "katalog/eco_po_oms/"
+    },
+    {
+      "id": 82,
+      "title": "Гзгзян Александр Мкртичевич",
+      "uri": "sotrudniki/Gzgzyan-Aleksandr-Mkrtichevich/"
+    },
+    {
+      "id": 112,
+      "title": "Пирогова Светлана Владиславовна",
+      "uri": "sotrudniki/Pirogova-Svetlana-Vladislavovna/"
+    },
+    {
+      "id": 335,
+      "title": "Шалаева Татьяна Олеговна",
+      "uri": "katalog/otdelenie-vrt/shalaeva-tatyana-olegovna"
+    },
+    {
+      "id": 618,
+      "title": "Генетика",
+      "uri": "katalog/otdelenie-vrt/genetika/"
+    },
+    {
+      "id": 669,
+      "title": "Подготовка к ЭКО",
+      "uri": "katalog/podgotovka-k-eko/"
+    },
+    {
+      "id": 674,
+      "title": "Психологическая поддержка при ВРТ",
+      "uri": "katalog/otdelenie-vrt/psihologicheskaya-poddergka-vrt/"
+    },
+    {
+      "id": 678,
+      "title": "Кариотипирование супругов",
+      "uri": "katalog/otdelenie-vrt/genetika/kariotipirovanie/"
+    }
+  ],
+  "27": [
+    {
+      "id": 28,
+      "title": "Консультативный приëм",
+      "uri": "katalog/konsultacii_12/"
+    },
+    {
+      "id": 30,
+      "title": "Ультразвуковая диагностика в гинекологии",
+      "uri": "katalog/ultrazvukovaya_diagnostika_ginekologiya_522/"
+    },
+    {
+      "id": 31,
+      "title": "Услуги по гинекологии",
+      "uri": "katalog/uslugi/"
+    },
+    {
+      "id": 570,
+      "title": "Кольпоскопия шейки матки",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/kolposkopiya-shejki-matki/"
+    },
+    {
+      "id": 599,
+      "title": "Эстетическая гинекология",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/esteticheskaya-ginekologiya/"
+    },
+    {
+      "id": 600,
+      "title": "Гистероскопия матки",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/gisteroskopiya-matki/"
+    }
+  ],
+  "30": [
+    {
+      "id": 29,
+      "title": "Скрининг при беременности",
+      "uri": "katalog/skrining-pri-beremennosti/"
+    }
+  ],
+  "36": [
+    {
+      "id": 619,
+      "title": "Лечение головной боли и мигрени",
+      "uri": "katalog/nevrologiya/kabinet-lecheniya-golovnoj-boli/"
+    }
+  ],
+  "44": [
+    {
+      "id": 322,
+      "title": "Индивидуальные ортопедические стельки: изготовление",
+      "uri": "katalog/individualnye-ortopedicheskie-stelki-izgotovlenie/"
+    },
+    {
+      "id": 323,
+      "title": "Ударно-волновая терапия",
+      "uri": "katalog/udarno_volnovaa_terapia/"
+    },
+    {
+      "id": 545,
+      "title": "PRP-терапия",
+      "uri": "katalog/travmatologiya_ortopediya_49/prp-terapiya"
+    }
+  ],
+  "46": [
+    {
+      "id": 47,
+      "title": "УЗИ общее",
+      "uri": "katalog/uzi_obsie/"
+    },
+    {
+      "id": 48,
+      "title": "УЗИ при беременности",
+      "uri": "katalog/uzi-pri-beremennosti/"
+    },
+    {
+      "id": 558,
+      "title": "Ультразвуковая денситометрия костей R.E.M.S.",
+      "uri": "katalog/ultrazvukovaya_diagnostika_50/ultrazvukovaya-densitometriya-r.e.m.s/"
+    },
+    {
+      "id": 696,
+      "title": "УЗИ для мужчин",
+      "uri": "katalog/ultrazvukovaya_diagnostika_50/uzi-dlya-muzhchin/"
+    }
+  ],
+  "53": [
+    {
+      "id": 320,
+      "title": "ФГДС под наркозом (гастроскопия)",
+      "uri": "katalog/fgds-pod-narkozom/"
+    },
+    {
+      "id": 325,
+      "title": "Колоноскопия (ФКС) под наркозом",
+      "uri": "katalog/kolonoskopija/"
+    }
+  ],
+  "54": [
+    {
+      "id": 402,
+      "title": "Комплексная программа «Всё включено»",
+      "uri": "katalog/ginekologiya_539/kompleksnaya-programma-vsyo-vklyucheno/"
+    },
+    {
+      "id": 488,
+      "title": "Комплексная программа обследования \"Паспорт здоровья женщины Premium\"",
+      "uri": "katalog/ginekologiya_539/kompleksnaya-programma-obsledovaniya-pasport-zdorovya-zhenshhinyi-premium"
+    },
+    {
+      "id": 502,
+      "title": "МЕДИЦИНСКИЙ ЧЕК-АП. Паспорт здоровья женщины. Premium.",
+      "uri": "katalog/ginekologiya_539/mediczinskij-chek-ap.-pasport-zdorovya-zhenshhinyi.-premium"
+    },
+    {
+      "id": 503,
+      "title": "МЕДИЦИНСКИЙ ЧЕК-АП. Паспорт здоровья женщины. Standart.",
+      "uri": "katalog/ginekologiya_539/mediczinskij-chek-ap.-pasport-zdorovya-zhenshhinyi.-standart"
+    }
+  ],
+  "55": [
+    {
+      "id": 496,
+      "title": "Комплексная программа «Ведение беременности. Первый триместр»",
+      "uri": "katalog/vedenie_beremennosti-kompleksnye_programmy_535/ompleksnaya-programma-vedenie-beremennosti.-pervyij-trimestr"
+    },
+    {
+      "id": 497,
+      "title": "Комплексная программа «Ведение беременности. Второй триместр»",
+      "uri": "katalog/vedenie_beremennosti-kompleksnye_programmy_535/kompleksnaya-programma-vedenie-beremennosti.-vtoroj-trimestr"
+    },
+    {
+      "id": 498,
+      "title": "Комплексная программа «Ведение беременности. Третий триместр»",
+      "uri": "katalog/vedenie_beremennosti-kompleksnye_programmy_535/kompleksnaya-programma-vedenie-beremennosti.-tretij-trimestr"
+    }
+  ],
+  "56": [
+    {
+      "id": 404,
+      "title": "«Гастроэнтерологический Check-Up»",
+      "uri": "katalog/gastroenterologiya_537/gastroenterologicheskij-check-up"
+    },
+    {
+      "id": 499,
+      "title": "МЕДИЦИНСКИЙ ЧЕК-АП. ФГДС и ФКС под наркозом. Оптимальный.",
+      "uri": "katalog/gastroenterologiya_537/fgds-i-fks-pod-narkozom.-optimalnyij"
+    },
+    {
+      "id": 500,
+      "title": "МЕДИЦИНСКИЙ ЧЕК-АП. ФГДС и ФКС под наркозом. Стандарт диагностический.",
+      "uri": "katalog/gastroenterologiya_537/fgds-i-fks-pod-narkozom.-standart-diagnosticheskij"
+    },
+    {
+      "id": 506,
+      "title": "Комплексная программа «Прием прием эндокринолога + Биоимпедансометрия»",
+      "uri": "katalog/gastroenterologiya_537/kompleksnaya-programma-priem-gastroenterologa-bioimpedans-priem-endokrinologa-bioimpedans-priem-dietologa-bioimpedans"
+    },
+    {
+      "id": 507,
+      "title": "Комплексная программа «Прием диетолога + биоимпедансметрия»",
+      "uri": "katalog/gastroenterologiya_537/kompleksnaya-programma-priem-dietologa-bioimpedansmetriya"
+    }
+  ],
+  "58": [
+    {
+      "id": 400,
+      "title": "Комплексная программа «Миссия выполнима»",
+      "uri": "katalog/urologia/kompleksnaa-programma-missia-vypolnima"
+    },
+    {
+      "id": 401,
+      "title": "Комплексная программа «Почки – не место для камней»",
+      "uri": "katalog/urologia/kompleksnaa-programma-pocki-ne-mesto-dla-kamnej"
+    },
+    {
+      "id": 489,
+      "title": "Комплексная программа «Мужское здоровье»",
+      "uri": "katalog/urologia/complex-mens-health"
+    },
+    {
+      "id": 501,
+      "title": "МЕДИЦИНСКИЙ ЧЕК-АП. Паспорт здоровья мужчины. Premium",
+      "uri": "katalog/urologia/mediczinskij-chek-ap.-pasport-zdorovya-muzhchinyi.-premium"
+    }
+  ],
+  "59": [
+    {
+      "id": 405,
+      "title": "Комплексная программа «Забота о родителях. Стандарт»",
+      "uri": "katalog/medicinskie_chek_apy_541/kompleksnaya-programma-zabota-o-roditelyax.-standart"
+    },
+    {
+      "id": 406,
+      "title": "Комплексная программа «Забота о родителях. Premium»",
+      "uri": "katalog/medicinskie_chek_apy_541/kompleksnaya-programma-zabota-o-roditelyax.-premium"
+    },
+    {
+      "id": 513,
+      "title": "«Прием маммолога + УЗИ молочных желез»",
+      "uri": "katalog/medicinskie_chek_apy_541/priem-mammologa-uzi-molochnyix-zhelez"
+    }
+  ],
+  "63": [
+    {
+      "id": 71,
+      "title": "Биопсия яичка TESE и Micro-TESE при мужском бесплодии",
+      "uri": "katalog/biopsiya-yaichka-tese/"
+    },
+    {
+      "id": 324,
+      "title": "Урофлоуметрия",
+      "uri": "katalog/urofloumetriya/"
+    },
+    {
+      "id": 605,
+      "title": "Микрофлюидика (микрожидкостные чипы) — отбор сперматозоидов для ЭКО",
+      "uri": "katalog/lechenie-metodom-vrt/mikroflyuidika/ "
+    },
+    {
+      "id": 606,
+      "title": "Спермограмма в Санкт-Петербурге",
+      "uri": "katalog/lechenie-metodom-vrt/spermogramma/  "
+    },
+    {
+      "id": 623,
+      "title": "MAR-тест и спермограмма",
+      "uri": "katalog/lechenie-metodom-vrt/spermogramma/spermogramma-i-mar-test/"
+    },
+    {
+      "id": 631,
+      "title": "Программа «Отложенное отцовство»",
+      "uri": "katalog/kriokonservacia/otlozhennoe-otcovstvo/ "
+    },
+    {
+      "id": 643,
+      "title": "Варикоцеле - симптомы, диагностика и лечение",
+      "uri": "katalog/lechenie-metodom-vrt/varikocele/ "
+    },
+    {
+      "id": 707,
+      "title": "Морфология по Крюгеру",
+      "uri": "katalog/lechenie-metodom-vrt/spermogramma/spermogramma-po-kryugeru/"
+    }
+  ],
+  "66": [
+    {
+      "id": 67,
+      "title": "Донорские программы",
+      "uri": "katalog/donorskie_programmy/"
+    },
+    {
+      "id": 68,
+      "title": "Стимуляция суперовуляции (индукция) при ЭКО",
+      "uri": "katalog/indukcia_superovulacii/"
+    },
+    {
+      "id": 70,
+      "title": "Пункция фолликулов",
+      "uri": "katalog/punkcia_falikulov/"
+    },
+    {
+      "id": 72,
+      "title": "Культивирование эмбрионов и оплодотворение яйцеклетки при ЭКО (эмбриологический этап)",
+      "uri": "katalog/oplodotvorenie_i_kul_tivirovanie_embriologiceskij_etap/"
+    },
+    {
+      "id": 73,
+      "title": "Перенос эмбрионов",
+      "uri": "katalog/perenos_embrionov/"
+    },
+    {
+      "id": 74,
+      "title": "Криоконсервация",
+      "uri": "katalog/kriokonservacia1/"
+    },
+    {
+      "id": 75,
+      "title": "ПГД (Предимплантационная генетическая диагностика)",
+      "uri": "katalog/pgd_predimplantacionnaa_gineticeskaa_diagnostika/"
+    },
+    {
+      "id": 573,
+      "title": "Криоконсервация спермы",
+      "uri": "katalog/kriokonservacia/kriokonservacziya-spermyi/ "
+    },
+    {
+      "id": 574,
+      "title": "Криоконсервация яйцеклеток",
+      "uri": "katalog/lechenie-metodom-vrt/kriokonservacziya-yajczekletok/"
+    },
+    {
+      "id": 597,
+      "title": "Криоконсервация эмбрионов",
+      "uri": "katalog/lechenie-metodom-vrt/kriokonservacziya-embrionov/"
+    },
+    {
+      "id": 629,
+      "title": "Криоперенос эмбрионов (криопротокол)",
+      "uri": "katalog/perenos_embrionov/krioperenos-po-oms/"
+    },
+    {
+      "id": 689,
+      "title": "ПГТ-А",
+      "uri": "katalog/pgd_predimplantacionnaa_gineticeskaa_diagnostika/pgt-a/"
+    },
+    {
+      "id": 690,
+      "title": "ПГТ-М",
+      "uri": "katalog/pgd_predimplantacionnaa_gineticeskaa_diagnostika/pgt-m/"
+    },
+    {
+      "id": 709,
+      "title": "Криоконсервация эмбрионов, яйцеклеток, спермы",
+      "uri": "katalog/lechenie-metodom-vrt/crio"
+    },
+    {
+      "id": 710,
+      "title": "Криоконсервация эмбрионов, яйцеклеток, спермы",
+      "uri": "katalog/kriokonservacia/"
+    }
+  ],
+  "74": [
+    {
+      "id": 630,
+      "title": "Отложенное материнство",
+      "uri": "katalog/kriokonservacia1/otlozhennoe-materinstvo/"
+    }
+  ],
+  "76": [
+    {
+      "id": 321,
+      "title": "Процедура ЭКО с ИКСИ",
+      "uri": "katalog/programma_iksi/"
+    },
+    {
+      "id": 632,
+      "title": "Программа ЭКО с донорскими эмбрионами",
+      "uri": "katalog/programmy_eko/eko-s-donorskimi-embrionami/"
+    },
+    {
+      "id": 633,
+      "title": "ЭКО с ПИКСИ",
+      "uri": "katalog/programmy_eko/eko-s-piksi/"
+    },
+    {
+      "id": 636,
+      "title": "Программа ЭКО с донорской яйцеклеткой",
+      "uri": "katalog/programmy_eko/eko-s-donorskimi-yajcekletkami/"
+    },
+    {
+      "id": 642,
+      "title": "Программа ЭКО с донорской спермой",
+      "uri": "katalog/programmy_eko/eko-s-donorskoj-spermoj/"
+    },
+    {
+      "id": 652,
+      "title": "ЭКО при низком АМГ",
+      "uri": "katalog/programmy_eko/eko-pri-nizkom-amg/"
+    },
+    {
+      "id": 654,
+      "title": "ЭКО с собственными витрифицированными яйцеклетками",
+      "uri": "katalog/programmy_eko/eko-s-sobstvennymi-yajtsekletkami/"
+    },
+    {
+      "id": 655,
+      "title": "ЭКО в естественном цикле",
+      "uri": "katalog/programmy_eko/eko-v-estestvennom-cikle/"
+    },
+    {
+      "id": 673,
+      "title": "Инсеминация",
+      "uri": "katalog/programmy_eko/inseminatsiya/"
+    },
+    {
+      "id": 687,
+      "title": "Молекулярная генетика",
+      "uri": "katalog/programmy_eko/molekulyarnaya-genetika/"
+    }
+  ],
+  "115": [
+    {
+      "id": 162,
+      "title": "День открытых дверей: чудеса бывают!",
+      "uri": "about/novosti/den-otkrytyh-dverej-chudesa-byvajut/"
+    },
+    {
+      "id": 163,
+      "title": "«Счастливые часы» с 12:00 до 15:00 скидка -25% на приёмы всех врачей!",
+      "uri": "about/novosti/schastlivye-chasy-s-12-00-do-15-00-skidka-25-na-prijomy-vseh-vrachej/"
+    },
+    {
+      "id": 164,
+      "title": "8 июня — ДЕНЬ ОТКРЫТЫХ ДВЕРЕЙ клиники ЭКО «Источник» | Клиника Источник",
+      "uri": "about/novosti/8-iyunya-den-otkrytyh-dverej-kliniki-eko-istochnik/"
+    },
+    {
+      "id": 165,
+      "title": "Бесплатная консультация репродуктолога по готовым документам на ЭКО!",
+      "uri": "about/novosti/besplatnaja-konsultacija-reproduktologa-po-gotovym-dokumentam-na-jeko/"
+    },
+    {
+      "id": 166,
+      "title": "Плати меньше! Скидки на приёмы до 15%",
+      "uri": "about/novosti/plati-menshe-skidki-na-prijomy-do-15/"
+    },
+    {
+      "id": 167,
+      "title": "Получи свою воскресную скидку!",
+      "uri": "about/novosti/poluchi-svoju-voskresnuju-skidku/"
+    },
+    {
+      "id": 170,
+      "title": "Приём врача - включён!",
+      "uri": "about/novosti/prijom-vracha-vkljuchjon/"
+    },
+    {
+      "id": 171,
+      "title": "Здоровый разговор",
+      "uri": "about/novosti/zdorovyj-razgovor/"
+    },
+    {
+      "id": 172,
+      "title": "Чаепитие с доктором",
+      "uri": "about/novosti/chaepitie-s-doktorom/"
+    },
+    {
+      "id": 173,
+      "title": "Бесплатная консультация врача-репродуктолога в Петрозаводске",
+      "uri": "about/novosti/besplatnaja-konsultacija-vracha-reproduktologa-v-petrozavodske/"
+    },
+    {
+      "id": 174,
+      "title": "Министерство здравоохранения РФ подготовило памятку о действиях при заражении коронавирусом в легкой форме",
+      "uri": "about/novosti/ministerstvo-zdravoohranenija-rf-podgotovilo-pamjatku-o-dejstvijah-pri-zarazhenii-koronavirusom-v-legkoj-forme/"
+    },
+    {
+      "id": 175,
+      "title": "«Источник» дарит подарки!",
+      "uri": "about/novosti/istochnik-darit-podarki/"
+    },
+    {
+      "id": 176,
+      "title": "Точно прочно: проверьте состояние ваших костей!",
+      "uri": "about/novosti/proverte-sostojanie-vashih-kostej/"
+    },
+    {
+      "id": 178,
+      "title": "МАЛЬЧИК ИЛИ ДЕВОЧКА?",
+      "uri": "about/novosti/malchik-ili-devochka/"
+    },
+    {
+      "id": 179,
+      "title": "Система электронной идентификации биоматериала в эмбриолаборатории",
+      "uri": "about/novosti/sistema-jelektronnoj-identifikacii-biomateriala-v-jembriolaboratorii/"
+    },
+    {
+      "id": 181,
+      "title": "Проверьте, есть ли у вас антитела к COVID-19",
+      "uri": "about/novosti/37647/"
+    },
+    {
+      "id": 182,
+      "title": "26 июня День открытых дверей отделения вспомогательных репродуктивных технологий (ВРТ)",
+      "uri": "about/novosti/26-ijunja-den-otkrytyh-dverej-otdelenija-vspomogatelnyh-reproduktivnyh-tehnologij-vrt/"
+    },
+    {
+      "id": 183,
+      "title": "Зелёный марафон",
+      "uri": "about/novosti/zeljonyj-marafon/"
+    },
+    {
+      "id": 184,
+      "title": "Врачи «Источника» помогли поставить спортивный рекорд",
+      "uri": "about/novosti/vrachi-istochnika-pomogli-postavit-sportivnyj-rekord/"
+    },
+    {
+      "id": 185,
+      "title": "Общее годовое собрание Ассоциации частных клиник Санкт-Петербурга",
+      "uri": "about/novosti/obshhe-godovoe-sobranie-associacii-chastnyh-klinik-sankt-peterburga/"
+    },
+    {
+      "id": 186,
+      "title": "Громче других: клиника «Источник» стала финалистом престижной премии",
+      "uri": "about/novosti/gromche-drugih-klinika-istochnik-stala-finalistom-prestizhnoj-premii/"
+    },
+    {
+      "id": 187,
+      "title": "ВАШИ КОСТИ - КРЕПКИЕ ИЛИ ХРУПКИЕ?",
+      "uri": "about/novosti/krepkaja-ili-hrupkaja/"
+    },
+    {
+      "id": 188,
+      "title": "Заседание координационного совета Ассоциации частных клиник Санкт-Петербурга",
+      "uri": "about/novosti/zasedanie-koordinacionnogo-soveta-associacii-chastnyh-klinik-sankt-peterburga/"
+    },
+    {
+      "id": 189,
+      "title": "Бесплатные приемы терапевта для тех, кто перенес COVID-19",
+      "uri": "about/novosti/besplatnye-priemy-terapevta-dlja-teh-kto-perenes-covid-19/"
+    },
+    {
+      "id": 190,
+      "title": "Праздничные цены на приемы врачей",
+      "uri": "about/novosti/prazdnichnye-ceny-na-priemy-vrachej/"
+    },
+    {
+      "id": 191,
+      "title": "Подарочные карты клиники «Источник»",
+      "uri": "about/novosti/podarochnye-karty-kliniki-istochnik/"
+    },
+    {
+      "id": 192,
+      "title": "Бесплатные приемы репродуктологов каждую субботу!",
+      "uri": "about/novosti/besplatnye-priemy-reproduktologov-kazhduju-subbotu/"
+    },
+    {
+      "id": 193,
+      "title": "Обсудили вопросы развития частной медицины",
+      "uri": "about/novosti/obsudili-voprosy-razvitija-chastnoj-mediciny/"
+    },
+    {
+      "id": 194,
+      "title": "Дорогие наши партнёры! С Новым годом!",
+      "uri": "about/novosti/dorogie-nashi-partnjory-s-novym-godom/"
+    },
+    {
+      "id": 195,
+      "title": "Новая комплексная программа «Крепкие кости»",
+      "uri": "about/novosti/kompleksnaja-programma-krepki-kosti/"
+    },
+    {
+      "id": 196,
+      "title": "«Скрининг ПостКовид»",
+      "uri": "about/novosti/skrining-postkovid/"
+    },
+    {
+      "id": 197,
+      "title": "Акция «ТЁПЛЫЙ ПРИЁМ»",
+      "uri": "about/novosti/akcija-tjoplyj-prijom/"
+    },
+    {
+      "id": 198,
+      "title": "Клиника «Источник» стала участником масштабного профессионального конгресса Vademecum MedDay – 2020 в Москве",
+      "uri": "about/novosti/klinika-istochnik-stala-uchastnikom-masshtabnogo-professionalnogo-kongressa-vademecum-medday-2020-v-moskve/"
+    },
+    {
+      "id": 199,
+      "title": "«СЧАСТЛИВЫЕ ЧАСЫ» В КЛИНИКЕ «ИСТОЧНИК»",
+      "uri": "about/novosti/schastlivye-chasy-kazhdyj-den-s-12-00-do-15-00-jeto-te-samye-schastlivye-chasy-v-kotorye-my-zhdem-vas-na-priem-po-specialnoj-cene-konsultacii-vedut-vrachi-raznyh-specialnostej-ginekolog-travmatolog-o/"
+    },
+    {
+      "id": 200,
+      "title": "Бесплатные приемы репродуктологов и уролога-андролога каждую субботу!",
+      "uri": "about/novosti/besplatnye-priemy-reprodukto/"
+    },
+    {
+      "id": 201,
+      "title": "Двери клиники \"Источник\" открыты для вас!",
+      "uri": "about/novosti/34197/"
+    },
+    {
+      "id": 202,
+      "title": "14 ноября -   торжественное открытие клиники!",
+      "uri": "about/novosti/14-nojabrja-torzhestvennoe-otkrytie-kliniki/"
+    },
+    {
+      "id": 203,
+      "title": "Напутствие для клиники от Олега Митяева",
+      "uri": "about/novosti/naputstvie-dlja-kliniki-ot-olega-mitjaevja/"
+    },
+    {
+      "id": 204,
+      "title": "Что будет в клинике «Источник»?",
+      "uri": "about/novosti/chto-budet-v-klinike-istochnik/"
+    },
+    {
+      "id": 205,
+      "title": "«Источник» начинает работать для вас",
+      "uri": "about/novosti/istochnik-otkryvaet-dveri/"
+    },
+    {
+      "id": 206,
+      "title": "Кому и когда нужно идти к ревматологу?",
+      "uri": "about/novosti/komu-i-kogda-nuzhno-idti-k-revmatologu/"
+    },
+    {
+      "id": 207,
+      "title": "ВТБ открыл кредитную линию для создания репродуктивной клиники в Санкт-Петербурге",
+      "uri": "about/novosti/27432/"
+    },
+    {
+      "id": 231,
+      "title": "Клиника «Источник» поздравила детей с праздником",
+      "uri": "about/novosti/klinika-istochnik-pozdravila-detej-s-prazdnikom/"
+    },
+    {
+      "id": 232,
+      "title": "Голосуйте за профессионалов",
+      "uri": "about/novosti/golosujte-za-professionalov/"
+    },
+    {
+      "id": 233,
+      "title": "Приглашаем на прямой эфир",
+      "uri": "about/novosti/priglashaem-na-prjamoj-jefir/"
+    },
+    {
+      "id": 353,
+      "title": "«Источник» — среди финалистов премии «Доктор Питер»",
+      "uri": "about/novosti/istochnik-sredi-finalistov-premii-doktor-piter"
+    },
+    {
+      "id": 354,
+      "title": "Медработники и журналисты обсудили ситуацию с кадрами во время кризиса",
+      "uri": "about/novosti/medrabotniki-i-zhurnalistyi-obsudili-situacziyu-s-kadrami-vo-vremya-krizisa"
+    },
+    {
+      "id": 355,
+      "title": "Обсуждаем профилактику инсульта и простатита на страницах СМИ",
+      "uri": "about/novosti/obsuzhdaem-profilaktiku-insulta-i-prostatita-na-straniczax-smi"
+    },
+    {
+      "id": 356,
+      "title": "Неудобные вопросы?",
+      "uri": "about/novosti/neudobnyie-voprosyi"
+    },
+    {
+      "id": 358,
+      "title": "Как ухаживать за кожей летом?",
+      "uri": "about/novosti/kak-uxazhivat-za-kozhej-letom"
+    },
+    {
+      "id": 359,
+      "title": "Что нужно знать о здоровье груди?",
+      "uri": "about/novosti/chto-nuzhno-znat-o-zdorove-grudi"
+    },
+    {
+      "id": 361,
+      "title": "ЭКО по ОМС: так можно?",
+      "uri": "about/novosti/eko-po-oms-tak-mozhno"
+    },
+    {
+      "id": 362,
+      "title": "Слагаемые успеха частной клиники",
+      "uri": "about/novosti/slagaemyie-uspexa-chastnoj-kliniki"
+    },
+    {
+      "id": 363,
+      "title": "Акция «Счастливые часы» продлена!",
+      "uri": "about/novosti/akcziya-schastlivyie-chasyi-prodlena"
+    },
+    {
+      "id": 364,
+      "title": "Лечение гипергидроза",
+      "uri": "about/novosti/lechenie-gipergidroza"
+    },
+    {
+      "id": 365,
+      "title": "«СЧАСТЛИВЫЕ ЧАСЫ» с 12:00 до 15:00 СКИДКА -25% НА ПРИЁМЫ ВСЕХ ВРАЧЕЙ",
+      "uri": "about/novosti/schastlivyie-chasyi-s-1200-do-1500-skidka-25-na-priyomyi-vsex-vrachej"
+    },
+    {
+      "id": 366,
+      "title": "Бесплатная консультация репродуктолога!",
+      "uri": "about/novosti/besplatnaya-konsultacziya-reproduktologa"
+    },
+    {
+      "id": 367,
+      "title": "Акции от клиники «Источник»",
+      "uri": "about/novosti/akczii-ot-kliniki-istochnik"
+    },
+    {
+      "id": 368,
+      "title": "День открытых дверей ЭКО клиники «Источник»",
+      "uri": "about/novosti/den-otkryityix-dverej-eko-kliniki-istochnik"
+    },
+    {
+      "id": 369,
+      "title": "Приём врача — включён!",
+      "uri": "about/novosti/priyom-vracha-vklyuchyon"
+    },
+    {
+      "id": 370,
+      "title": "Приём эндокринолога + УЗИ щитовидной железы = 2500 руб.",
+      "uri": "about/novosti/priyom-endokrinologa-uzi-shhitovidnoj-zhelezyi-2500-rub"
+    },
+    {
+      "id": 371,
+      "title": "Прием репродуктолога в Шушарах",
+      "uri": "about/novosti/priem-reproduktologa-v-shusharax"
+    },
+    {
+      "id": 372,
+      "title": "Приглашаем на встречу с психологом!",
+      "uri": "about/novosti/priglashaem-na-vstrechu-s-psixologom"
+    },
+    {
+      "id": 373,
+      "title": "Планируете долгожданную беременность?",
+      "uri": "about/novosti/planiruete-dolgozhdannuyu-beremennost"
+    },
+    {
+      "id": 374,
+      "title": "«Реальные кейсы» как источник вдохновения",
+      "uri": "about/novosti/realnyie-kejsyi-kak-istochnik-vdoxnoveniya"
+    },
+    {
+      "id": 380,
+      "title": "Подарочные карты клиники «Источник»",
+      "uri": "about/novosti/podarochnyie-kartyi-kliniki-istochnik"
+    },
+    {
+      "id": 383,
+      "title": "ЭКО по ОМС обсудили в эфире радио \"Комсомольская правда\"",
+      "uri": "about/novosti/eko-po-oms-obsudili-v-efire-radio-komsomolskaya-pravda"
+    },
+    {
+      "id": 384,
+      "title": "«Источник» - одна из лучших клиник по версии портала НаПоправку",
+      "uri": "about/novosti/istochnik-odna-iz-luchshix-klinik-po-versii-portala-napopravku"
+    },
+    {
+      "id": 388,
+      "title": "«Каникулы с пользой»",
+      "uri": "about/novosti/kanikulyi-s-polzoj-srok-dejstviya-akczii-do-15-yanvarya"
+    },
+    {
+      "id": 389,
+      "title": "С Новым Годом!",
+      "uri": "about/novosti/s-novyim-godom"
+    },
+    {
+      "id": 391,
+      "title": "Календари «Источник вдохновения»",
+      "uri": "about/novosti/nastennyie-kalendari-istochnik-vdoxnoveniya"
+    },
+    {
+      "id": 392,
+      "title": "Как легко выйти из отпуска?",
+      "uri": "about/novosti/kak-legko-vyijti-iz-otpuska"
+    },
+    {
+      "id": 395,
+      "title": "Мифы ЭКО и онкологии",
+      "uri": "about/novosti/mifyi-eko-i-onkologii"
+    },
+    {
+      "id": 398,
+      "title": "Vesalius - возможности современной хирургии",
+      "uri": "about/novosti/vesalius-vozmozhnosti-sovremennoj-xirurgii"
+    },
+    {
+      "id": 411,
+      "title": "Знакомьтесь с «Источником»: минус 15% на первый врачебный прием",
+      "uri": "about/novosti/znakomtes-s-istochnikom-minus-15-na-pervyij-vrachebnyij-priem"
+    },
+    {
+      "id": 450,
+      "title": "Приём онколога-маммолога + УЗИ молочных желёз = 4500р.",
+      "uri": "about/novosti/priyom-onkologa-mammologa-uzi-molochnyix-zhelyoz-4500r"
+    },
+    {
+      "id": 472,
+      "title": "26 апреля 19:00 приглашаем вас в клинику \"Источник\" на День открытых дверей!",
+      "uri": "about/novosti/26-aprelya-1900-priglashaem-vas-v-kliniku-istochnik-na-den-otkryityix-dverej"
+    },
+    {
+      "id": 478,
+      "title": "Сохранить здоровье и спасти природу... Возможно? Да!",
+      "uri": "about/novosti/soxranit-zdorove-i-spasti-prirodu...-vozmozhno-da"
+    },
+    {
+      "id": 479,
+      "title": "Сохранить здоровье и спасти природу... Возможно? Да!",
+      "uri": "about/novosti/yu"
+    },
+    {
+      "id": 481,
+      "title": "Лето, солнце и ... очки",
+      "uri": "about/novosti/leto-solncze-i-...-ochki"
+    },
+    {
+      "id": 482,
+      "title": "«Источник» в гостях у «Комсомольской Правды»",
+      "uri": "about/novosti/istochnik-v-gostyax-u-komsomolskoj-pravdyi"
+    },
+    {
+      "id": 486,
+      "title": "Спеццена на прием к неврологу",
+      "uri": "about/novosti/speczczena-na-priem-k-nevrologu"
+    },
+    {
+      "id": 504,
+      "title": "Удобная запись в клинику через Telegram-бот",
+      "uri": "about/novosti/udobnaya-zapis-v-kliniku-cherez-telegram-bot"
+    },
+    {
+      "id": 508,
+      "title": "Внимание на зрение!",
+      "uri": "about/novosti/leto-i-zrenie.-kak-podgotovitsya-k-shkole"
+    },
+    {
+      "id": 515,
+      "title": "День открытых дверей 18 октября",
+      "uri": "about/novosti/den-otkryityix-dverej-18-oktyabrya"
+    },
+    {
+      "id": 516,
+      "title": "Проверь прочность костей",
+      "uri": "about/novosti/prover-prochnost-kostej"
+    },
+    {
+      "id": 518,
+      "title": "Как не стать заложником остеопороза?",
+      "uri": "about/novosti/kak-ne-stat-zalozhnikom-osteoporoza"
+    },
+    {
+      "id": 519,
+      "title": "На отделении ЭКО клиники «Источник» прошел День открытых дверей",
+      "uri": "about/novosti/na-otdelenii-eko-kliniki-istochnik-proshel-den-otkryityix-dverej"
+    },
+    {
+      "id": 520,
+      "title": "Всемирный день остеопороза",
+      "uri": "about/novosti/vsemirnyij-den-osteoporoza"
+    },
+    {
+      "id": 522,
+      "title": "Комплексная программа \"Грибов нет\"",
+      "uri": "about/novosti/kompleksnaya-programma-gribov-net"
+    },
+    {
+      "id": 523,
+      "title": "Специальная цена на приемы уролога",
+      "uri": "about/novosti/speczialnaya-czena-na-priemyi-urologa"
+    },
+    {
+      "id": 524,
+      "title": "День открытых дверей 15 ноября в 19:00",
+      "uri": "about/novosti/den-otkryityix-dverej-15-noyabrya-v-1900"
+    },
+    {
+      "id": 525,
+      "title": "Предновогодний подарок для всех клиентов клиники «Источник»!",
+      "uri": "about/novosti/prednovogodnij-podarok-dlya-vsex-klientov-kliniki-istochnik"
+    },
+    {
+      "id": 526,
+      "title": "День здоровья в клинике «Источник» состоялся!",
+      "uri": "about/novosti/den-zdorovya-v-klinike-istochnik-sostoyalsya"
+    },
+    {
+      "id": 527,
+      "title": "ЭКО за 99 000 рублей: акция продлена!",
+      "uri": "about/novosti/eko-za-99-000-rublej"
+    },
+    {
+      "id": 532,
+      "title": "Российская Ассоциация по остеопорозу в гостях у «Источника»",
+      "uri": "about/novosti/rossijskaya-assocziacziya-po-osteoporozu-v-gostyax-u-istochnika"
+    },
+    {
+      "id": 542,
+      "title": "Биоимпеданс + комментарий специалиста в подарок",
+      "uri": "about/novosti/bioimpedans-kommentarij-speczialista-v-podarok"
+    },
+    {
+      "id": 543,
+      "title": "«Источник» в публикациях СМИ",
+      "uri": "about/novosti/istochnik-v-publikacziyax-smi"
+    },
+    {
+      "id": 555,
+      "title": "Простая «Формула счастья»",
+      "uri": "about/novosti/prostaya-formula-schastya"
+    },
+    {
+      "id": 556,
+      "title": "День здоровья в клинике «Источник»: правила долголетия и молодости",
+      "uri": "about/novosti/den-zdorovya-v-klinike-istochnik-pravila-dolgoletiya-i-molodosti"
+    },
+    {
+      "id": 562,
+      "title": "3 апреля в клинике состоялся день здоровья!",
+      "uri": "about/novosti/3-aprelya-2024-goda-v-klinike-istochnik-sostoyalsya-den-zdorovya"
+    },
+    {
+      "id": 565,
+      "title": "Счастью быть! В отделении ВРТ новый заведующий, врач акушер-гинеколог, репродуктолог, к.м.н. Никитин Сергей Васильевич.",
+      "uri": "about/novosti/nikitin"
+    },
+    {
+      "id": 569,
+      "title": "Клиника “Источник” вошла в ТОП-10 лучших многопрофильных клиник и центров репродукции (ЭКО)*",
+      "uri": "about/novosti/docpiter"
+    },
+    {
+      "id": 575,
+      "title": "\"Источник\" на семейном фестивале \"Каникулы с \"Комсомолкой\"",
+      "uri": "about/novosti/familyfest"
+    },
+    {
+      "id": 576,
+      "title": "V научно-практическая конференция с международным участием для экспертов «Репродуктивная медицина: краеугольные вопросы»",
+      "uri": "about/novosti/confarepro"
+    },
+    {
+      "id": 579,
+      "title": "Клиника \"Источник\" поддерживает  \"Семейные каникулы с Комсомолкой\"",
+      "uri": "about/novosti/familyfestkp"
+    },
+    {
+      "id": 581,
+      "title": "V научно-практическая конференция с международным участием для экспертов «Репродуктивная медицина: краеугольные вопросы»",
+      "uri": "about/novosti/v-nauchno-prakticheskaya-konferencziya-s-mezhdunarodnyim-uchastiem-dlya-ekspertov-reproduktivnaya-mediczina-kraeugolnyie-voprosyi"
+    },
+    {
+      "id": 583,
+      "title": "На рекорд - вместе с клиникой \"Источник\"",
+      "uri": "about/novosti/sapsan"
+    },
+    {
+      "id": 584,
+      "title": "Лето. Солнце. Марафон!",
+      "uri": "about/novosti/greenmaraphon"
+    },
+    {
+      "id": 588,
+      "title": "Клиники Петербурга пожаловались на проблемы с поиском врачей",
+      "uri": "about/novosti/kliniki-peterburga-pozhalovalis-na-problemyi-s-poiskom-vrachej"
+    },
+    {
+      "id": 589,
+      "title": "Клиника \"Источник\" в ТОП-10 клиник Санкт-Петербурга по специализациям \"Клиники ЭКО\" и \"Многопрофильные клиники\"!",
+      "uri": "about/novosti/klinika-istochnik-v-top-10-luchshix-klinik-sankt-peterburga"
+    },
+    {
+      "id": 598,
+      "title": "Клиника “Источник”: врач рядом!",
+      "uri": "about/novosti/klinika-istochnik-vrachi-ryadom"
+    },
+    {
+      "id": 601,
+      "title": "Самое время посетить врача выгодно! 20 августа повышаем цены",
+      "uri": "about/novosti/20aug"
+    },
+    {
+      "id": 603,
+      "title": "Важное о бонусной программе в \"Источнике\"",
+      "uri": "about/novosti/bonus"
+    },
+    {
+      "id": 608,
+      "title": "День открытых дверей отделения ВРТ \"Беременные звёзды\"",
+      "uri": "about/novosti/dod051024"
+    },
+    {
+      "id": 613,
+      "title": "День открытых дверей на ВРТ стал вдохновением",
+      "uri": "about/novosti/5oct2024"
+    },
+    {
+      "id": 617,
+      "title": "Неочевидные причины головных болей в разгар сезона ОРВИ",
+      "uri": "about/novosti/headache"
+    },
+    {
+      "id": 620,
+      "title": "«Источник» - в шорт-листе Премии «АиФ – Статус»",
+      "uri": "about/novosti/golosujte-za-nas-v-premii-aif-status"
+    },
+    {
+      "id": 622,
+      "title": "Повышаем цены с 15 ноября!",
+      "uri": "about/novosti/povyishaem-czenyi-s-15-noyabrya"
+    },
+    {
+      "id": 634,
+      "title": "Цикл встреч \"Среда счастья\"",
+      "uri": "about/novosti/czikl-vstrech-sreda-schastya"
+    },
+    {
+      "id": 641,
+      "title": "График работы в новогодние праздники",
+      "uri": "about/novosti/grafik-rabotyi-v-novogodnie-prazdniki"
+    },
+    {
+      "id": 648,
+      "title": "Цикл встреч \"Среда счастья\": Женское здоровье без цензуры.",
+      "uri": "about/novosti/womanhealth"
+    },
+    {
+      "id": 650,
+      "title": "Единая карта петербуржца и \"Источник\" дарят скидки!",
+      "uri": "about/novosti/ekp"
+    },
+    {
+      "id": 653,
+      "title": "Встреча \"Женское здоровье без цензуры 18+\" о любви и не только",
+      "uri": "about/novosti/vstrecha-zhenskoe-zdorove-bez-czenzuryi-18-perevernula-zhizn-uchastnicz"
+    },
+    {
+      "id": 668,
+      "title": "Репродуктологи о беременности после 40 лет: статья в \"Доктор Питер\"",
+      "uri": "about/novosti/doctorpiter0225"
+    },
+    {
+      "id": 676,
+      "title": "Проголосуй за любимую клинику в Премии \"Доктор Питер. Частная медицина\" 2025!",
+      "uri": "about/novosti/docpit25"
+    },
+    {
+      "id": 677,
+      "title": "Цикл встреч \"Среда счастья\": \"PRO ЗОЖ: профилактика и возможности\"",
+      "uri": "about/novosti/oncology"
+    },
+    {
+      "id": 682,
+      "title": "VI научно-практическая конференция \"Репродуктивная медицина: краеугольные вопросы\"",
+      "uri": "about/novosti/conf2025"
+    },
+    {
+      "id": 684,
+      "title": "Голосуй за любимую клинику ЭКО \"Источник\"",
+      "uri": "about/novosti/doctorpiter2025"
+    },
+    {
+      "id": 691,
+      "title": "Профилактика и помощь при укусе клеща",
+      "uri": "about/novosti/profilaktika-i-pomoshh-pri-ukuse-kleshha"
+    },
+    {
+      "id": 694,
+      "title": "Оформление санаторно-курортной карты в \"Источнике\"",
+      "uri": "about/novosti/vacation"
+    },
+    {
+      "id": 700,
+      "title": "Пациенты доверяют нам самое главное! Мы в ТОП-10 лучших клиник",
+      "uri": "about/novosti/paczientyi-doveryayut-nam-samoe-glavnoe"
+    },
+    {
+      "id": 702,
+      "title": "Лучше один раз увидеть: 4 июля мастер-класс по оперативному лечению варикоцеле и азооспермии Гамидова С.И., д.м.н. в \"Источнике\"",
+      "uri": "about/novosti/luchshe-odin-raz-uvidet"
+    },
+    {
+      "id": 717,
+      "title": "День открытых дверей 15 ноября в 12.00 в новом формате - «Медицинский stand-up: нам есть, что сказать»",
+      "uri": "about/novosti/den-otkryityix-dverej-15-noyabrya-v-12.00-novyij-format-mediczinskij-stand-up-nam-est-chto-skazat"
+    },
+    {
+      "id": 724,
+      "title": "Клиника \"Источник\" - в ТОП-20 частных клиник Санкт-Петербурга 2025 года",
+      "uri": "about/novosti/prodoctorov2025"
+    },
+    {
+      "id": 725,
+      "title": "Юмор по рецепту: как всё прошло на нашем медицинском стендапе 15 ноября",
+      "uri": "about/novosti/standup151125"
+    },
+    {
+      "id": 730,
+      "title": "О доверии пациентов языком юмора",
+      "uri": "about/novosti/humor"
+    },
+    {
+      "id": 733,
+      "title": "Клиника \"Источник\" в ТОП-10 Рейтинга частного здравоохранения",
+      "uri": "about/novosti/dprate2025"
+    },
+    {
+      "id": 734,
+      "title": "График работы в новогодние каникулы",
+      "uri": "about/novosti/ny2026"
+    },
+    {
+      "id": 740,
+      "title": "День открытых дверей в любимом формате - весенний медицинский стендап \"Врачи прилетели\"",
+      "uri": "about/novosti/dodmarch2026"
+    },
+    {
+      "id": 742,
+      "title": "Голосуем за «Источник»",
+      "uri": "about/novosti/golosuem-za-istochnik"
+    },
+    {
+      "id": 746,
+      "title": "\"Было душевно и позитивно!\" Спасибо, что были с нами 28 марта!",
+      "uri": "about/novosti/dodpostrewiew"
+    }
+  ],
+  "209": [
+    {
+      "id": 234,
+      "title": "+7-966-75XXXXX",
+      "uri": "otzyvy/7-966-75xxxxx"
+    },
+    {
+      "id": 235,
+      "title": "Николай",
+      "uri": "otzyvy/nikolaj"
+    },
+    {
+      "id": 236,
+      "title": "Имя",
+      "uri": "otzyvy/imya"
+    },
+    {
+      "id": 237,
+      "title": "Анна",
+      "uri": "otzyvy/anna"
+    },
+    {
+      "id": 238,
+      "title": "Алина, 20 лет",
+      "uri": "otzyvy/alina-20-let"
+    },
+    {
+      "id": 239,
+      "title": "Наталья",
+      "uri": "otzyvy/natalya"
+    },
+    {
+      "id": 240,
+      "title": "Светлана",
+      "uri": "otzyvy/svetlana"
+    },
+    {
+      "id": 241,
+      "title": "Елизавета",
+      "uri": "otzyvy/elizaveta"
+    },
+    {
+      "id": 242,
+      "title": "Галина Ивановна",
+      "uri": "otzyvy/galina-ivanovna"
+    },
+    {
+      "id": 243,
+      "title": "Евгения Ш.",
+      "uri": "otzyvy/evgeniya-sh"
+    },
+    {
+      "id": 244,
+      "title": "Екатерина М.",
+      "uri": "otzyvy/ekaterina-m"
+    },
+    {
+      "id": 245,
+      "title": "Дарья",
+      "uri": "otzyvy/darya"
+    },
+    {
+      "id": 246,
+      "title": "Анастасия",
+      "uri": "otzyvy/anastasiya"
+    },
+    {
+      "id": 247,
+      "title": "София",
+      "uri": "otzyvy/sofiya"
+    },
+    {
+      "id": 248,
+      "title": "Ева",
+      "uri": "otzyvy/eva"
+    },
+    {
+      "id": 249,
+      "title": "Александра",
+      "uri": "otzyvy/aleksandra"
+    },
+    {
+      "id": 250,
+      "title": "Ядрышникова К. А.",
+      "uri": "otzyvy/yadryishnikova-k.-a"
+    },
+    {
+      "id": 251,
+      "title": "Ядрышникова Кристина Александровна",
+      "uri": "otzyvy/yadryishnikova-kristina-aleksandrovna"
+    },
+    {
+      "id": 252,
+      "title": "Ал",
+      "uri": "otzyvy/al"
+    },
+    {
+      "id": 253,
+      "title": "Ульяна",
+      "uri": "otzyvy/ulyana"
+    },
+    {
+      "id": 254,
+      "title": "Абрамова Анна",
+      "uri": "otzyvy/abramova-anna"
+    },
+    {
+      "id": 255,
+      "title": "Алиса",
+      "uri": "otzyvy/alisa"
+    },
+    {
+      "id": 256,
+      "title": "Валентина",
+      "uri": "otzyvy/valentina"
+    },
+    {
+      "id": 257,
+      "title": "Глеб",
+      "uri": "otzyvy/gleb"
+    },
+    {
+      "id": 258,
+      "title": "Ростислава",
+      "uri": "otzyvy/rostislava"
+    },
+    {
+      "id": 259,
+      "title": "Александра",
+      "uri": "otzyvy/aleksandra1"
+    },
+    {
+      "id": 260,
+      "title": "Ольга Олеговна",
+      "uri": "otzyvy/olga-olegovna"
+    },
+    {
+      "id": 261,
+      "title": "Марина",
+      "uri": "otzyvy/marina"
+    },
+    {
+      "id": 262,
+      "title": "Анна",
+      "uri": "otzyvy/anna1"
+    },
+    {
+      "id": 263,
+      "title": "Имя",
+      "uri": "otzyvy/imya1"
+    },
+    {
+      "id": 264,
+      "title": "Евгения",
+      "uri": "otzyvy/evgeniya"
+    },
+    {
+      "id": 265,
+      "title": "Валерия",
+      "uri": "otzyvy/valeriya"
+    },
+    {
+      "id": 266,
+      "title": "Анна",
+      "uri": "otzyvy/anna2"
+    },
+    {
+      "id": 267,
+      "title": "Абрамова О.В.",
+      "uri": "otzyvy/abramova-o.v"
+    },
+    {
+      "id": 268,
+      "title": "Анастасия К.",
+      "uri": "otzyvy/anastasiya-k"
+    },
+    {
+      "id": 269,
+      "title": "Галина",
+      "uri": "otzyvy/galina"
+    },
+    {
+      "id": 270,
+      "title": "Горелова Марина",
+      "uri": "otzyvy/gorelova-marina"
+    },
+    {
+      "id": 271,
+      "title": "Андрей Г.",
+      "uri": "otzyvy/andrej-g"
+    },
+    {
+      "id": 272,
+      "title": "Мария",
+      "uri": "otzyvy/mariya"
+    },
+    {
+      "id": 273,
+      "title": "Антонина Гаркуша",
+      "uri": "otzyvy/antonina-garkusha"
+    },
+    {
+      "id": 274,
+      "title": "Имя",
+      "uri": "otzyvy/imya2"
+    },
+    {
+      "id": 275,
+      "title": "Имя",
+      "uri": "otzyvy/imya3"
+    },
+    {
+      "id": 276,
+      "title": "Александра Гастева",
+      "uri": "otzyvy/aleksandra-gasteva"
+    },
+    {
+      "id": 277,
+      "title": "Екатерина",
+      "uri": "otzyvy/ekaterina"
+    },
+    {
+      "id": 278,
+      "title": "Лена",
+      "uri": "otzyvy/lena"
+    },
+    {
+      "id": 279,
+      "title": "Земфира",
+      "uri": "otzyvy/zemfira"
+    },
+    {
+      "id": 280,
+      "title": "Надежда",
+      "uri": "otzyvy/nadezhda"
+    },
+    {
+      "id": 281,
+      "title": "Марина Х.",
+      "uri": "otzyvy/marina-x"
+    },
+    {
+      "id": 282,
+      "title": "Михаил",
+      "uri": "otzyvy/mixail"
+    },
+    {
+      "id": 283,
+      "title": "Мария П.",
+      "uri": "otzyvy/mariya-p"
+    },
+    {
+      "id": 284,
+      "title": "Даниил",
+      "uri": "otzyvy/daniil"
+    },
+    {
+      "id": 285,
+      "title": "Валентина Н.",
+      "uri": "otzyvy/valentina-n"
+    },
+    {
+      "id": 286,
+      "title": "Елена",
+      "uri": "otzyvy/elena"
+    },
+    {
+      "id": 287,
+      "title": "Муратова З.",
+      "uri": "otzyvy/muratova-z"
+    },
+    {
+      "id": 288,
+      "title": "Александра",
+      "uri": "otzyvy/aleksandra2"
+    },
+    {
+      "id": 289,
+      "title": "Оксана",
+      "uri": "otzyvy/oksana-vasilchenko"
+    },
+    {
+      "id": 290,
+      "title": "Евгения",
+      "uri": "otzyvy/evgeniya1"
+    },
+    {
+      "id": 291,
+      "title": "Оксана",
+      "uri": "otzyvy/oksana"
+    },
+    {
+      "id": 292,
+      "title": "Виолетта",
+      "uri": "otzyvy/violetta"
+    },
+    {
+      "id": 293,
+      "title": "Мариам",
+      "uri": "otzyvy/mariam"
+    },
+    {
+      "id": 294,
+      "title": "Марина",
+      "uri": "otzyvy/marina2"
+    },
+    {
+      "id": 295,
+      "title": "Маргарита",
+      "uri": "otzyvy/margarita"
+    },
+    {
+      "id": 296,
+      "title": "Лиза",
+      "uri": "otzyvy/liza"
+    },
+    {
+      "id": 297,
+      "title": "Оксана Г.",
+      "uri": "otzyvy/oksana-g"
+    },
+    {
+      "id": 298,
+      "title": "Забудько Сергей",
+      "uri": "otzyvy/zabudko-sergej"
+    },
+    {
+      "id": 299,
+      "title": "Анастасия Ф.",
+      "uri": "otzyvy/anastasiya-f"
+    },
+    {
+      "id": 300,
+      "title": "Маргарита",
+      "uri": "otzyvy/margarita2"
+    },
+    {
+      "id": 301,
+      "title": "Лилия",
+      "uri": "otzyvy/liliya"
+    },
+    {
+      "id": 302,
+      "title": "Дмитрий Ю.",
+      "uri": "otzyvy/dmitrij-yu"
+    },
+    {
+      "id": 303,
+      "title": "Алёна",
+      "uri": "otzyvy/alyona"
+    },
+    {
+      "id": 304,
+      "title": "Наталья",
+      "uri": "otzyvy/natalya2"
+    },
+    {
+      "id": 305,
+      "title": "Анна",
+      "uri": "otzyvy/anna3"
+    },
+    {
+      "id": 306,
+      "title": "Алексей",
+      "uri": "otzyvy/aleksej"
+    },
+    {
+      "id": 307,
+      "title": "Мария К.",
+      "uri": "otzyvy/mariya-k"
+    },
+    {
+      "id": 308,
+      "title": "Наталья",
+      "uri": "otzyvy/natalya3"
+    },
+    {
+      "id": 309,
+      "title": "Екатерина",
+      "uri": "otzyvy/ekaterina2"
+    },
+    {
+      "id": 310,
+      "title": "Александр",
+      "uri": "otzyvy/aleksandr"
+    },
+    {
+      "id": 311,
+      "title": "Мария Б.",
+      "uri": "otzyvy/mariya-b"
+    },
+    {
+      "id": 312,
+      "title": "Александра",
+      "uri": "otzyvy/aleksandra3"
+    },
+    {
+      "id": 313,
+      "title": "Пациент",
+      "uri": "otzyvy/paczient"
+    },
+    {
+      "id": 314,
+      "title": "Светлана",
+      "uri": "otzyvy/svetlana2"
+    },
+    {
+      "id": 315,
+      "title": "Кристина",
+      "uri": "otzyvy/kristina"
+    },
+    {
+      "id": 390,
+      "title": "проверка",
+      "uri": "otzyvy/1673601276"
+    },
+    {
+      "id": 393,
+      "title": "+7-981-83XXXXX",
+      "uri": "otzyvy/1673883073"
+    },
+    {
+      "id": 416,
+      "title": "+7-921-63XXXXX",
+      "uri": "otzyvy/7-921-63xxxxx"
+    },
+    {
+      "id": 417,
+      "title": "+7-981-71XXXXX",
+      "uri": "otzyvy/7-981-71xxxxx"
+    },
+    {
+      "id": 418,
+      "title": "+7-921-34XXXXX",
+      "uri": "otzyvy/7-921-34xxxxx"
+    },
+    {
+      "id": 419,
+      "title": "+7-930-41XXXXX",
+      "uri": "otzyvy/7-930-41xxxxx"
+    },
+    {
+      "id": 420,
+      "title": "+7-921-79XXXXX",
+      "uri": "otzyvy/7-921-79xxxxx"
+    },
+    {
+      "id": 421,
+      "title": "+7-958-85XXXXX",
+      "uri": "otzyvy/7-958-85xxxxx"
+    },
+    {
+      "id": 422,
+      "title": "+7-904-55XXXXX",
+      "uri": "otzyvy/7-904-55xxxxx"
+    },
+    {
+      "id": 423,
+      "title": "+7-919-35XXXXX",
+      "uri": "otzyvy/7-919-35xxxxx"
+    },
+    {
+      "id": 424,
+      "title": "+7-921-17XXXXX",
+      "uri": "otzyvy/7-921-17xxxxx"
+    },
+    {
+      "id": 425,
+      "title": "+7-906-85XXXXX",
+      "uri": "otzyvy/7-906-85xxxxx"
+    },
+    {
+      "id": 426,
+      "title": "+7-911-23XXXXX",
+      "uri": "otzyvy/7-911-23xxxxx"
+    },
+    {
+      "id": 427,
+      "title": "+7-911-96XXXXX",
+      "uri": "otzyvy/7-911-96xxxxx"
+    },
+    {
+      "id": 428,
+      "title": "+7-999-23XXXXX",
+      "uri": "otzyvy/7-999-23xxxxx"
+    },
+    {
+      "id": 429,
+      "title": "+7-929-84XXXXX",
+      "uri": "otzyvy/7-929-84xxxxx"
+    },
+    {
+      "id": 430,
+      "title": "+7-900-65XXXXX",
+      "uri": "otzyvy/7-900-65xxxxx"
+    },
+    {
+      "id": 431,
+      "title": "+7-953-34XXXXX",
+      "uri": "otzyvy/7-953-34xxxxx"
+    },
+    {
+      "id": 432,
+      "title": "+7-911-12XXXXX",
+      "uri": "otzyvy/7-911-12xxxxx"
+    },
+    {
+      "id": 433,
+      "title": "+7-911-84XXXXX",
+      "uri": "otzyvy/7-911-84xxxxx"
+    },
+    {
+      "id": 434,
+      "title": "+7-981-12XXXXX",
+      "uri": "otzyvy/7-981-12xxxxx"
+    },
+    {
+      "id": 435,
+      "title": "+7-904-51XXXXX",
+      "uri": "otzyvy/7-904-51xxxxx"
+    },
+    {
+      "id": 436,
+      "title": "Юлия",
+      "uri": "otzyvy/yuliya"
+    },
+    {
+      "id": 437,
+      "title": "Юлиана",
+      "uri": "otzyvy/yuliana"
+    },
+    {
+      "id": 438,
+      "title": "Елена НП",
+      "uri": "otzyvy/elena-np"
+    },
+    {
+      "id": 439,
+      "title": "+7-991-02XXXXX",
+      "uri": "otzyvy/7-991-02xxxxx"
+    },
+    {
+      "id": 440,
+      "title": "+7-951-75XXXXX",
+      "uri": "otzyvy/7-951-75xxxxx"
+    },
+    {
+      "id": 441,
+      "title": "+7-921-99XXXXX",
+      "uri": "otzyvy/7-921-99xxxxx"
+    },
+    {
+      "id": 443,
+      "title": "+7-981-91XXXXX",
+      "uri": "otzyvy/7-981-91xxxxx"
+    },
+    {
+      "id": 444,
+      "title": "+7-905-19XXXXX",
+      "uri": "otzyvy/7-905-19xxxxx"
+    },
+    {
+      "id": 445,
+      "title": "+7-927-42XXXXX",
+      "uri": "otzyvy/7-927-42xxxxx"
+    },
+    {
+      "id": 446,
+      "title": "+7-981-90XXXXX",
+      "uri": "otzyvy/7-981-90xxxxx"
+    },
+    {
+      "id": 447,
+      "title": "+7-919-33XXXXX",
+      "uri": "otzyvy/7-919-33xxxxx"
+    },
+    {
+      "id": 448,
+      "title": "+7-921-78XXXXX",
+      "uri": "otzyvy/7-921-78xxxxx"
+    },
+    {
+      "id": 449,
+      "title": "+7-911-17XXXXX",
+      "uri": "otzyvy/7-911-17xxxxx"
+    },
+    {
+      "id": 451,
+      "title": "+7-912-96XXXXX",
+      "uri": "otzyvy/7-912-96xxxxx"
+    },
+    {
+      "id": 452,
+      "title": "+7-921-91XXXXX",
+      "uri": "otzyvy/7-921-91xxxxx"
+    },
+    {
+      "id": 453,
+      "title": "+7-981-12XXXXX",
+      "uri": "otzyvy/7-981-12xxxxxx"
+    },
+    {
+      "id": 454,
+      "title": "+7-921-21XXXXX",
+      "uri": "otzyvy/7-921-21xxxxx"
+    },
+    {
+      "id": 455,
+      "title": "+7-981-84XXXXX",
+      "uri": "otzyvy/7-981-84xxxxx"
+    },
+    {
+      "id": 456,
+      "title": "+7-921-55XXXXX",
+      "uri": "otzyvy/7-921-55xxxxx"
+    },
+    {
+      "id": 457,
+      "title": "+7-981-81XXXXX",
+      "uri": "otzyvy/7-981-81xxxxx"
+    },
+    {
+      "id": 458,
+      "title": "+7-981-74XXXXX",
+      "uri": "otzyvy/7-981-74xxxxx"
+    },
+    {
+      "id": 459,
+      "title": "+7-952-21XXXXX",
+      "uri": "otzyvy/7-952-21xxxxx"
+    },
+    {
+      "id": 460,
+      "title": "+7-969-79XXXXX",
+      "uri": "otzyvy/7-969-79xxxxx"
+    },
+    {
+      "id": 461,
+      "title": "+7-921-97XXXXX",
+      "uri": "otzyvy/7-921-97xxxxx"
+    },
+    {
+      "id": 462,
+      "title": "799....@....ru",
+      "uri": "otzyvy/799........ru"
+    },
+    {
+      "id": 463,
+      "title": "7xxxxxxxx51",
+      "uri": "otzyvy/7xxxxxxxx51"
+    },
+    {
+      "id": 464,
+      "title": "+7-900-65XXXXX",
+      "uri": "otzyvy/7-900-65xxxxxx"
+    },
+    {
+      "id": 465,
+      "title": "+7-904-28XXXXX",
+      "uri": "otzyvy/7-904-28xxxxx"
+    },
+    {
+      "id": 466,
+      "title": "+7-921-33XXXXX",
+      "uri": "otzyvy/7-921-33xxxxx"
+    },
+    {
+      "id": 467,
+      "title": "+7-911-98XXXXX",
+      "uri": "otzyvy/7-911-98xxxxx"
+    },
+    {
+      "id": 468,
+      "title": "+7-911-27XXXXX",
+      "uri": "otzyvy/7-911-27xxxxx"
+    },
+    {
+      "id": 469,
+      "title": "+7-911-83XXXXX",
+      "uri": "otzyvy/7-911-83xxxxx"
+    },
+    {
+      "id": 470,
+      "title": "+7-950-03XXXXX",
+      "uri": "otzyvy/7-950-03xxxxx"
+    },
+    {
+      "id": 521,
+      "title": "+7-913-59XXXXX",
+      "uri": "otzyvy/7-913-59xxxxx"
+    },
+    {
+      "id": 595,
+      "title": "Лена",
+      "uri": "otzyvy/1720434144"
+    },
+    {
+      "id": 596,
+      "title": "Лена 2",
+      "uri": "otzyvy/1720440443"
+    }
+  ],
+  "210": [
+    {
+      "id": 211,
+      "title": "Страница не найдена",
+      "uri": "system/stranicza-ne-najdena"
+    },
+    {
+      "id": 317,
+      "title": "Поиск по сайту",
+      "uri": "poisk-po-katalogu/"
+    },
+    {
+      "id": 330,
+      "title": "search",
+      "uri": "system/search"
+    },
+    {
+      "id": 376,
+      "title": "inport",
+      "uri": "import/"
+    },
+    {
+      "id": 377,
+      "title": "code",
+      "uri": "system/code"
+    },
+    {
+      "id": 378,
+      "title": "sitemap.xml",
+      "uri": "sitemap.xml"
+    },
+    {
+      "id": 387,
+      "title": "Спасибо за обращение",
+      "uri": "thanx"
+    }
+  ],
+  "226": [
+    {
+      "id": 227,
+      "title": "Ухо",
+      "uri": "katalog/uho_39/"
+    },
+    {
+      "id": 228,
+      "title": "Горло",
+      "uri": "katalog/gorlo_37/"
+    },
+    {
+      "id": 229,
+      "title": "Консультации ЛОР врача",
+      "uri": "katalog/konsul_tacii/"
+    },
+    {
+      "id": 230,
+      "title": "Нос",
+      "uri": "katalog/nos_38/"
+    }
+  ],
+  "379": [
+    {
+      "id": 403,
+      "title": "Комплексная программа «Жизнь без гипертонии»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-zhizn-bez-gipertonii"
+    },
+    {
+      "id": 490,
+      "title": "Комплексная программа Забота о родителях стандарт",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-zabota-o-roditelyax.-standart"
+    },
+    {
+      "id": 491,
+      "title": "Комплексная программа «Забота о родителях. Premium»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-zabota-o-roditelyax.-premium"
+    },
+    {
+      "id": 492,
+      "title": "Комплексная программа «Жизнь без аритмии»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-zhizn-bez-aritmii"
+    },
+    {
+      "id": 493,
+      "title": "Комплексная программа «Надежное сердце. Стандарт»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-nadezhnoe-serdcze.-standart"
+    },
+    {
+      "id": 494,
+      "title": "Комплексная программа «Надежное сердце. Premium»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-nadezhnoe-serdcze.-premium"
+    },
+    {
+      "id": 495,
+      "title": "Комплексная программа «Жизнь без боли в сердце»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-zhizn-bez-boli-v-serdcze"
+    },
+    {
+      "id": 514,
+      "title": "Комплексная программа «Прием кардиолога + ЭКГ»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-kardiologii/kompleksnaya-programma-priem-kardiologa-ekg"
+    }
+  ],
+  "511": [
+    {
+      "id": 512,
+      "title": "«Прием эндокринолога + УЗИ щитовидной железы»",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-endokrinologii/priem-endokrinologa-uzi-shhitovidnoj-zhelezyi"
+    }
+  ],
+  "528": [
+    {
+      "id": 529,
+      "title": "Комплексная Программа: Грибов нет",
+      "uri": "katalog/kompleksnye_programmy_535/kp-po-dermatovenerologii/kompleksnaya-programma-gribov-net"
+    }
+  ],
+  "534": [
+    {
+      "id": 535,
+      "title": "Копия УЗИ общие",
+      "uri": "sotrudniki/ultrazvukovaya-diagnostika/kopiya-uzi-obshhie/"
+    },
+    {
+      "id": 537,
+      "title": "Копия УЗИ для беременных",
+      "uri": "sotrudniki/ultrazvukovaya-diagnostika/kopiya-uzi-dlya-beremennyix/"
+    },
+    {
+      "id": 538,
+      "title": "Копия Тест",
+      "uri": "sotrudniki/ultrazvukovaya-diagnostika/kopiya-test"
+    }
+  ],
+  "535": [
+    {
+      "id": 536,
+      "title": "Копия Ультразвуковое исследование органов малого таза",
+      "uri": "sotrudniki/ultrazvukovaya-diagnostika/kopiya-uzi-obshhie/kopiya-ultrazvukovoe-issledovanie-organov-malogo-taza"
+    }
+  ],
+  "539": [
+    {
+      "id": 540,
+      "title": "Копия ФГДС под наркозом",
+      "uri": "sotrudniki/endoskopicheskaya-diagnostika/kopia-fgds-pod-narkozom/"
+    },
+    {
+      "id": 541,
+      "title": "Копия Колоноскопия",
+      "uri": "sotrudniki/endoskopicheskaya-diagnostika/kopia-kolonoskopiya/"
+    }
+  ],
+  "549": [
+    {
+      "id": 168,
+      "title": "Приём гинеколога. Всё включено!",
+      "uri": "about/novosti/prijom-ginekologa-vsjo-vkljucheno/"
+    },
+    {
+      "id": 169,
+      "title": "Приём кардиолога + ЭКГ = 3300₽",
+      "uri": "about/offer/novye-akcii-ot-kliniki-istochnik"
+    },
+    {
+      "id": 177,
+      "title": "Учись, студент, и будь спокоен за свое здоровье!",
+      "uri": "about/novosti/uchis-student-i-bud-spokoen-za-svoe-zdorove/"
+    },
+    {
+      "id": 396,
+      "title": "Бесплатный приём репродуктолога!",
+      "uri": "about/offer/besplatnyij-priyom-reproduktologa-po-eko"
+    },
+    {
+      "id": 442,
+      "title": "Проверьте желудочно-кишечный тракт со скидкой 25%",
+      "uri": "about/offer/proverte-zheludochno-kishechnyij-trakt-so-skidkoj-25"
+    },
+    {
+      "id": 473,
+      "title": "Прием маммолога + УЗИ за 8370 ₽",
+      "uri": "about/offer/priem-mammologa-uzi"
+    },
+    {
+      "id": 474,
+      "title": "УЗИ щитовидной железы + приём эндокринолога за 8190 ₽",
+      "uri": "about/offer/uzi-shhitovidnoj-zhelezyi-priyom-endokrinologa"
+    },
+    {
+      "id": 517,
+      "title": "R.E.M.S. Денситометрия + бесплатная консультация врача",
+      "uri": "about/offer/r.e.m.s.-densitometriya-besplatnaya-konsultacziya-vracha"
+    },
+    {
+      "id": 550,
+      "title": "Скидка 10% на УЗИ",
+      "uri": "about/offer/skidka-10-na-uzi"
+    },
+    {
+      "id": 551,
+      "title": "Биоимпеданс + комментарий специалиста в подарок",
+      "uri": "about/offer/kopiya-bioimpedans-kommentarij-speczialista-v-podarok"
+    },
+    {
+      "id": 553,
+      "title": "ЭКО за 99 000 ₽ и криоперенос за 49 000 ₽",
+      "uri": "about/offer/eko-za-99-000-rublej"
+    },
+    {
+      "id": 568,
+      "title": "Скидка 10% участникам СВО",
+      "uri": "about/offer/svo10"
+    },
+    {
+      "id": 590,
+      "title": "Удаление новообразования с приемом врача и гистологией за 6900₽",
+      "uri": "about/offer/dermatology6900"
+    },
+    {
+      "id": 591,
+      "title": "Консультация ведущих репродуктологов с опытом более 30 лет. Бесплатно",
+      "uri": "about/offer/difficult"
+    },
+    {
+      "id": 616,
+      "title": "Любой* прием врача репродуктолога с УЗИ органов малого таза от 6500 ₽",
+      "uri": "about/offer/povtornyij-priem-vracha-reproduktologa-s-uzi-organov-malogo-taza-ot-6500"
+    },
+    {
+      "id": 637,
+      "title": "Программы по диетологии \"Идеальный вес\" от 11300₽",
+      "uri": "about/offer/dietology"
+    },
+    {
+      "id": 640,
+      "title": "Программа ЭКО \"Сопровождение до рождения\" 200000 ₽",
+      "uri": "about/offer/expertguide"
+    },
+    {
+      "id": 701,
+      "title": "Консультация перед операцией врача уролога бесплатно",
+      "uri": "about/offer/konsultacziya-pered-operacziej-vracha-urologa-pislegina-a.v.besplatno"
+    },
+    {
+      "id": 718,
+      "title": "Счастливые-новогодние",
+      "uri": "about/offer/happynewyear"
+    },
+    {
+      "id": 739,
+      "title": "Скидка 10% на функциональную диагностику",
+      "uri": "about/offer/functional"
+    },
+    {
+      "id": 744,
+      "title": "Знакомство с доктором со скидкой 30%",
+      "uri": "about/offer/meeting30"
+    }
+  ],
+  "564": [
+    {
+      "id": 509,
+      "title": "Комплексная программа. \"Прием офтальмолога для школьников\"",
+      "uri": "katalog/kompleksnye_programmy_535/kompleksnyie-programmyi-po-oftalmologii/priem-oftalmologa-dlya-shkolnikov-kompleksnaya-programma"
+    }
+  ],
+  "570": [
+    {
+      "id": 571,
+      "title": "Летягина Надежда Петровна",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/kolposkopiya-shejki-matki/letyagina-nadezhda-petrovna"
+    },
+    {
+      "id": 572,
+      "title": "Егунян Анжела Шаликовна",
+      "uri": "katalog/ginekologiya_i_akusherstvo_9/kolposkopiya-shejki-matki/egunyan-anzhela-shalikovna"
+    }
+  ],
+  "614": [
+    {
+      "id": 615,
+      "title": "Радиочастотная абляция",
+      "uri": "katalog/radiochastotnaya-ablyacziya/"
+    }
+  ],
+  "656": [
+    {
+      "id": 657,
+      "title": "Причины мужского бесплодия",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya"
+    },
+    {
+      "id": 659,
+      "title": "Как сдавать спермограмму правильно: полный гид",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-3"
+    },
+    {
+      "id": 660,
+      "title": "Первое УЗИ при беременности: когда и на каких сроках делают?",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-4"
+    },
+    {
+      "id": 661,
+      "title": "Причины мужского бесплодия 5",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-5"
+    },
+    {
+      "id": 662,
+      "title": "Причины мужского бесплодия 6",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-6"
+    },
+    {
+      "id": 663,
+      "title": "Причины мужского бесплодия 7",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-7"
+    },
+    {
+      "id": 664,
+      "title": "Причины мужского бесплодия 8",
+      "uri": "blog-test/prichinyi-muzhskogo-besplodiya-8"
+    },
+    {
+      "id": 665,
+      "title": "Что нужно для бесплатного ЭКО по ОМС в клинике \"Источник\"",
+      "uri": "blog-test/eco-test"
+    },
+    {
+      "id": 667,
+      "title": "Страница с ценами",
+      "uri": "blog-test/stranicza-s-czenami"
+    }
+  ],
+  "669": [
+    {
+      "id": 651,
+      "title": "Список анализов для ЭКО и процедур ВРТ",
+      "uri": "katalog/analizy-dlya-eko/"
+    },
+    {
+      "id": 670,
+      "title": "PRP-терапия перед ЭКО",
+      "uri": "katalog/podgotovka-k-eko/prp-terapiya-pered-eko/"
+    }
+  ]
+}

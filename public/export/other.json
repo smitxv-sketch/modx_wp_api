@@ -1,0 +1,1493 @@
+[
+  {
+    "id": 1,
+    "pagetitle": "Главная",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "index",
+    "uri": "index",
+    "parent": 0,
+    "template": 1,
+    "menuindex": 0,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1650694111,
+    "editedon": 1775481025,
+    "publishedon": 1653281400,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Многопрофильная клиника «Источник» – официальный сайт. Санкт-Петербург, Финский переулок д.4. Более 50 направлений, профессиональное импортное оборудование, квалифицированные опытные врачи",
+      "homeAbout": [
+        {
+          "MIGX_id": "1",
+          "img": "advantage/1.png",
+          "name": "Более 30 направлений медицинской помощи"
+        },
+        {
+          "MIGX_id": "2",
+          "img": "advantage/2.png",
+          "name": "Команда врачей профессионалов"
+        },
+        {
+          "MIGX_id": "3",
+          "img": "advantage/3.png",
+          "name": "Максимальная точность диагностики"
+        },
+        {
+          "MIGX_id": "4",
+          "img": "advantage/4.png",
+          "name": "Высокий уровень комфорта"
+        },
+        {
+          "MIGX_id": "5",
+          "img": "advantage/5.png",
+          "name": "Передовое европейское оборудование"
+        },
+        {
+          "MIGX_id": "6",
+          "img": "advantage/6.png",
+          "name": "Многопрофильные обследования"
+        },
+        {
+          "MIGX_id": "7",
+          "img": "advantage/7.png",
+          "name": "Уникальный комплекс чистых помещений"
+        }
+      ],
+      "homeAboutText": "<p>Клиника \"Источник\" в Санкт-Петербурге - это многопрофильная клиника с высокотехнологичным отделением ВРТ (ЭКО) и уникальным набором ресурсов для профилактики, лечения и сохранения здоровья.</p>",
+      "homeVideo": [
+        {
+          "MIGX_id": "1",
+          "img": "video/video4.jpg",
+          "links": "https://vkvideo.ru/video-196646120_456239527"
+        }
+      ],
+      "homeVideoName": "Давайте знакомиться!",
+      "homeVideoName2": "Смотрите видео и листайте галерею ",
+      "loc": [
+        {
+          "MIGX_id": "1",
+          "name": "call",
+          "ru": "Заказать звонок",
+          "en": "Order a call"
+        },
+        {
+          "MIGX_id": "2",
+          "name": "clinic",
+          "ru": "Взрослая клиника",
+          "en": "Adult clinic"
+        },
+        {
+          "MIGX_id": "3",
+          "name": "eco",
+          "ru": "Отделение ЭКО",
+          "en": "IVF Department"
+        },
+        {
+          "MIGX_id": "4",
+          "name": "siteName",
+          "ru": "КЛИНИКА «ИСТОЧНИК»",
+          "en": "ISTOCHNIK CLINIC"
+        },
+        {
+          "MIGX_id": "5",
+          "name": "siteDes",
+          "ru": "Это многопрофильная клиника, обладающая уникальным набором всех необходимых ресурсов для профилактики, лечения и сохранения здоровья.",
+          "en": "It is a multi-specialty medical center that has a unique set of all the necessary resources for prevention, treatment and preservation of health of adults and children, including ambulance and emergency medical care."
+        },
+        {
+          "MIGX_id": "6",
+          "name": "experience",
+          "ru": "Стаж",
+          "en": "Experience"
+        },
+        {
+          "MIGX_id": "7",
+          "name": "Направления деятельности",
+          "ru": "Направления деятельности",
+          "en": "Area of activity"
+        },
+        {
+          "MIGX_id": "8",
+          "name": "Быстрая запись",
+          "ru": "Быстрая запись",
+          "en": "Quick recording"
+        },
+        {
+          "MIGX_id": "9",
+          "name": "Стоимость приема",
+          "ru": "Стоимость приема",
+          "en": "The cost of admission"
+        },
+        {
+          "MIGX_id": "10",
+          "name": "Отзывы",
+          "ru": "Отзывы",
+          "en": "Reviews"
+        },
+        {
+          "MIGX_id": "11",
+          "name": "Образование",
+          "ru": "Образование",
+          "en": "Education"
+        },
+        {
+          "MIGX_id": "12",
+          "name": "Дополнительное образование",
+          "ru": "Дополнительное образование",
+          "en": "Further education"
+        },
+        {
+          "MIGX_id": "13",
+          "name": "Участие в конференциях",
+          "ru": "Участие в конференциях",
+          "en": "Participation in conferences"
+        },
+        {
+          "MIGX_id": "14",
+          "name": "Смотреть все отзывы о клинике",
+          "ru": "Смотреть все отзывы о клинике",
+          "en": "View all reviews about the clinic"
+        },
+        {
+          "MIGX_id": "15",
+          "name": "Другие специалисты",
+          "ru": "Другие специалисты",
+          "en": "Other specialists"
+        },
+        {
+          "MIGX_id": "16",
+          "name": "смотреть всех специалистов клиники",
+          "ru": "смотреть всех специалистов клиники",
+          "en": "view all specialists of the clinic"
+        },
+        {
+          "MIGX_id": "17",
+          "name": "Поиск по фамилии",
+          "ru": "Поиск по фамилии",
+          "en": "Search by last name"
+        },
+        {
+          "MIGX_id": "18",
+          "name": "подробнее",
+          "ru": "подробнее",
+          "en": "read more"
+        },
+        {
+          "MIGX_id": "19",
+          "name": "Записаться на прием",
+          "ru": "Записаться на прием",
+          "en": "Make an appointment"
+        },
+        {
+          "MIGX_id": "20",
+          "name": "Принимал врач",
+          "ru": "Принимал врач",
+          "en": "Was taken by a doctor"
+        },
+        {
+          "MIGX_id": "21",
+          "name": "Плюсы",
+          "ru": "Плюсы",
+          "en": "Positive"
+        },
+        {
+          "MIGX_id": "22",
+          "name": "Минусы",
+          "ru": "Минусы",
+          "en": "Minuses"
+        },
+        {
+          "MIGX_id": "23",
+          "name": "Все направления",
+          "ru": "Все направления",
+          "en": "All areas"
+        },
+        {
+          "MIGX_id": "24",
+          "name": "Версия сайта для слабовидящих",
+          "ru": "Версия сайта для слабовидящих",
+          "en": "Site version for visual impaired"
+        },
+        {
+          "MIGX_id": "25",
+          "name": "поддержка сайта",
+          "ru": "поддержка сайта",
+          "en": "website support"
+        },
+        {
+          "MIGX_id": "26",
+          "name": "Главная_ЛК",
+          "ru": "Вход<br /> в личный<br /> кабинет",
+          "en": "Access<br>personal<br>account"
+        },
+        {
+          "MIGX_id": "27",
+          "name": "Поликлиника",
+          "ru": "Поликлиника",
+          "en": "Polyclinic"
+        },
+        {
+          "MIGX_id": "28",
+          "name": "Отделение ВРТ",
+          "ru": "Отделение ВРТ",
+          "en": "IVF (ART)"
+        },
+        {
+          "MIGX_id": "29",
+          "name": "Комплексные программы",
+          "ru": "Комплексные программы",
+          "en": "Complex program (Checkups)"
+        },
+        {
+          "MIGX_id": "30",
+          "name": "Телемедицина",
+          "ru": "Телемедицина",
+          "en": "TELEMEDICINE"
+        },
+        {
+          "MIGX_id": "31",
+          "name": "Онлайн консультация",
+          "ru": "Онлайн консультация",
+          "en": "Online consultation"
+        },
+        {
+          "MIGX_id": "32",
+          "name": "Поиск по сайту",
+          "ru": "Поиск по сайту",
+          "en": "Site search"
+        },
+        {
+          "MIGX_id": "33",
+          "name": "Оставить отзыв",
+          "ru": "Оставить отзыв",
+          "en": "Leave a review"
+        },
+        {
+          "MIGX_id": "34",
+          "name": "Поиск",
+          "ru": "Поиск",
+          "en": "Search"
+        },
+        {
+          "MIGX_id": "35",
+          "name": "Свернуть меню",
+          "ru": "Свернуть меню",
+          "en": "Collapse menu"
+        },
+        {
+          "MIGX_id": "36",
+          "name": "Заказать звонок",
+          "ru": "Заказать звонок",
+          "en": "Order a call"
+        },
+        {
+          "MIGX_id": "37",
+          "name": "Цены",
+          "ru": "Цены",
+          "en": "Prices"
+        },
+        {
+          "MIGX_id": "38",
+          "name": "Врачи",
+          "ru": "Врачи",
+          "en": "Doctors"
+        },
+        {
+          "MIGX_id": "39",
+          "name": "О Клинике",
+          "ru": "О Клинике",
+          "en": "About the Clinic"
+        },
+        {
+          "MIGX_id": "41",
+          "name": "Наши специалисты",
+          "ru": "Наши специалисты",
+          "en": "Our specialists"
+        },
+        {
+          "MIGX_id": "42",
+          "name": "Все специалисты клиники",
+          "ru": "Все специалисты клиники",
+          "en": "All specialists of the clinic"
+        },
+        {
+          "MIGX_id": "43",
+          "name": "Лицензии и сертификаты",
+          "ru": "Лицензии и сертификаты",
+          "en": "Licenses and certificates"
+        },
+        {
+          "MIGX_id": "44",
+          "name": "скачать в PDF",
+          "ru": "скачать в PDF",
+          "en": "download PDF"
+        },
+        {
+          "MIGX_id": "45",
+          "name": "Оставить свой отзыв",
+          "ru": "Оставить свой отзыв",
+          "en": "Leave a review"
+        },
+        {
+          "MIGX_id": "46",
+          "name": "Запись на консультацию",
+          "ru": "Запись на консультацию",
+          "en": "Appointment for consultation"
+        },
+        {
+          "MIGX_id": "47",
+          "name": "ВАШЕ ИМЯ",
+          "ru": "ВАШЕ ИМЯ",
+          "en": "YOUR NAME"
+        },
+        {
+          "MIGX_id": "48",
+          "name": "ВАШ E-MAIL",
+          "ru": "ВАШ E-MAIL",
+          "en": "YOUR E-MAIL ADDRESS"
+        },
+        {
+          "MIGX_id": "49",
+          "name": "ВАШ ТЕЛЕФОН",
+          "ru": "ВАШ ТЕЛЕФОН",
+          "en": "YOUR NUMBER"
+        },
+        {
+          "MIGX_id": "50",
+          "name": "Направление",
+          "ru": "Направление",
+          "en": "Direction"
+        },
+        {
+          "MIGX_id": "51",
+          "name": "Взрослая клиника",
+          "ru": "Взрослая клиника",
+          "en": "Adult Clinic"
+        },
+        {
+          "MIGX_id": "52",
+          "name": "Детская клиника",
+          "ru": "Детская клиника",
+          "en": "Children's Clinic"
+        },
+        {
+          "MIGX_id": "53",
+          "name": "Косметология",
+          "ru": "Косметология",
+          "en": "Cosmetology"
+        },
+        {
+          "MIGX_id": "54",
+          "name": "Скорая помощь",
+          "ru": "Скорая помощь",
+          "en": "Ambulance"
+        },
+        {
+          "MIGX_id": "55",
+          "name": "ВРТ (ЭКО)",
+          "ru": "ВРТ (ЭКО)",
+          "en": "ART (IVF)"
+        },
+        {
+          "MIGX_id": "57",
+          "name": "Отправить",
+          "ru": "Отправить",
+          "en": "Send"
+        },
+        {
+          "MIGX_id": "58",
+          "name": "Я даю согласие на",
+          "ru": "Я даю согласие на",
+          "en": "I consent to"
+        },
+        {
+          "MIGX_id": "59",
+          "name": "обработку и хранение персональных данных,",
+          "ru": "обработку и хранение персональных данных,",
+          "en": "the processing and storage of personal data in accordance"
+        },
+        {
+          "MIGX_id": "60",
+          "name": "согласно ФЗ №152 от 27.07.2006*",
+          "ru": "согласно ФЗ №152 от 27.07.2006*",
+          "en": "with Federal Law No. 152 dated 27.07.2006*"
+        },
+        {
+          "MIGX_id": "61",
+          "name": "УДОБНОЕ ДЛЯ ЗВОНКА ВРЕМЯ",
+          "ru": "УДОБНОЕ ДЛЯ ЗВОНКА ВРЕМЯ",
+          "en": "CONVENIENT TIME FOR A CALL"
+        },
+        {
+          "MIGX_id": "62",
+          "name": "revModalText",
+          "ru": "Опишите, что Вам понравилось или не понравилось. Руководство клиники разбирает каждый отзыв. Помогите нам стать лучше!",
+          "en": "Trust is what matters most in our business, and what speaks better of our clinic than our patients’ reviews? Leave your review on all aspects of the clinic's work. This will help us become even better."
+        },
+        {
+          "MIGX_id": "63",
+          "name": "ТЕКСТ ОТЗЫВА",
+          "ru": "ТЕКСТ ОТЗЫВА",
+          "en": "REVIEW TEXT"
+        },
+        {
+          "MIGX_id": "64",
+          "name": "Рейтинг",
+          "ru": "Рейтинг",
+          "en": "RATING"
+        },
+        {
+          "MIGX_id": "65",
+          "name": "Задать вопрос специалисту",
+          "ru": "Задать вопрос специалисту",
+          "en": "Ask a question to a specialist"
+        },
+        {
+          "MIGX_id": "66",
+          "name": "ВАШ ВОПРОС",
+          "ru": "ВАШ ВОПРОС",
+          "en": "YOUR QUESTION"
+        },
+        {
+          "MIGX_id": "67",
+          "name": "Заявка отправлена",
+          "ru": "Заявка отправлена",
+          "en": "The application has been sent"
+        },
+        {
+          "MIGX_id": "68",
+          "name": "Заявка_отправлена_текст",
+          "ru": "Ваша заявка успешно отправлена. Мы свяжемся с вами <br />\nпо указанному номеру в течение часа, чтобы уточнить детали приёма.",
+          "en": "Your application has been successfully submitted. We will contact you <br />\nat the specified number within an hour to clarify the details of the reception."
+        },
+        {
+          "MIGX_id": "69",
+          "name": "Закрыть",
+          "ru": "Закрыть",
+          "en": "Сlose"
+        },
+        {
+          "MIGX_id": "70",
+          "name": "Не нашли ответ? Звоните, мы поможем:",
+          "ru": "Не нашли ответ? Звоните, мы поможем:",
+          "en": "Didn't find the answer? Call us, we will help:"
+        },
+        {
+          "MIGX_id": "71",
+          "name": "или",
+          "ru": "или",
+          "en": "or"
+        },
+        {
+          "MIGX_id": "72",
+          "name": "cookie",
+          "ru": "Сайт cispb.com использует cookie",
+          "en": "Website cispb.com uses cookies"
+        },
+        {
+          "MIGX_id": "73",
+          "name": "cookie2",
+          "ru": "с целью персонализации сервисов и повышения удобства пользования порталом.",
+          "en": "in order to personalize the services and improve the usability of the portal."
+        },
+        {
+          "MIGX_id": "74",
+          "name": "cookie3",
+          "ru": "Если вы не хотите использовать файлы cookie, измените настройки браузера.",
+          "en": "If you do not want to use cookies, change your browser settings."
+        },
+        {
+          "MIGX_id": "75",
+          "name": "Настройки",
+          "ru": "Настройки",
+          "en": "Settings"
+        },
+        {
+          "MIGX_id": "76",
+          "name": "Принять",
+          "ru": "Принять",
+          "en": "Accept"
+        },
+        {
+          "MIGX_id": "77",
+          "name": "Записаться на бесплатный приём",
+          "ru": "Записаться на бесплатный приём",
+          "en": "Make an appointment for free"
+        },
+        {
+          "MIGX_id": "78",
+          "name": "siteName2",
+          "ru": "ООО «КЛИНИКА ИСТОЧНИК»",
+          "en": "LLC \"CLINIC SOURCE\""
+        },
+        {
+          "MIGX_id": "79",
+          "name": "copyright",
+          "ru": "ЛИЦЕНЗИЯ № ЛО-78-01-011276 от 18.11.2020<br />\nвыдана Комитетом по здравоохранению Санкт-Петербурга (регистрационный номер лицензии: Л041-01148-78/00358045)",
+          "en": "LICENSE NO. LO-78-01-011276 dated 18.11.2020<br />\nissued by the Health Committee of St. Petersburg"
+        },
+        {
+          "MIGX_id": "81",
+          "name": "Посмотреть услуги и цены",
+          "ru": "Посмотреть услуги и цены",
+          "en": "View services and prices"
+        },
+        {
+          "MIGX_id": "82",
+          "name": "Другие новости",
+          "ru": "Другие новости",
+          "en": "Other news"
+        },
+        {
+          "MIGX_id": "83",
+          "name": "Оставить заявку",
+          "ru": "Оставить заявку",
+          "en": "Sign up online"
+        }
+      ],
+      "photo_list": [
+        {
+          "MIGX_id": "1",
+          "photo_link": "https://rutube.ru/play/embed/400bdf4a906458a607b5c54f3e1c616b/",
+          "equipment_i": "video/video6.jpg"
+        },
+        {
+          "MIGX_id": "21",
+          "photo_link": "",
+          "equipment_i": "foto/11.jpg"
+        },
+        {
+          "MIGX_id": "22",
+          "photo_link": "",
+          "equipment_i": "foto/12.jpg"
+        },
+        {
+          "MIGX_id": "23",
+          "photo_link": "",
+          "equipment_i": "foto/13.jpg"
+        },
+        {
+          "MIGX_id": "24",
+          "photo_link": "",
+          "equipment_i": "foto/14.jpg"
+        },
+        {
+          "MIGX_id": "25",
+          "photo_link": "",
+          "equipment_i": "foto/15.jpg"
+        },
+        {
+          "MIGX_id": "26",
+          "photo_link": "",
+          "equipment_i": "foto/6.jpg"
+        },
+        {
+          "MIGX_id": "27",
+          "photo_link": "",
+          "equipment_i": "foto/7.jpg"
+        },
+        {
+          "MIGX_id": "28",
+          "photo_link": "",
+          "equipment_i": "foto/8.jpg"
+        },
+        {
+          "MIGX_id": "29",
+          "photo_link": "",
+          "equipment_i": "foto/9.jpg"
+        },
+        {
+          "MIGX_id": "30",
+          "photo_link": "",
+          "equipment_i": "foto/10.jpg"
+        },
+        {
+          "MIGX_id": "31",
+          "photo_link": "",
+          "equipment_i": "foto/1.JPG"
+        },
+        {
+          "MIGX_id": "32",
+          "photo_link": "",
+          "equipment_i": "foto/2.JPG"
+        },
+        {
+          "MIGX_id": "33",
+          "photo_link": "",
+          "equipment_i": "foto/3.JPG"
+        },
+        {
+          "MIGX_id": "34",
+          "photo_link": "",
+          "equipment_i": "foto/4.JPG"
+        },
+        {
+          "MIGX_id": "35",
+          "photo_link": "",
+          "equipment_i": "foto/5.JPG"
+        }
+      ],
+      "serf": [
+        {
+          "MIGX_id": "1",
+          "img": "licenses/1.png"
+        },
+        {
+          "MIGX_id": "2",
+          "img": "licenses/2.png"
+        },
+        {
+          "MIGX_id": "3",
+          "img": "licenses/3.png"
+        },
+        {
+          "MIGX_id": "4",
+          "img": "licenses/4.png"
+        },
+        {
+          "MIGX_id": "5",
+          "img": "licenses/5.png"
+        },
+        {
+          "MIGX_id": "6",
+          "img": "licenses/6.png"
+        },
+        {
+          "MIGX_id": "7",
+          "img": "licenses/7.png"
+        },
+        {
+          "MIGX_id": "8",
+          "img": "licenses/8.png"
+        }
+      ],
+      "sign_online": "https://booking.medflex.ru/?user=57f65399b6712ab212f5dc662f607b06&source=3",
+      "slider": [
+        {
+          "MIGX_id": "44",
+          "name": "Знакомство с доктором со скидкой 30%",
+          "descslider": "",
+          "PriceSlider": "",
+          "datastart": "2026-04-01",
+          "dataend": "2026-04-30",
+          "links": "https://cispb.com/about/offer/meeting30",
+          "img": "Баннер-на-сайт-Знакомство-30%.png",
+          "imgMob": "Знакомство-слайдер.png"
+        },
+        {
+          "MIGX_id": "41",
+          "name": "Голосую за \"Источник\"",
+          "descslider": "",
+          "PriceSlider": "",
+          "datastart": "",
+          "dataend": "",
+          "links": "https://cispb.com/about/novosti/golosuem-za-istochnik",
+          "img": "Баннер-на-сайт-Голосуй-2026.png",
+          "imgMob": "Голосуй-слайдер-2026.png"
+        },
+        {
+          "MIGX_id": "16",
+          "name": "ЭКО за 99 000 рублей",
+          "descslider": "В клинике «Источник» можно пройти процедуру ЭКО за 99 000 рублей",
+          "PriceSlider": "99000",
+          "datastart": "2025-01-01",
+          "dataend": "2026-12-31",
+          "links": "https://cispb.com/about/offer/eko-za-99-000-rublej",
+          "img": "Баннер-на-сайт-ЭКО-99-крио-49.png",
+          "imgMob": "ЭКО-99-крио-49-слайдер.png"
+        },
+        {
+          "MIGX_id": "37",
+          "name": "ЭКО по ОМС",
+          "descslider": "",
+          "PriceSlider": "",
+          "datastart": "2026-01-01",
+          "dataend": "2026-12-31",
+          "links": "https://cispb.com/katalog/eco_po_oms/",
+          "img": "Баннер-на-сайт-ЭКО-по-ОМС-города.png",
+          "imgMob": "ЭКО-по-ОМС-слайдер.png"
+        },
+        {
+          "MIGX_id": "19",
+          "name": "Приём гинеколога. Всё включено! = 8900 р.",
+          "descslider": "В клинике «Источник» приём гинеколога. Всё включено! = 8900 р.",
+          "PriceSlider": "8900",
+          "datastart": "2025-01-01",
+          "dataend": "2026-07-15",
+          "links": "https://cispb.com/about/novosti/prijom-ginekologa-vsjo-vkljucheno/",
+          "img": "Баннер-на-сайт-Гинеколог-январь-2026.png",
+          "imgMob": "Гинеколог-январь-2026-слайдер.png"
+        },
+        {
+          "MIGX_id": "42",
+          "name": "Маммолог с УЗИ за 8370",
+          "descslider": "",
+          "PriceSlider": "8370",
+          "datastart": "2026-03-23",
+          "dataend": "2026-07-19",
+          "links": "https://cispb.com/about/offer/priem-mammologa-uzi",
+          "img": "Баннер-на-сайт-мамо-март-2026.png",
+          "imgMob": "Маммо-март-2026-слайдер.png"
+        },
+        {
+          "MIGX_id": "39",
+          "name": "Скидка 10% на функциональную диагностику",
+          "descslider": "",
+          "PriceSlider": "",
+          "datastart": "2026-02-13",
+          "dataend": "2026-05-31",
+          "links": "https://cispb.com/about/offer/functional",
+          "img": "holterL.png",
+          "imgMob": "holterS.png"
+        },
+        {
+          "MIGX_id": "43",
+          "name": "Эндокринолог с УЗИ за 8190",
+          "descslider": "",
+          "PriceSlider": "8190",
+          "datastart": "2026-03-23",
+          "dataend": "2026-07-19",
+          "links": "https://cispb.com/about/offer/uzi-shhitovidnoj-zhelezyi-priyom-endokrinologa",
+          "img": "Баннер-на-сайт-Щито-март-2026.png",
+          "imgMob": "Щитовидка-март-2026-слайдер.png"
+        },
+        {
+          "MIGX_id": "8",
+          "name": "УЗИ на любом сроке беременности",
+          "descslider": "В клинике «Источник» УЗИ на любом сроке беременности ",
+          "PriceSlider": "0",
+          "datastart": "2025-01-01",
+          "dataend": "2026-12-31",
+          "links": "/katalog/uzi-pri-beremennosti/",
+          "img": "slider/Баннер-на-сайт-скрининг-для-беременных-NEW-2024.webp",
+          "imgMob": "slider/Слайдер-скрининг-сентябрь-24.webp"
+        },
+        {
+          "MIGX_id": "38",
+          "name": "Кабинет головной боли",
+          "descslider": "",
+          "PriceSlider": "",
+          "datastart": "2026-02-12",
+          "dataend": "2026-12-31",
+          "links": "https://cispb.com/katalog/nevrologiya/kabinet-lecheniya-golovnoj-boli/",
+          "img": "headache2.png",
+          "imgMob": "Всё-в-голове-слайдер.png"
+        },
+        {
+          "MIGX_id": "35",
+          "name": "Подарочные сертификаты онлайн",
+          "descslider": "В клинике «Источник» ",
+          "PriceSlider": "4500",
+          "datastart": "2025-01-01",
+          "dataend": "2026-12-31",
+          "links": "https://cispb.com/podarochnyj-sertifikat",
+          "img": "siteknit.png",
+          "imgMob": "sliderknit.png"
+        }
+      ],
+      "title": "Клиника «Источник» в Санкт-Петербурге – официальный сайт",
+      "uslugiVideoImg": "video/video.jpg",
+      "uslugiVideoLink": "https://youtu.be/t1i7AtdnCTY",
+      "uslugiVideoName": "Давайте знакомиться",
+      "uslugiVideoText": "<p>Клиника «Источник» — это место, где многолетний опыт ведущих врачей города сочетается с прогрессиными современными технология последнего поколения.</p>\r\n<p>И это не единственное удачное сочетание в нашей клинике! Мы собрали команду сотрудников, готовых в любой момент прийти на помощь друг другу и нашим пациентам. Именно поэтому все вопросы мы решаем быстро и убеждаемся, что вы действительно довольны нашей работой.</p>",
+      "uslugPre": [
+        {
+          "MIGX_id": "1",
+          "img": "uslugi/pre/1.jpg",
+          "name": "Заботливый персонал",
+          "text": "<p>Наши сотрудники понимают, что, приходя в клинику многие пациенты могут испытывать дискомфорт, боли или другие неудобства. Поэтому мы всегда стараемся сделать ваше пребывание у нас максимально комфортным и приятным. Прислушиваемся к каждым вашим пожеланиям и воплощаем их в жизнь.</p>"
+        },
+        {
+          "MIGX_id": "2",
+          "img": "uslugi/pre/2.jpg",
+          "name": "Максимальная точность диагностики",
+          "text": "<p>Клиника оснащена новейшим медицинским оборудованием, которое регулярно обновляется. В «Источнике» есть аппараты, представленные в единичном экземпляре во всей области. Наши специалисты в совершенстве освоили все оборудование клиники и уверенно им пользуются. Также мы регулярно посещаем специализированные медицинские выставки, чтобы всегда быть в курсе последних тенденций в мире медицины, чтобы ваши любимые дети всегда были здоровы.</p>"
+        },
+        {
+          "MIGX_id": "3",
+          "img": "uslugi/pre/3.jpg",
+          "name": "Только необходимые обследования и назначения",
+          "text": "<p>На первом месте – лечение пациента, а не коммерческий интерес клиники. У наших докторов нет мотивации отправлять пациентов на ненужные консультации или анализы.</p>"
+        },
+        {
+          "MIGX_id": "4",
+          "img": "uslugi/pre/4.jpg",
+          "name": "Высокий уровень сервиса",
+          "text": "<p>У нас каждая деталь создана для вашего комфорта. Наши приветливые и участливые администраторы с удовольствием предложат вам чашечку ароматного кофе и поддержат непринужденную беседу.</p>"
+        },
+        {
+          "MIGX_id": "5",
+          "img": "uslugi/pre/5.jpg",
+          "name": "Команда врачей-профессионалов",
+          "text": "<p>Каждый врач, работающий в нашей клинике, является ведущим специалистом в своей области. Кроме того, мы всегда поддерживаем дружественную атмосферу в коллективе, что способствует отлаженной и быстрой работе смежных специалистов. Ведь при таком подходе справиться с трудными клиническими случаями намного проще.</p>"
+        },
+        {
+          "MIGX_id": "6",
+          "img": "uslugi/pre/6.jpg",
+          "name": "Новейшее оборудование",
+          "text": "<p>Клиника оснащена новейшим медицинским оборудованием, которое регулярно обновляется. В «Источнике» есть аппараты, которые представлены в единичном экземпляре во всей области. Наши специалисты в совершенстве освоили все оборудование клиники и уверенно им пользуются. Также мы регулярно посещаем специализированные медицинские выставки, чтобы всегда быть в курсе последних тенденций в мире медицины.</p>"
+        },
+        {
+          "MIGX_id": "7",
+          "img": "uslugi/pre/7.jpg",
+          "name": "Передовое европейское оборудование",
+          "text": "<p>Антивибрационные столы и микроманипуляторы последнего поколения помогают проводить оплодотворение яйцеклеток бережно и точно. Так мы сохраняем структуру их оболочки и повышаем выживаемость. Инкубаторы, в которых развиваются эмбрионы, защищают их от воздействия внешней среды и работают без перебоя и вне зависимости от подачи электричества в городе. Поэтому никакие внешние факторы не помешают нам успешно провести процедуру.</p>"
+        },
+        {
+          "MIGX_id": "8",
+          "img": "uslugi/pre/8.jpg",
+          "name": "Сделать УЗИ можно сразу на приеме",
+          "text": "<p>Каждый кабинет гинеколога оснащен современным аппаратом УЗИ, чтобы при необходимости сделать ультразвуковое исследование сразу во время приема.</p>"
+        },
+        {
+          "MIGX_id": "9",
+          "img": "uslugi/pre/9.jpg",
+          "name": "Все виды мед. помощи от приема до лечения",
+          "text": "<p>Клиника оснащена всем необходимым, чтобы оказывать комплексную медицинскую помощь.</p>"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "pagetitle": "Контакты",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "kontaktyi",
+    "uri": "kontakty/",
+    "parent": 0,
+    "template": 5,
+    "menuindex": 23,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1651751141,
+    "editedon": 1762777911,
+    "publishedon": 1651751100,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "branchCoord": "59.956998, 30.353067",
+      "branchCoordText": "ПН - ПТ - 8:00 - 21:00\r\nСБ, ВС - 9:00 - 18:00",
+      "branchImg": [
+        {
+          "MIGX_id": "1",
+          "img": "contact/5558_Thumb.jpeg",
+          "Alt": "Клиника Источник"
+        },
+        {
+          "MIGX_id": "2",
+          "img": "contact/5556_Thumb.jpeg",
+          "Alt": "Клиника Источник"
+        },
+        {
+          "MIGX_id": "3",
+          "img": "contact/5560_Thumb.jpeg",
+          "Alt": "Клиника Источник"
+        }
+      ],
+      "branchName": "Отделение ВРТ",
+      "branchText": "<p>Санкт-Петербург, Финский пер., 4 (м. «Площадь Ленина»)</p>\r\n<p><strong><a href=\"tel:[[++phone:tel]]\" itemprop=\"telephone\">[[++phone]]</a></strong></p>\r\n<p>ПН - ПТ - 8:00 - 20:00<br />СБ - 09:00 - 15:00 ВС - выходной</p>\r\n<p><a href=\"mailto:info@cispb.com\" itemprop=\"email\">info@cispb.com</a></p>",
+      "des": "Время работы. ПН - ПТ - 8:00 - 21:00, СБ,ВС - 9:00 - 18:00 \r\nАдрес: Санкт-Петербург, Финский пер., 4 (м. «Площадь Ленина»)",
+      "dzen_new": " https://dzen.ru/id/606c2c4ed47eba36e1f64727 ",
+      "polyclinicCoord": "59.956998, 30.353067",
+      "polyclinicCoordText": "Санкт-Петербург, Финский пер., 4 (м. «Площадь Ленина»)\r\n\r\nПН - ПТ - 8:00 - 21:00\r\nСБ, ВС - 9:00 - 18:00",
+      "polyclinicImg": [
+        {
+          "MIGX_id": "11",
+          "img": "5ef97e11f4c6926e9026ee1c_5fa8dcc3748a1.jpg",
+          "Alt": "Вход в клинику"
+        },
+        {
+          "MIGX_id": "9",
+          "img": "photo_2022-12-06_12-18-11.jpg",
+          "Alt": "Клиника Источник"
+        },
+        {
+          "MIGX_id": "2",
+          "img": "contact/FullSizeRender-1.jpg",
+          "Alt": "Клиника Источник"
+        },
+        {
+          "MIGX_id": "10",
+          "img": "klinika.jpg",
+          "Alt": "Клиника Источник"
+        }
+      ],
+      "polyclinicName": "Поликлиника",
+      "polyclinicText": "<p><span>Санкт-Петербург, Финский пер., 4 (м. «Площадь Ленина»)</span></p>\r\n<p><strong><a href=\"tel:[[++phone:tel]]\" itemprop=\"telephone\"><span class=\"callibri_phone01\" data-phone=\"[[++phone:tel]]\">[[++phone]]</span></a></strong></p>\r\n<p><span> ПН - ПТ - 8:00 - 21:00<br /> СБ, ВС - 9:00 - 18:00<br /></span></p>\r\n<p><a class=\"js-goal-link inner__email-link\" href=\"mailto:[[++email]]\" itemprop=\"email\">[[++email]]</a></p>",
+      "title": "Финский переулок, дом 4. Телефон +7 (812) 317-78-78"
+    }
+  },
+  {
+    "id": 209,
+    "pagetitle": "Отзывы",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "otzyivyi",
+    "uri": "otzyvy/",
+    "parent": 2,
+    "template": 9,
+    "menuindex": 10,
+    "isfolder": 1,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1654522603,
+    "editedon": 1720440492,
+    "publishedon": 1654522560,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Читайте отзывы клиентов о работе наших врачей и административного персонала клиники Источник!",
+      "title": "Отзывы о работе клиники Источник и ее сотрудников"
+    }
+  },
+  {
+    "id": 210,
+    "pagetitle": "System",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "system",
+    "uri": "system/",
+    "parent": 0,
+    "template": 0,
+    "menuindex": 15,
+    "isfolder": 1,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1654527597,
+    "editedon": 1654527603,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 211,
+    "pagetitle": "Страница не найдена",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "stranicza-ne-najdena",
+    "uri": "system/stranicza-ne-najdena",
+    "parent": 210,
+    "template": 14,
+    "menuindex": 0,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1654527647,
+    "editedon": 1755778059,
+    "publishedon": 1654527600,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Эта страница была удалена или никогда не существовала. Попробуйте вернуться назад или перейти на главную страницу сайта.",
+      "textContent": "<div class=\"page404__introtext\">\r\n<p>Эта страница была удалена или никогда не существовала.<br />Попробуйте вернуться назад или перейти на</p>\r\n</div>\r\n<p><a class=\"page404__link\" href=\"http://cispb.xusnut.ru/\">главную страницу сайта</a></p>\r\n<p></p>",
+      "title": "Страница не найдена"
+    }
+  },
+  {
+    "id": 219,
+    "pagetitle": "Other",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "other",
+    "uri": "sotrudniki/other",
+    "parent": 21,
+    "template": 0,
+    "menuindex": 6,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 1,
+    "createdon": 1654606434,
+    "editedon": 0,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 378,
+    "pagetitle": "sitemap.xml",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "sitemap",
+    "uri": "sitemap.xml",
+    "parent": 210,
+    "template": 10,
+    "menuindex": 5,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1669383931,
+    "editedon": 1700154321,
+    "publishedon": 1700154300,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<p>[[!pdoSitemap?<br /> &where=`{\"searchable\":1}`<br />]]</p>"
+    }
+  },
+  {
+    "id": 475,
+    "pagetitle": "English page",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "english-page",
+    "uri": "english-page",
+    "parent": 0,
+    "template": 11,
+    "menuindex": 16,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1683820848,
+    "editedon": 1701087741,
+    "publishedon": 1683820800,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "English page на сайте | Клиника Источник",
+      "english page": "<p>Hello! This is test </p>",
+      "title": "English page | Клиника Источник"
+    }
+  },
+  {
+    "id": 480,
+    "pagetitle": "Спасибо за ваше обращение в нашу клинику!",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "stranicza-blagodarnosti",
+    "uri": "stranicza-blagodarnosti",
+    "parent": 0,
+    "template": 30,
+    "menuindex": 18,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1686083858,
+    "editedon": 1769182462,
+    "publishedon": 1686083820,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<p><strong><a href=\"assets/manager/documenty/Журнал Юбилей лёгкий.pdf\" target=\"_blank\"><span color=\"#3f7dc0\" style=\"color: #3f7dc0;\">Дарим вам юбилейный выпуск </span><span color=\"#3f7dc0\" style=\"color: #3f7dc0;\">журнала \"Источник здоровья\"  в формате PDF. </span></a></strong></p>\r\n<p>В журнале вы узнаете:</p>\r\n<ul>\r\n<li>обо всех направлениях помощи взрослым и детям в клиниках Петербурга и Челябинска</li>\r\n<li>о планировании беременности и ЭКО</li>\r\n<li>о том, что расскажут гены и в каких случаях делать преимплантационную генетическую диагностику эмбриона  </li>\r\n<li>о персонализированном подходе к каждой бесплодной паре и увеличении шансов на зачатие</li>\r\n<li>о ведении беременности и подготовке к родам</li>\r\n<li>о помощи онкологическим пациентам </li>\r\n<li>о той медицине, которой видим ее мы и хотим показать и дать ее нашим пациентам - индивидуальную, заботливую, комплексную и доказательную</li>\r\n<li>познакомитесь с нами ближе и увидите работу клиники и всех служб изнутри.</li>\r\n</ul>\r\n<p><strong><a href=\"assets/manager/documenty/Журнал Юбилей лёгкий.pdf\" target=\"_blank\">Скачивайте</a>, будет интересно!</strong></p>\r\n<p><img src=\"assets/manager/Золотые%20страницы.jpg\" width=\"450\" height=\"602\" /></p>"
+    }
+  },
+  {
+    "id": 552,
+    "pagetitle": "Заказать звонок",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "forma-obratnoj-svyazi",
+    "uri": "forma-obratnoj-svyazi",
+    "parent": 0,
+    "template": 16,
+    "menuindex": 21,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1710271642,
+    "editedon": 1711006808,
+    "publishedon": 1710271620,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 567,
+    "pagetitle": "Тестовая услуга",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "testovaya-usluga",
+    "uri": "testovaya-usluga",
+    "parent": 0,
+    "template": 18,
+    "menuindex": 17,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 1,
+    "createdon": 1713293075,
+    "editedon": 1713337934,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "dropdown-text-after": "<p>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</p>\r\n<p>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</p>\r\n<p>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</p>",
+      "dropdown-text-before": "<h2><span>Заголвоок Н2</span></h2>\r\n<p><span>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</span></p>\r\n<p><span> </span></p>\r\n<h3><span>Заголвоок Н3</span></h3>\r\n<ul>\r\n<li><span>чиастас</span></li>\r\n<li><span>птаивч</span></li>\r\n<li><span>ивчичви</span></li>\r\n</ul>\r\n<p><span><span>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</span></span></p>\r\n<p><span>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</span><span>При проведении УЗИ используются волны с частотой выше 20 кГц, которые не воспринимаются ухом человека. При помощи специального устройства сигнал направляется на исследуемый орган, после чего он отражается и ловится датчиком, который передает полученную информацию в компьютер. Там она обрабатывается и выводится на монитор в виде изображения в поперечном сечении. Современные методы позволяют получать объемное изображение.</span></p>",
+      "first_block_text": "<p><span>Эндоскопия — это медицинская процедура, при которой врач осматривает желудочно-кишечный тракт с помощью инструмента, называемого эндоскопом — длинной, тонкой, гибкой трубки с прикрепленной к ней крошечной камерой. Эндоскопия используется для многих обследований: гастроскопия используется специально для осмотра пищевода, желудка и первой части тонкой кишки (называемой двенадцатиперстной кишкой), колоноскопия - для исследования толстой и прямой кишки. </span></p>",
+      "first_block_title": "Заголовок первой колонки",
+      "second_block_text": "<p><span>Эндоскопия — это медицинская процедура, при которой врач осматривает желудочно-кишечный тракт с помощью инструмента, называемого эндоскопом — длинной, тонкой, гибкой трубки с прикрепленной к ней крошечной камерой. Эндоскопия используется для многих обследований: гастроскопия используется специально для осмотра пищевода, желудка и первой части тонкой кишки (называемой двенадцатиперстной кишкой), колоноскопия - для исследования толстой и прямой кишки. </span></p>",
+      "second_block_title": "Заголовок второй колонки"
+    }
+  },
+  {
+    "id": 580,
+    "pagetitle": "Онлайн-трансляция",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "online",
+    "uri": "online",
+    "parent": 0,
+    "template": 31,
+    "menuindex": 19,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1715928364,
+    "editedon": 1747382426,
+    "publishedon": 1715928360,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<div style=\"margin: 50px; font-size: 50px; line-height: 50px;\"><span style=\"font-weight: bold; text-transform: uppercase;\">V научно-практическая конференция с международным участием «Репродуктивная медицина: краеугольные вопросы» 17.05.2024</span> <br />\r\n<ul>\r\n<li><a href=\"https://disk.yandex.ru/d/jdlTFdkzwDilbA\">Фотографи</a></li>\r\n</ul>\r\nЗАПИСЬ ДОКЛАДОВ: <br />\r\n<ul>\r\n<li><a href=\"https://youtube.com/live/RGG_R06HTpU?feature=share\">Открытие, пленарное заседание, секция акушерства и гинекологии<br /><br /></a></li>\r\n<li><a href=\"https://youtube.com/live/yMKbX-j2Gms?feature=share\">Секция ВРТ</a></li>\r\n</ul>\r\n</div>"
+    }
+  },
+  {
+    "id": 609,
+    "pagetitle": "Цены",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "prices",
+    "uri": "prices/",
+    "parent": 0,
+    "template": 21,
+    "menuindex": 4,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1725459771,
+    "editedon": 1753872398,
+    "publishedon": 1725459720,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "des": "Полный прайс с ценами на услуги клиники Источник можно найти на нашем сайте | Записывайтесь на прием! Акции и скидки! Лечение и диагностика с опытными врачами | +7 (812) 317-78-78",
+      "title": "Цены на услуги клиники Источник — стоимость приема специалистов и процедур | Санкт-Петербург"
+    }
+  },
+  {
+    "id": 638,
+    "pagetitle": "Подарочные сертификаты",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "podarochnyj-sertifikat",
+    "uri": "podarochnyj-sertifikat",
+    "parent": 0,
+    "template": 22,
+    "menuindex": 22,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1734038670,
+    "editedon": 1774018546,
+    "publishedon": 1734038640,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "email_economist": "call-center@cispb.ru",
+      "gift_images": [
+        {
+          "MIGX_id": "1",
+          "image1": "podarochnaya-zhenshchiny4-1.png",
+          "image2": "podarochnaya-muzhchiny-1.png",
+          "image3": "Подарок-для-здоровья (1).png"
+        }
+      ],
+      "textContent": "<p class=\"justifyleft\"> В клинике «Источник» вы сможете выбрать идеальную программу заботы: персональный чек-ап, комплексную  программу здоровья или универсальный вариант – подарочный сертификат на любую сумму. Порадуйте любимых заботой о здоровье и получите искренние благодарности!</p>"
+    }
+  },
+  {
+    "id": 656,
+    "pagetitle": "Блог",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "blog-test",
+    "uri": "blog-test/",
+    "parent": 0,
+    "template": 27,
+    "menuindex": 24,
+    "isfolder": 1,
+    "published": 0,
+    "deleted": 0,
+    "createdon": 1739972900,
+    "editedon": 1741190850,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "HitsPage": "12"
+    }
+  },
+  {
+    "id": 667,
+    "pagetitle": "Страница с ценами",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "stranicza-s-czenami",
+    "uri": "blog-test/stranicza-s-czenami",
+    "parent": 656,
+    "template": 28,
+    "menuindex": 0,
+    "isfolder": 0,
+    "published": 0,
+    "deleted": 1,
+    "createdon": 1741196775,
+    "editedon": 1741196818,
+    "publishedon": 0,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "blogArticles": [
+        {
+          "MIGX_id": "1",
+          "article": "661 Причины мужского бесплодия 5    ",
+          "article_ro": "",
+          "_this.value": "661 Причины мужского бесплодия 5   "
+        },
+        {
+          "MIGX_id": "2",
+          "article": "664 Причины мужского бесплодия 8   ",
+          "article_ro": "",
+          "_this.value": "664 Причины мужского бесплодия 8  "
+        },
+        {
+          "MIGX_id": "3",
+          "article": "660 Первое УЗИ при беременности: когда и на каких сроках делают? ",
+          "article_ro": "",
+          "_this.value": "660 Первое УЗИ при беременности: когда и на каких сроках делают?"
+        },
+        {
+          "MIGX_id": "4",
+          "article": "659 Как сдавать спермограмму правильно: полный гид",
+          "article_ro": "",
+          "_this.value": "659"
+        }
+      ],
+      "blogAuthor": "625",
+      "blogBlocks": [
+        {
+          "MIGX_id": "2",
+          "type": "blogImageFullwidth",
+          "hideTopMargin": "",
+          "title": "текст превью",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<p>Мужское бесплодие – серьезная проблема, но не безнадежная. В этой статье мы рассмотрим все возможные причины, от скрытых инфекций до гормональных нарушений, и расскажем, как можно повысить шансы на отцовство.</p>",
+          "image": "blog/blog_preview1.png",
+          "imageMobile": "blog/blog_1_mobile.png",
+          "imageCaption": "Маленькая подпись под фото"
+        },
+        {
+          "MIGX_id": "4",
+          "type": "blogText",
+          "hideTopMargin": "",
+          "title": "Нарушения спермы",
+          "hideTitle": "",
+          "caption": "Нарушения спермы",
+          "text": "<h3>Недостаточно сперматозоидов</h3>\n<p>Недостаточное количество сперматозоидов, или олигоспермия, является одной из наиболее распространенных причин <a href=\"katalog/diagnostika_i_lecenie_muzskogo_besplodia/\">мужского бесплодия</a>. Она характеризуется низкой концентрацией сперматозоидов в эякуляте, что снижает вероятность оплодотворения яйцеклетки. Для диагностики олигоспермии используется спермограмма, которая оценивает различные параметры спермы, включая количество, подвижность и морфологию сперматозоидов. Конкретное значение, определяющее олигоспермию, может варьироваться в зависимости от лаборатории, но обычно речь идет о концентрации сперматозоидов ниже 15 миллионов на миллилитр.</p>\n<p>Существует множество причин, способствующих развитию олигоспермии:</p>\n<p>Факторы, влияющие на образование сперматозоидов:</p>\n<ul>\n<li>Генетические нарушения: Генетические мутации могут влиять на процесс сперматогенеза (образование сперматозоидов) на разных уровнях, приводя к недостаточному количеству или некачественным сперматозоидам. К таким нарушениям относятся, например, синдром Клайнфельтера, делеции в Y-хромосоме и другие генетические аномалии.</li>\n<li>Гормональный дисбаланс: Недостаток тестостерона или других гормонов, регулирующих сперматогенез (например, ФСГ и ЛГ), может значительно снизить выработку сперматозоидов. Это может быть связано с проблемами гипоталамуса, гипофиза или самих яичек.</li>\n<li>Инфекции: Воспалительные заболевания, такие как орхит (воспаление яичка), эпидидимит (воспаление придатка яичка) или простатит (воспаление предстательной железы), могут повреждать ткани яичек и нарушать сперматогенез. Венерические инфекции также могут играть роль.</li>\n<li>Варикоцеле: Расширение вен семенного канатика, часто встречающееся у мужчин с бесплодием. Повышенная температура в мошонке, вызванная варикоцеле, отрицательно влияет на процесс сперматогенеза.</li>\n<li>Крипторхизм: Неопущение яичка в мошонку. Повышенная температура в брюшной полости препятствует нормальному развитию яичка и сперматогенезу.</li>\n<li>Воздействие токсических веществ: Курение, употребление алкоголя, наркотиков, а также профессиональное воздействие некоторых химических веществ (пестициды, тяжелые металлы) могут токсически влиять на яички и снижать продукцию сперматозоидов.</li>\n<li>Облучение: Воздействие радиации, включая лучевую терапию, может повредить ДНК сперматозоидов и снизить их количество.</li>\n<li>Автоиммунные заболевания: В редких случаях иммунная система может атаковать собственные сперматозоиды, снижая их количество.</li>\n<li>Лекарственные препараты: Некоторые лекарства, такие как цитостатики, некоторые антибиотики и гормональные препараты, могут иметь побочный эффект в виде снижения количества сперматозоидов.</li>\n<li>Ожирение: Избыточный вес связан с гормональными нарушениями, которые могут отрицательно сказываться на сперматогенезе.</li>\n<li>Стресс: Хронический стресс может влиять на гормональный фон и снижать качество спермы.</li>\n<li>Возраст: Качество и количество спермы ухудшаются с возрастом.</li>\n</ul>\n<p>Недостаточная подвижность сперматозоидов, или астенозооспермия, является распространенной причиной мужского бесплодия. Она характеризуется снижением способности сперматозоидов эффективно перемещаться в женских половых путях, что необходимо для достижения яйцеклетки и ее оплодотворения. В отличие от олигоспермии (недостаточного количества сперматозоидов), при астенозооспермии количество сперматозоидов может быть нормальным, но их подвижность значительно снижена. Это определяется при спермограмме, которая оценивает как процент подвижных сперматозоидов, так и их качество движения.</p>"
+        },
+        {
+          "MIGX_id": "9",
+          "type": "blogIndications",
+          "hideTopMargin": "",
+          "title": "Показания и противопоказания",
+          "hideTitle": "Y",
+          "caption": "Показания и противопоказания",
+          "indicationsTitle": "Показания",
+          "indications": "<p>Затрудненное движение сперматозоидов по семявыносящим протокам, часто связанное с нарушениями эякуляции, является серьезной причиной мужского бесплодия. В норме зрелые сперматозоиды, образованные в яичках, проходят по сложной сети протоков, включая придатки яичек, семявыносящие протоки и семенные пузырьки, прежде чем попасть в уретру и выделиться во время эякуляции. Любое препятствие или нарушение в этом процессе может привести к тому, что сперматозоиды не достигают эякулята или их количество в нем существенно уменьшается. Это может проявляться как полное отсутствие спермы в эякуляте (азооспермия) или как снижение ее количества и качества (олигозооспермия, астенозооспермия).</p>",
+          "contraindicationsTitle": "Противопоказания",
+          "contraindications": "<p>Затрудненное движение сперматозоидов по семявыносящим протокам, часто связанное с нарушениями эякуляции, является серьезной причиной мужского бесплодия. В норме зрелые сперматозоиды, образованные в яичках, проходят по сложной сети протоков, включая придатки яичек, семявыносящие протоки и семенные пузырьки, прежде чем попасть в уретру и выделиться во время эякуляции. Любое препятствие или нарушение в этом процессе может привести к тому, что сперматозоиды не достигают эякулята или их количество в нем существенно уменьшается. Это может проявляться как полное отсутствие спермы в эякуляте (азооспермия) или как снижение ее количества и качества (олигозооспермия, астенозооспермия).</p>"
+        },
+        {
+          "MIGX_id": "5",
+          "type": "blogImageRight",
+          "hideTopMargin": "",
+          "title": "Недостаточно подвижные сперматозоиды",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<h3>Недостаточно подвижные сперматозоиды</h3>\n<p>Причины астенозооспермии многообразны и могут быть связаны с различными факторами:</p>\n<p>Факторы, влияющие на подвижность сперматозоидов:</p>\n<ul>\n<li>Генетические нарушения: Генетические дефекты могут влиять на структуру и функцию жгутика сперматозоида, ответственного за его движение. Это может приводить к снижению подвижности или полной неподвижности.</li>\n<li>Инфекции: Воспалительные процессы в мочеполовой системе (орхит, эпидидимит, простатит) могут вызывать повреждение тканей яичек и придатка яичка, что негативно сказывается на качестве сперматозоидов и их подвижности. Инфекции могут также приводить к образованию антител, которые повреждают сперматозоиды</li>\n</ul>",
+          "image": "blog/blog_2.png",
+          "imageMobile": "",
+          "imageCaption": "подпись"
+        },
+        {
+          "MIGX_id": "6",
+          "type": "blogText",
+          "hideTopMargin": "",
+          "title": "Варикоцеле: Как и при олигоспермии",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<ul>\n<li>Варикоцеле: Как и при олигоспермии, расширение вен семенного канатика повышает температуру в мошонке, что повреждает сперматозоиды и снижает их подвижность.</li>\n<li>Облучение: Воздействие радиации может повредить ДНК сперматозоидов и нарушить их движение.</li>\n<li>Воздействие токсических веществ: Курение, алкоголь, наркотики и воздействие определенных химических веществ токсично влияют на сперматогенез и подвижность сперматозоидов.</li>\n<li>Гормональный дисбаланс: Недостаток тестостерона или других гормонов может привести к нарушению созревания сперматозоидов и снижению их подвижности.</li>\n<li>Оксидативный стресс: Избыток свободных радикалов в сперме может повреждать ДНК и мембраны сперматозоидов, снижая их подвижность и жизнеспособность.</li>\n<li>Дефицит микроэлементов: Недостаток цинка, селена и других важных микроэлементов может ухудшать качество спермы и подвижность сперматозоидов.</li>\n<li>Ожирение: Как и при олигоспермии, ожирение связано с гормональными нарушениями, которые могут негативно сказываться на подвижности сперматозоидов.</li>\n<li>Возраст: С возрастом подвижность сперматозоидов обычно снижается.</li>\n<li>Перегрев яичек: Постоянное перегревание яичек, например, из-за ношения тесного белья или длительного пребывания в горячей ванне, может ухудшить подвижность сперматозоидов.</li>\n</ul>"
+        },
+        {
+          "MIGX_id": "7",
+          "type": "blogImageLeft",
+          "hideTopMargin": "",
+          "title": "Затруднено движение сперматозоидов ",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<h3 data-heading-tag=\"H3\">Затруднено движение сперматозоидов по семявыносящим протокам, нарушение эякуляции</h3>\n<p>Затрудненное движение сперматозоидов по семявыносящим протокам, часто связанное с нарушениями эякуляции, является серьезной причиной мужского бесплодия. В норме зрелые сперматозоиды, образованные в яичках, проходят по сложной сети протоков, включая придатки яичек, семявыносящие протоки и семенные пузырьки, прежде чем попасть в уретру и выделиться во время эякуляции. Любое препятствие или нарушение в этом процессе может привести к тому, что сперматозоиды не достигают эякулята или их количество в нем существенно уменьшается. Это может проявляться как полное отсутствие спермы в эякуляте (азооспермия) или как снижение ее количества и качества (олигозооспермия, астенозооспермия).</p>",
+          "image": "blog/blog_2.png",
+          "imageMobile": "",
+          "imageCaption": "подпись"
+        },
+        {
+          "MIGX_id": "8",
+          "type": "blogText",
+          "hideTopMargin": "",
+          "title": "Причины",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<p>Причины затрудненного движения сперматозоидов и нарушений эякуляции:</p>\n<ul>\n<li>\n<p>Обструкция семявыносящих путей: Это наиболее частая причина. Закупорка или сужение семявыносящих протоков может быть результатом:</p>\n<ul>\n<li>Врожденных аномалий: Аномалии развития семявыносящих путей могут быть выявлены еще при рождении или проявиться позже.</li>\n<li>Воспалительных заболеваний: Инфекции, такие как эпидидимит (воспаление придатка яичка) или простатит (воспаление предстательной железы), могут вызывать рубцевание и закупорку протоков. Также могут быть затронуты другие инфекции, передающиеся половым путем (ИППП).</li>\n<li>Травмы: Травмы мошонки или тазовой области могут повредить семявыносящие протоки и привести к их обструкции.</li>\n<li>Хирургические вмешательства: Ранее проведенные операции на органах мочеполовой системы (например, вазовазостомия, удаление кисты придатка) могут привести к непреднамеренному повреждению протоков.</li>\n<li>Клетки рака: Новообразования в области семявыносящих путей могут привести к их обструкции.</li>\n</ul>\n</li>\n<li>\n<p>Нарушения эякуляции: Эякуляция — это сложный нейромышечный процесс, зависящий от нормальной работы нервной системы и мышц. Нарушение эякуляции может быть вызвано:</p>\n<ul>\n<li>Нейропатией: Повреждение нервов, иннервирующих половые органы, может приводить к ретроградной эякуляции (обратному забросу спермы в мочевой пузырь) или анейякуляции (отсутствию эякуляции). Это может быть связано с диабетом, травмой позвоночника, хирургическими вмешательствами.</li>\n<li>Лекарственными препаратами: Некоторые лекарственные препараты могут вызывать нарушения эякуляции в качестве побочного эффекта.</li>\n<li>Психогенными факторами: Стресс, тревога и другие психологические проблемы могут влиять на эякуляцию.</li>\n<li>Анатомическими аномалиями: Аномалии строения уретры или других органов мочеполовой системы могут затруднять эякуляцию.</li>\n</ul>\n</li>\n</ul>\n<p>Мужское бесплодие может быть вызвано сочетанием трех факторов: низким количеством сперматозоидов, низкой подвижностью и аномальным строением. В некоторых случаях, например, при обструктивной азооспермии, сперматозоиды вообще отсутствуют в эякуляте из-за закупорки или врожденных аномалий семенных протоков. Это может быть следствием инфекций, операций на органах мочеполовой системы или травм.</p>"
+        },
+        {
+          "MIGX_id": "10",
+          "type": "blogTable",
+          "hideTopMargin": "",
+          "title": "Таблица",
+          "hideTitle": "Y",
+          "caption": "Частота встречаемости различных причин бесплодия",
+          "text": "",
+          "table": "<p><span>Частота встречаемости различных причин бесплодия</span></p>\n<table class=\"table\">\n<tbody>\n<tr>\n<td>Нарушение овуляции</td>\n<td>27%</td>\n</tr>\n<tr>\n<td>Мужские факторы</td>\n<td>25%</td>\n</tr>\n<tr>\n<td>Трубные факторы</td>\n<td>22%</td>\n</tr>\n<tr>\n<td>Эндометриоз</td>\n<td>5%</td>\n</tr>\n<tr>\n<td>Другие причины</td>\n<td>4%</td>\n</tr>\n<tr>\n<td>Неизвестной этиологии</td>\n<td>17%</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<table>\n<tbody>\n<tr><th>Код</th><th style=\"white-space: nowrap;\">Название</th></tr>\n<tr>\n<td><span>N97</span></td>\n<td><span>Женское бесплодие</span></td>\n</tr>\n<tr>\n<td><span>N97.0</span></td>\n<td><span>Женское бесплодие, связанное с отсутствием овуляции</span></td>\n</tr>\n<tr>\n<td><span>N97.1</span></td>\n<td><span>Женское бесплодие трубного происхождения</span></td>\n</tr>\n<tr>\n<td><span>N97.2</span></td>\n<td><span>Женское бесплодие маточного происхождения</span></td>\n</tr>\n<tr>\n<td><span>N97.3</span></td>\n<td><span>Женское бесплодие цервикального происхождения</span></td>\n</tr>\n<tr>\n<td><span>N97.9</span></td>\n<td><span>Женское бесплодие неуточненное</span></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p></p>"
+        },
+        {
+          "MIGX_id": "11",
+          "type": "blogImportant",
+          "hideTopMargin": "",
+          "title": "Важно!",
+          "hideTitle": "",
+          "caption": "",
+          "text": "<p>Гипогонадизм — это состояние, характеризующееся недостаточной функцией половых желез (яичек у мужчин и яичников у женщин), что приводит к снижению уровня половых гормонов и нарушению репродуктивной функции. У мужчин гипогонадизм проявляется снижением уровня тестостерона, что влияет на развитие вторичных половых признаков, либидо, эректильную функцию и сперматогенез (образование сперматозоидов), приводя к бесплодию.</p>"
+        },
+        {
+          "MIGX_id": "12",
+          "type": "blogImageRight",
+          "hideTopMargin": "",
+          "title": "Изображение справа",
+          "hideTitle": "Y",
+          "caption": "",
+          "text": "<p><span>Бесплодным</span><span> считается брак, в котором, несмотря на регулярную половую жизнь в течение года без применения каких-либо контрацептивных средств беременность не наступает, при условии, что супруги находятся в детородном возрасте.</span><br /><span>Время, необходимое для наступления беременности, увеличивается с возрастом; для женщин старше 35 лет консультации с акушером-гинекологом для обследования и лечения следует начинать после 6 месяцев безуспешных попыток естественного зачатия.</span></p>",
+          "image": "blog/blog_2.png",
+          "imageMobile": "",
+          "imageCaption": "подпись"
+        },
+        {
+          "MIGX_id": "13",
+          "type": "blogLinks",
+          "hideTopMargin": "",
+          "title": "Услуги которые мы оказываем",
+          "hideTitle": "",
+          "caption": "Услуги которые мы оказываем",
+          "pages": "[{\"MIGX_id\":\"1\",\"page\":\"48 \\u0423\\u0417\\u0418 \\u043f\\u0440\\u0438 \\u0431\\u0435\\u0440\\u0435\\u043c\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u0438  \",\"page_ro\":\"\",\"_this.value\":\"48 \\u0423\\u0417\\u0418 \\u043f\\u0440\\u0438 \\u0431\\u0435\\u0440\\u0435\\u043c\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u0438 \"},{\"MIGX_id\":\"2\",\"page\":\"36 \\u041d\\u0435\\u0432\\u0440\\u043e\\u043b\\u043e\\u0433\\u0438\\u044f \",\"page_ro\":\"\",\"_this.value\":\"36 \\u041d\\u0435\\u0432\\u0440\\u043e\\u043b\\u043e\\u0433\\u0438\\u044f\"}]"
+        },
+        {
+          "MIGX_id": "14",
+          "type": "blogFormQuestion",
+          "hideTopMargin": "",
+          "title": "Задать вопрос врачу",
+          "hideTitle": "Y",
+          "caption": ""
+        }
+      ],
+      "blogDate": "2025-03-05 10:30:00",
+      "blogDescription": "Мужское бесплодие — серьезная проблема, но не безнадежная. ",
+      "blogImage": "blog/blog_1.png",
+      "blogTags": [
+        {
+          "MIGX_id": "1",
+          "title": "Гинекология"
+        },
+        {
+          "MIGX_id": "2",
+          "title": "Бесплодие"
+        }
+      ],
+      "des": "Описание",
+      "HitsPage": "56",
+      "keyw": "Ключевые слова",
+      "title": "Заголовок"
+    }
+  },
+  {
+    "id": 716,
+    "pagetitle": "test-heder",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "test-header",
+    "uri": "test-header",
+    "parent": 0,
+    "template": 33,
+    "menuindex": 28,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1760018181,
+    "editedon": 1764321353,
+    "publishedon": 1760018160,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {}
+  },
+  {
+    "id": 731,
+    "pagetitle": "Спасибо за покупку сертификата!",
+    "longtitle": "",
+    "description": "",
+    "introtext": "",
+    "content": "",
+    "alias": "spasibo-za-pokupku-sertifikata",
+    "uri": "sertifikat-success",
+    "parent": 0,
+    "template": 30,
+    "menuindex": 18,
+    "isfolder": 0,
+    "published": 1,
+    "deleted": 0,
+    "createdon": 1765821440,
+    "editedon": 1765822011,
+    "publishedon": 1686083820,
+    "ms2_image": null,
+    "ms2_thumb": null,
+    "tvs": {
+      "textContent": "<p class=\"justifyleft\"></p>\r\n<p class=\"justifyleft\"></p>\r\n<p class=\"justifyleft\"></p>\r\n<h1 class=\"page__title\" style=\"text-align: center;\">Спасибо за покупку сертификата!</h1>\r\n<p style=\"text-align: center;\">Подарочный сертификат придет вам на почту (указанная почта) в течение 10 минут. Если в течение 10 минут сертификат не пришел на почту, то проверьте спам. Если спам пуст, но наберите номер <a href=\"tel:+78123177878\" style=\"color: #429a2e;\">+7 (812) 317-78-78</a></p>\r\n<p></p>\r\n<p></p>\r\n<p><a href=\"https://cispb.com/\" style=\"margin: 0 auto; display: flex; justify-content: center; align-items: center; max-width: 150px; background: #429A2E; padding: 5px; border: none; color: #fff; font-weight: 600;\">На главную</a></p>"
+    }
+  }
+]
